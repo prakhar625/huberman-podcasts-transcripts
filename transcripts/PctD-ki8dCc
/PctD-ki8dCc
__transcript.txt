@@ -1,0 +1,4060 @@
+- Welcome to the Huberman Lab Podcast,
+[upbeat music]
+where we discuss science,
+and science based tools for everyday life.
+I'm Andrew Huberman,
+and I'm a professor of
+neurobiology and ophthalmology,
+at Stanford School of Medicine.
+Today, my guest is Dr. David Spiegel.
+Dr. Spiegel is the associate
+chair of psychiatry,
+and behavioral neurosciences,
+at Stanford University School of Medicine.
+He is also the director,
+of the Stanford Center
+on Stress and Health.
+Dr. Spiegel is both a
+researcher and a clinician,
+meaning he runs a laboratory
+that studies the brain,
+and the body.
+And neural mechanisms of how
+the brain and body interact.
+And he sees patients as a
+psychiatrist at Stanford.
+His work is incredibly unique,
+in that it bridges mind and body,
+but it also has a particular focus
+on the clinical applications of hypnosis.
+As you'll learn today,
+hypnosis is a unique brain state,
+in which neuroplasticity,
+the brain's ability to change
+in response to experience,
+may be heightened and indeed
+the use of clinical hypnosis,
+by Dr. Spiegel and
+colleagues has been shown
+to improve symptoms of stress,
+chronic anxiety, chronic pain
+and various other illnesses,
+including many psychiatric illnesses
+and even outcomes in cancer.
+Today, we discuss hypnosis in
+the context of what's called,
+self-hypnosis to distinguish
+it from stage hypnosis.
+Many of you are probably
+familiar with stage hypnosis,
+which is really about a
+hypnotist getting a person
+to do things they would not otherwise do,
+in contrast, clinical hypnosis,
+and the use of hypnosis for the treatment
+of various ailments of mind
+and body is vastly different.
+It involves getting people
+to change their brain state
+and to use that brain state as a portal
+to make adjustments in
+their brain and body,
+and other aspects of their
+biology and psychology
+that benefit them.
+And it's been shown over and over again,
+in studies by Dr. Spiegel and colleagues
+that those changes can
+occur extremely quickly.
+Now, not everybody can be
+hypnotized as readily as the next.
+And so today we also
+discuss a simple test,
+developed by Dr. Spiegel.
+The it can help you determine,
+whether or not you have a
+high, medium or low degree,
+of what we call hypnotizability.
+Dr. Spiegel is truly
+an expert in this area.
+He has published over
+480 journal articles,
+170 book chapters on hypnosis,
+and on things like psychosocial oncology,
+which is the interaction of mind and body
+in the treatment of cancer
+and cancer outcomes,
+on stress physiology, trauma
+and other aspects of psychotherapy.
+He's published 13 books.
+So, he's truly the world expert
+in hypnosis and clinical
+applications of hypnosis
+for mind and body.
+I'm certain that in
+listening to today's episode,
+you're going to learn a tremendous amount
+about how the brain and body interact,
+about various treatments
+for all sorts of common
+ailments of mind and body.
+And you are going to get access to tools,
+in particular, a tool that
+was developed by Dr. Spiegel,
+which is the Reveri app, R-E-V-E-R-I,
+the Reveri app is currently
+only available for Apple,
+but will soon also be
+available for Android.
+It does carry a nominal cost,
+but there is a seven day free trial.
+If you'd like to try it,
+we're providing a link in the show notes.
+The Reveri app is special,
+in that it is based on clinical studies
+and research done in the
+Spiegel lab at Stanford.
+So, unlike a lot of
+hypnosis apps out there
+and resources for hypnosis,
+it was developed with
+clinical treatments in mind.
+Today, we also discuss
+the use of breathwork
+and I'm very fortunate that
+my research lab at Stanford,
+has been collaborating very
+closely with Dr. Spiegel
+in testing and developing
+specific breathwork protocols
+to adjust mind and body
+for things like anxiety,
+improving mood and improving sleep.
+Based on his incredible
+and unique expertise,
+and the clarity with which,
+Dr. Spiegel communicates information.
+I anticipate that you will
+really enjoy today's episode
+and that you'll come away from it,
+with a lot of actionable tools.
+Some of you might be curious,
+what a clinical hypnosis
+session looks like.
+And for that reason, we had
+Dr. Spiegel hypnotize me.
+A clip of that hypnosis session,
+is going to be posted to the
+Huberman Lab Clips channel,
+which is available on YouTube.
+Before we begin, I'd like to
+emphasize that this podcast
+is separate from my teaching
+and research roles at Stanford.
+It is however, part of
+my desire and effort
+to bring zero cost to consumer
+information about science
+and science related tools
+to the general public,
+in keeping with that theme,
+I'd like to thank the
+sponsors of today's podcast.
+Our first sponsor is Athletic Greens.
+Athletic Greens is an all-in-one,
+vitamin, mineral, probiotic drink.
+I've been taking Athletic
+Greens since 2012.
+So, I'm delighted that they're
+sponsoring the podcast.
+The reason I started
+taking Athletic Greens
+and the reason I still
+take Athletic Greens,
+once or twice a day,
+is that it covers all of my foundational,
+vitamin, mineral, probiotic needs.
+There is now ample evidence
+that probiotics can be very helpful
+for supporting what is
+called the gut microbiome.
+The gut microbiome is an
+aspect of our biology in which,
+little gut microbiota live all
+along our digestive pathway
+and help support various
+aspects of our biology,
+including our immune system,
+our metabolic system,
+our hormone or endocrine system,
+as well as what's called
+the gut brain access,
+which is literally
+communication between the gut
+and the brain to support things like mood,
+motivation and various other
+aspects of brain health.
+With Athletic Greens, I get the probiotics
+that I need to support
+a healthy gut microbiome
+and the vitamins and minerals tap off,
+any deficiencies I might have,
+based on lack of certain foods
+and lack of certain nutrients in my diet.
+If you'd like to try Athletic Greens,
+you can go to athleticgreens.com/huberman
+to claim a special offer.
+They give you five free travel packs,
+plus a year supply of vitamin D3 K2.
+There's a lot of evidence
+now that vitamin D3
+is critically important
+for various aspects
+of immediate and long term health.
+And while many people
+get enough vitamin D3,
+many people do not.
+So, the year supply of vitamin D3,
+ought to be very useful for many people,
+and K2 has been shown to be important for,
+calcium regulation, various
+aspects of metabolic health
+and so forth.
+So again, if you'd like
+to try Athletic Greens
+and get that special offer
+of the five free travel packs
+and a year supply of vitamin D3 K2,
+go to athleticgreens.com/huberman
+Today's episode is also
+brought to us by Thesis.
+Thesis makes custom nootropics,
+a nootropic is a smart drug.
+And personally, I'm not a big fan
+of the concept of a smart drug.
+At least not the way that
+most people talk about,
+smart drugs or nootropics,
+for the following reason,
+being smart involves various things.
+There is creativity, there's focus,
+there's task switching and so on.
+And each one of those
+involves different operations
+in the brain, different neural circuits,
+different neurochemicals
+have to be deployed,
+in order for us to, for
+instance, be very focused
+or for us to be very creative
+or for us to be able
+to switch tasks easily.
+Thesis understands this
+and for that reason,
+they've developed custom nootropics,
+that are aimed at getting
+your brain and body
+into particular states for
+particular types of work
+or physical activity.
+In order to accomplish that,
+they created unique blends
+of high quality ingredients.
+And each of those blends is designed
+to get your brain and body
+into a particular mode,
+such as focus, clarity or motivation.
+I've been using Thesis nootropics
+for over six months now.
+And I have to say it's
+been a total game changer
+and very unique from
+the experience of using,
+sort of what I call, catchall nootropics.
+So with Thesis, it's really directed
+toward particular brain-body states.
+I should also mention
+that they tailor those
+custom blends to you.
+So, by taking a quiz on their site,
+they will tailor the blend to
+you and your specific needs
+and the things you don't want.
+So, if you want to try your own,
+personalized nootropics starter kit,
+you can go online to
+takethesis.com/huberman
+you'll take a three minute quiz
+and thesis will send you
+four different formulas
+to try in your first month.
+And then based on the outcomes with those,
+they can update your formulations for you.
+That's takethesis.com/huberman
+and use the code Huberman at checkout,
+to get 10% off your first box.
+Today's episode is also
+brought to us by ROKA.
+ROKA makes eyeglasses and sunglasses
+that I believe are of the utmost quality.
+The company was found by,
+two All-American Swimmers from Stanford
+and everything about the design
+of ROKA eyeglasses and sunglasses,
+was created with performance in mind.
+There are a number of things about,
+ROKA sunglasses and eyeglasses
+that I particularly like,
+first of all, they're
+extremely lightweight.
+You basically forget
+that you're wearing them.
+Second of all, you can wear them for work,
+for going out to dinner, et cetera.
+They have great aesthetics,
+so you can wear them anywhere,
+but also for exercise.
+You can wear them when running or cycling,
+and even if you get sweaty,
+they're designed so that they
+don't slip off your face.
+Another terrific feature of
+ROKA eyeglasses and sunglasses,
+is that they were designed
+with the biology of the
+visual system in mind.
+We all have the experience
+of being in a shaded area
+and then going to a bright area,
+it takes some time for your
+eyes to adjust or to adapt.
+Many sunglasses make it hard to see
+as you move from one
+environment to the next
+and therefore, you have to take
+on and off your sunglasses,
+with ROKA sunglasses, you
+don't have to do that.
+You don't even notice the transitions
+between those bright areas
+and those dimer areas.
+So, you can wear them anywhere, anytime.
+And again, most of the time,
+you don't even realize
+that they're on your face.
+If you'd like to try ROKA
+eyeglasses and sunglasses,
+go to roka.com, that's roka.com
+and enter the code "huberman"
+to save 20% off your first order.
+Again, that's ROKA, roka.com
+and enter the code "huberman" at checkout.
+And now, for my discussion
+with Dr. David Spiegel,
+David, thank you so much for being here.
+- Andrew, my pleasure.
+- Can you tell us, what is hypnosis?
+- Hypnosis is a state of
+highly focused attention.
+It's something like looking
+through the telephoto lens
+of a camera in consciousness,
+what you see, you see with great detail,
+but devoid of context.
+If you've had the experience
+of getting so caught up in a good movie,
+that you forget you're watching a movie
+and a enter the imaginary world.
+You're part of the movie,
+not part of the audience,
+you're experiencing it,
+you're not evaluating it.
+That's a hypnotic like experience
+that many people have
+in their everyday lives.
+- So, is any experience
+that really draws us in,
+hypnotic in that sense?
+Or let me give a different example.
+If I'm watching a sports game
+and I'm really wrapped up in the game,
+but I'm also in touch with how
+it makes me feel in my body
+kind of registering the
+excitement or the anticipation.
+Is that a state of hypnosis also,
+because you mentioned there's kind of,
+a narrowing of context.
+- Right.
+- But a kind of losing of the self,
+or is it, do I have that right?
+- Yes, it is true that you're-
+[indistinct] to the extent
+that you're somatic,
+your body experience is
+a part of the sport event
+that you're engaged with.
+I'd say that is a self
+altering hypnotic experience.
+If your physical reactions
+are distracting you
+or make you think about something else,
+that's when it's less hypnotic like,
+and more, just one of a
+series of experiences.
+- Okay.
+So I have to ask,
+how did you get into this
+business of hypnosis?
+Because,
+I think for most people,
+when they hear hypnosis or
+they think about hypnosis,
+they think of stage hypnosis.
+- Right.
+- They think of somebody with
+a pendant going back and forth
+or people up on a stage,
+behaving abnormally for the
+entertainment of others.
+- Yeah.
+- How did you get into hypnosis
+as an interest, as a practice?
+And if you would,
+could you contrast the sort
+of hypnosis that you do
+in the clinical setting
+with a sort of hypnosis
+that a stage hypnotist does?
+- Sure.
+Well, it is something of a
+genetic illness in my family.
+Both of my parents were
+psychiatrists and psychoanalysts
+and they told me I was free
+to be any kind of
+psychiatrist I wanted to be.
+So, here I am.
+My father was training to
+be a psychoanalyst in 1943.
+And,
+he ran into a Vietnamese refugee,
+who couldn't serve in the army,
+but who had studied hypnosis.
+And actually it would interest you,
+doing your ophthalmological research.
+He had a smallpox scar right
+in the middle of his forehead,
+and he did forensic examinations.
+And he noticed that some of the prisoners,
+would focus on that spot on his forehead
+and then close their eyes
+and seem to go to sleep.
+But they were in some altered state.
+So he got interested in hypnosis.
+He used it forensically
+and his name was Gustav von Aschaffenburg.
+And he offered to teach
+young psychiatrists,
+how to use hypnosis when
+they went off into the war.
+And so he trained my father
+and my got off the
+analytic couch and asked,
+the analyst mentioned it to him.
+That's how he found out about it.
+And my father said, did I say
+something wrong in analysis?
+Why is he talking to me [laughs] now?
+And he found it very
+useful in helping soldiers
+who had acute pain when they were wounded
+and helping people with conversion
+in post-traumatic stress disorders.
+And when he came back, he
+went back to his training,
+but he still was sort of interested in it.
+And he had his, one of his supervisors
+was Frieda Fromm-Reichmann,
+who was a very famous psychoanalyst.
+And he said that he had been
+told to stop doing hypnosis
+because it would ruin his
+reputation as an analyst.
+And she said to him,
+what are you so worried of
+about your reputation for?
+You're going to give a course
+at the institute in hypnosis,
+and I know you're going to do
+it because I'm going to take it.
+So he was teaching Frieda
+Fromm-Reichmann hypnosis,
+and he just kept doing it.
+And after a while,
+he discovered that he was
+getting better results
+with a few sessions of hypnosis
+than he was with daily
+psychoanalysis with his patients.
+And so he switched his practice.
+And so the dinner table conversations,
+were pretty interesting.
+And occasionally when he was
+making a movie of a patient,
+I would get to watch that.
+And so, when I went to medical school,
+I figured I'll take a course.
+[mumbles] Tom Hackett,
+who was a chair of psychiatry
+of mass general was teaching
+and it was a very interesting course.
+And the day that converted me was,
+I was doing my rotation at
+Children's Hospital in Boston.
+And the nurse is telling me,
+Spiegel, your next patient is an asthmatic
+in room 437 or something.
+And I'm just following,
+the sound of the wheezes down the hall.
+I go in the room, there's
+a 16 year old girl,
+knuckles white, bolt upright
+in bed, struggling for breath.
+You can hear the wheezing.
+She twice had subcutaneous
+epinephrine, didn't work.
+They were thinking
+about general anesthesia
+and starting her on steroids.
+And her mother's there crying.
+And I said, I don't know what else to do.
+So I said, you want to
+learn a breathing exercise?
+And she nods.
+And I got her hypnotized.
+And then I realized we
+hadn't gotten to asthma
+in the course yet.
+So, I made up something very complex.
+I said, each breath you
+take will be a little deeper
+and a little easier.
+And within five minutes,
+she's lying back in bed.
+Her knuckles aren't
+white, she's not wheezing.
+Her mother stopped crying.
+The nurse ran out of the room,
+and the intern, my intern comes to find me
+and I figured he is going to
+pat me on the back and say,
+nice job, Spiegel.
+He said, the nurse has filed a complaint
+with a nursing supervisor
+that you violated a
+Massachusetts law by hypnotizing,
+a minor without parental consent.
+And I thought, oh, that's nice.
+I doubt there is a law like this.
+So, the interns says,
+you're going to have to
+stop doing this with her.
+And I said, why?
+He said, it's dangerous.
+I said, you're going to
+give her general anesthesia
+and put her on steroids,
+and talking to her is dangerous?
+He said, well, you'll have to do it.
+And I said, I'll tell you what,
+take me off the case if you want,
+but I'm not going to
+tell a patient of mine,
+anything I know is not true.
+So, there was a battle over
+the weekend about what to do,
+and the intern, the chief
+resident, the attending,
+were all arguing about it.
+And on Monday they came
+back with a radical idea.
+They said, let's ask the patient.
+I don't think this has ever been done
+at children's [chuckles] hospital before.
+And she said, oh, I like this.
+She'd been hospitalized every month
+for three months in status asthmaticus,
+she did a one subsequent
+hospitalization but after that,
+went on to study to be
+a respiratory therapist.
+And I thought that anything,
+that can help a patient that much,
+violate a nonexistent Massachusetts law,
+frustrate the nursing supervisor,
+had to be worth looking into.
+So, I just kept doing it.
+I discovered that there were,
+all of my classmates in medical school,
+had just read the new issue
+of the New England Journal
+and had some new medication to suggest.
+And I would, you know,
+surgeons would say, look,
+if you can help this guy
+with his pain or his anxiety,
+anything above the neck,
+that's yours, do it, Spiegel.
+So, I was having fun and being able
+to learn how to help people
+in a way that just otherwise
+was not being done.
+And so, it got me thinking
+about the fact that,
+we're born with this brain
+but we don't have a user's manual for it.
+And we don't use it
+nearly as well as we can.
+And that's something your
+research is all about too.
+And so, I thought,
+I want to understand this better.
+And I want to see what we can do.
+Stage hypnotists drive me nuts.
+They make fools out of people.
+There was one.
+This is a case my father was involved.
+He got a call from, he was
+at Columbia, he got a call,
+Spiegel, you got to come see
+this woman, she's in the ER.
+And she's in some kind of weird
+upset state that happened.
+And it turned out she'd been on the show
+with a stage hypnotist who,
+and what they do by the way is,
+they cycle around, you know,
+The beginning of the show,
+they don't just grab somebody
+and say, we're doing this.
+They get a bunch of people up.
+They do what [indistinct] testing,
+to see if people-
+and they get the ones who
+are the most hypnotizable.
+So she was the one.
+And he said, there's now a
+little bird in your hand,
+and you're going to play with the bird.
+And she starts to cry and scream.
+And he just gets her off the stage,
+'cause it's very upsetting.
+And she's wandering around New York City
+in the middle of the night dissociated
+and brought to Columbia.
+And that's where my father saw her.
+She was still in a kind of
+uncomfortable trance like state.
+And it turned out,
+that she was the trophy
+wife of a very wealthy guy.
+And she felt like a bird in a gilded cage.
+And so to her,
+that image just triggered
+all of this sense of,
+dissatisfaction and discomfort,
+fear about her life.
+And he was able to get her
+reoriented and talk with her
+about what she was going to of her life.
+But I don't like stage hypnosis.
+You're making fools out of people
+and you're using the fact,
+and that's what scares
+people about hypnosis.
+They think you're losing control.
+You're gaining control.
+Self-hypnosis is a way of
+enhancing your control,
+over your mind and your body.
+It can work very well,
+but because it gives you a
+kind of cognitive flexibility,
+you're able to shift sets very easily.
+To give up judging and
+evaluating the way you usually do
+and see something from a
+different point of view.
+That's a great therapeutic opportunity,
+but if misused, it could be a danger too,
+and that's what scares people about it.
+It is that very ability to
+suspend critical judgment
+and just have an experience
+and see what happens.
+That can be a great
+therapeutic opportunity,
+but if somebody's misusing it,
+it can be a way to harm people.
+And there are plenty
+of examples of people,
+having fantasies imposed on them,
+that they come to think are realities.
+It's not unusual these days.
+So,
+it's an ability that,
+if people learn to
+recognize and understand it,
+can be a tremendous therapeutic tool.
+- I've been stage hypnotized
+and I've been clinically
+hypnotized many times
+through a self-hypnosis app.
+We'll talk about later.
+And then I know we have plans
+for you to hypnotize me today.
+You've done it once before.
+- Mm-hm.
+- [Andrew] And I'm very hypnotizable
+as we both know.
+- Right.
+- We'll talk about,
+how one can gauge their hypnotizability.
+- Sure.
+- But the stage hypnosis,
+was interesting.
+This was in college,
+they brought someone out to the dormitory
+and,
+I recall being one of the people
+that was selected.
+- Mm-hm.
+- And engaging in very
+bizarre behavior, right?
+It wasn't thoroughly embarrassing,
+but it was pretty embarrassing.
+And then being sent off the stage,
+and as I was exiting,
+suddenly screaming something out
+because he had planted a
+suggestion of some sort.
+- Ah, mm-hm.
+- And then I was told
+to look in my pocket and there was,
+like a, I think, a torn up dollar bill.
+There were a bunch of things
+that I have vague recollection of.
+- Mm-hm.
+But it raises set of questions
+that really boil down to,
+as a biologist, I always think that,
+there's no events in the
+brain, there are processes.
+And so hypnosis, we know has an induction.
+Then one is hypnotized, I imagine.
+And then it sounds like this woman
+and this example of the bird
+and being distraught in New York City,
+is a failure to exit the hypnotic state.
+Do we know what sorts of
+brain areas are active
+during the induction,
+let's call it the deep hypnosis
+and then what's shutting off
+or changing as people exit hypnosis.
+- Yes, we do, we've studied that.
+We've been very interested in that.
+And so, we did a study
+where we selected highly
+and non-hypnotizable people
+so we could do the comparison.
+And then hypnotize them in
+the functional MRI scanner.
+And we found three things
+characterized the entry
+into the hypnotic state.
+The first is turning down activity
+in the dorsal anterior cingulate cortex.
+So the DACC is in the central
+front-middle part of the brain
+as you well know.
+And it's part of what we
+call the salience network.
+It's a conflict detector.
+So if you're engaged in work
+and you hear a loud noise
+that you think might be a gunshot,
+that's your anterior
+cingulate cortex saying,
+hey, wait a minute,
+there's some potential danger over there.
+You better pay attention to it.
+So, it compares what you're doing
+with what else is going on
+and helps you decide what to do.
+And as you can imagine,
+turning down activity in that region,
+make it less likely that
+you'll be distracted
+and pulled out of whatever you're in.
+And in another study,
+we found that highly hypnotizable people,
+even without being hypnotized,
+have more functional
+connectivity between the DACC,
+the anterior cingulate cortex
+and the left dorsolateral
+prefrontal cortex.
+So, which is part of a key region
+in the executive control network.
+So, when you're engaging in tasks,
+you're enacting a plan,
+you're writing a paper, you're
+doing whatever you're doing.
+That's the prefrontal
+cortex who's doing that.
+And so, if that is coordinated,
+we found more functional connectivity.
+So, when one is up, the other's up
+and one is down, the other's down.
+That coordination implies
+that the brain is saying,
+okay, go ahead, I know what you're doing.
+Carry out that plan.
+And don't worry about other possibilities.
+So, two other things happen
+when people are hypnotized.
+One is that that DLPFC has
+higher functional connectivity
+with the insula.
+Another part of the salience network.
+It's a part of the
+mind-body control system,
+sensitive to what's happening in the body.
+It's part of the pain network as well,
+but it's also a region of the brain where,
+you can control things in your body
+that you wouldn't have think you could.
+For example, we did a study years ago,
+where we took people who
+were highly hypnotizable,
+hypnotized them and told them,
+we went on a imaginary culinary tour.
+So, they would eat their
+favorite foods and we found that,
+they increased their gastric
+acid secretion, like by 87%.
+So, their stomach was acting
+as though it was about to get,
+I mean, there was one woman,
+it was so vivid for her that
+halfway through, she said,
+let's stop, I'm full, [laughs]
+eating these imaginary-
+- Having never eaten-
+- Having never eaten anything-
+- Actual food?
+- No.
+- Incredible.
+- And then we got them
+to relax and think of
+anything but food or drink.
+And we got like a 40% decrease
+in gastric acid secretions.
+And that was DLPFC through the insula,
+telling the stomach you're getting food
+or you're not getting food.
+And even, we injected
+them with Pentagastrin,
+which triggers gastric acid release.
+And even then in the hypnosis condition,
+they had a 19% reduction in gastric acid.
+So, the brain has this amazing ability
+to control what's going on in the body
+in ways that we don't think
+we have ability to control.
+That's just one example.
+So, that's the DLPFC insula connection.
+The third thing that happens,
+and this relates to what
+you did on the stage,
+is you have inverse
+functional connectivity
+between the DLPFC and the
+posterior cingulate cortex.
+The posterior cingulate is part
+of the default mode network.
+It's in the back of the brain.
+And it's an area whose
+activity goes down for example,
+in meditators.
+And in meditation, you're
+supposed to be selfless.
+You're supposed to, [indistinct]
+self is an illusion,
+you're supposed to let it dissolve
+and just experience things.
+And when you're doing that,
+the posterior cingulate
+is decreasing in activity,
+the inverse connection is,
+I'm doing something
+but I'm not thinking about
+what it means for me.
+I may not even remember much of it.
+if I do, I don't care that much about it.
+And so, that is part of the dissociation
+that I occur with hypnosis.
+So, it's how you put things
+outside of conscious awareness,
+and don't worry about what it means.
+It also adds to cognitive flexibility.
+If you're thinking,
+well, people like me
+don't usually do this.
+That may inhibit you from,
+enacting a new form of
+psychotherapy for example,
+that you've never done before.
+But if you're having
+this decreased activity
+in the part of your brain that
+reflects on what it means,
+you're more likely to
+be cognitively flexible
+and willing to give it a try.
+And that's one of the
+therapeutic advantages
+of hypnosis as well.
+- Fascinating, and it's really,
+I'm going to embarrass
+you here a little bit.
+[David laughing]
+In the positive sense,
+your laboratory is really the one
+that's pioneered brain
+imaging of hypnotic states.
+And, it sounds like it,
+that's my understanding, is that correct?
+- Yeah, I mean, there are other people,
+who've done excellent research too.
+- Sure.
+Pierre Rainville in Montreal
+and several other people,
+but we're one of the leading labs
+in neuroimaging of hypnosis.
+- I have to ask about,
+attention deficit hyperactivity disorder.
+I get a lot of questions about this.
+And I think a lot of people just struggle
+with holding attention nowadays,
+because of interference
+with phones and devices.
+And of course, there is a lot of,
+clinically legitimate ADHD out there,
+but the way that you describe,
+- Sure.
+- the dorsal anterior cingulate
+and the salience network and
+this a conflict detector of,
+am I focusing on something or
+am I splitting my attention?
+How distractable am I?
+Seems to relate to some extent to activity
+in the anterior cingulate cortex.
+Do people with ADHD,
+display disruptions in
+elements of these networks
+and has hypnosis ever been used to,
+or self-hypnosis, I should be,
+to distinguish from stage hypnosis,
+clinical and self-hypnosis been used
+to enhance people's ability to focus
+and hold attention?
+Because that's such a built in component
+of the hypnotic state.
+- It's a great question.
+There's sort of two
+ways to think about it,
+in terms of enhancing focus, yes.
+It has been very helpful
+in teaching people
+to just prepare your mind
+to narrow in and focus on something.
+And when you're really
+engaged in reading something,
+or you're writing a pa-
+I mean, I'll have that,
+sometimes I'm thinking,
+oh God, I have to do
+this for another hour.
+Other times an hour will
+go by and I'll think,
+hey, great, because when you're in that,
+it feels game-like to you,
+you're just assembling
+the parts of the puzzle
+and putting 'em together.
+It's fun, you just get absorbed,
+that for me, that's a
+hypnotic like experience,
+when I'm having trouble,
+when I'm struggling,
+sometimes doing things like
+self-hypnosis can help.
+I'm not an expert on ADHD.
+My impression is that you're right,
+that these are people who
+are constantly distracted
+and rather rigid.
+The other part of it is
+they're easily distractable.
+They're very upset when
+they get distracted
+and they're rather rigid in
+what they want to attend to
+and what they can.
+I think, as a way of controlling this,
+distractibility, frankly.
+My guess is that many people with ADHD,
+would not be that hypnotizable,
+but I haven't studied it.
+So, it's possible that for
+some people with that disorder,
+training in self-hypnosis might help,
+but we'd have to see how
+hypnotizable they were
+and take it from there.
+- I want to return to some of
+the underlying neural networks
+and the clinical applications but,
+what sorts of things
+aside from the asthma,
+have you used hypnosis successfully for
+or have others used clinical hypnosis for?
+And are there any particular areas of,
+psychiatric challenges or
+illnesses, I guess they're called,
+that are particularly amenable
+to hypnotic treatment.
+- Yes, there are.
+Hypnosis is very good as a
+problem focused treatment.
+It's the oldest western
+conception of a psychotherapy,
+and it can be used for specific problems
+in a way that's very helpful.
+We found it very helpful
+for stress reduction.
+For helping people deal,
+we're all dealing with stress these days.
+And it's helpful, that mind-body
+connection is very helpful
+because part of the problem
+with stress is your perception.
+You mentioned earlier
+in a sort of good sense,
+you're at a football game or something,
+and you feel the physical reaction.
+That can be a reinforcing thing.
+Wow, this is exciting, let's do it.
+It can also be very distracting.
+So, you're worried about getting COVID
+or you're worried about,
+some other physical problem you have.
+And you notice it in your
+body, your body tenses up,
+you start to sweat.
+The sympathetic nervous system goes,
+your heart rate goes up.
+And when you notice that you think,
+oh God, this is really bad.
+And then you feel worse.
+So, it's like a snowball rolling downhill.
+And then you feel worse and
+then your body gets worse.
+Hypnosis can be very helpful
+in dissociating somatic reaction
+from psychological reactions.
+So, we teach people
+to imagine their body
+floating somewhere safe
+and comfortable like a bath, a lake,
+a hot tub or floating in space,
+and then picture the problem
+that's stressing them
+on an imaginary screen,
+with the rule, no matter
+what you see on the screen,
+you keep your body comfortable.
+So, at this point, you still
+can't control the stress,
+but you can control your
+physical reaction to it.
+And that starts you
+feeling more in control.
+At least there's one thing I can manage.
+And then you can use it to think through
+or visualize through
+one thing you might do
+about that stressor.
+So, hypnosis is very
+helpful in controlling
+mind-body interaction
+in relation to stress.
+It's very helpful for
+people to get to sleep.
+We're having a lot of fun with that.
+I'm getting emails from people who said,
+I haven't slept right in 15 years,
+and now for the first time,
+I'm listening to your app
+and I can sleep at night.
+So it's very helpful and again,
+if you wake up in the middle of the night,
+I tell people, don't look at the clock.
+That's an arousal cue.
+You'll wake up more,
+but picture whatever you're
+thinking about or worrying about
+on that imaginary screen
+while your body is floating.
+So, watch your own movie,
+but keep your body floating.
+And many people can use
+that to get back to sleep.
+- I've been using self-hypnosis
+for sleep for a long time.
+And now the Reveri app,
+and we'll talk about our
+relationship to the Reveri app
+and its uses.
+I find it incredibly useful
+for falling back asleep
+in the middle of the night.
+And it raises a question,
+I've found and I think I
+understand this correctly,
+that one can do self-hypnosis
+during the daytime.
+And then if there's an
+issue that comes up later,
+like, so for instance,
+do self-hypnosis for stress reduction,
+away from the stressful
+event to prepare one
+to deal with stress better.
+- Right.
+- Or do hypnosis for
+improving the return to sleep.
+And that can be done when you
+actually want to go to sleep.
+But it's kind of a training
+up of these networks,
+right?
+- That's right.
+- So, is there evidence that,
+these brain networks actually
+form stronger connections,
+when people do self-hypnosis over time?
+- Well, there's a rule in
+neurobiology as you know,
+that neurons that fire
+together wire together.
+- Our friend, Carla Shatz.
+- Yes, Carla-
+- Not Donald Hebb, by the way.
+[David laughing]
+I keep trying to,
+there's a widespread myth in the world
+that is unfortunately,
+all over the internet,
+which is that, fire together
+wire together was said by,
+this psychologist, Donald Hebb
+Donald Hebb did many important things,
+but it is the neurobiologist Carla Shatz-
+- That's exactly right.
+- Who,
+Yes, is at Stanford but was
+also at Berkeley and Harvard.
+So, also decent schools.
+- That's exactly right.
+- But is at Stanford, who said,
+fire together wire together.
+And so she deserves,
+- Right.
+- the credit for that statement.
+Yeah, so with repeated
+use of self-hypnosis,
+one could imagine that these
+networks are getting stronger.
+- I would think so.
+We don't have evidence of that yet,
+but long term potentiation
+provides a pathway
+and you've described them on
+your program, a number of times
+that allow for repeated
+activation of a network
+to actually build new
+connections that work.
+And at the least,
+even from a learning and
+memory point of view,
+memory is all a network of associations.
+That's how we remember things.
+And the example I'd like to give is,
+you go back to your grade school
+and you see these little tiny lockers
+and the size is all wrong.
+And you suddenly have a flood of memories
+that were obviously stored there,
+but you just didn't think of.
+So, context and association
+is what memory's about.
+If you start to acquire
+memories about a problem.
+So, one thing we use hypnosis for
+is treating phobias, for example.
+And the problem with
+people who have phobias,
+like airplane phobias
+or crossing a bridge or being up high,
+is that the more they avoid it the more,
+the only source of associations
+and memories is their fear.
+They don't have any
+good experiences with it
+'cause they avoid it.
+It's like get back on the horse
+after you fall off kind of thing.
+And with hypnosis,
+if you can start people able
+to manage their anxiety enough
+that they can have more, a
+wider array of experiences,
+they start to have a
+network of associations
+that isn't so negative
+and may even be positive.
+- So it's almost like
+a, sorry to interrupt,
+but I have to ask.
+- Sure
+- It's almost like a,
+exposure therapy done in the mind.
+- Yes.
+- It's always in the mind.
+I mean, even that exposure
+to, if I have a snake phobia,
+which I don't, I don't like snakes,
+but I don't think it qualifies
+as a full blown phobia.
+I think I have a healthy fear of snakes.
+- Yeah.
+- But if,
+let's say I had a snake phobia,
+the typical approach in, would be,
+cognitive behavioral approaches, right,
+would be to show a picture of a snake,
+then a rubber snake, then a real snake.
+Eventually the person is,
+- Yeah.
+- holding a boa constrictor
+or something like that.
+- [David] Right.
+- That's all in the mind
+because it's all translate
+into nervous system signals.
+But with hypnosis,
+sounds like you can give a
+number of positive experiences
+without having to use any props,
+without having bring any
+animals into the room.
+- Right, I-
+- Drive someone across
+the bridge, is that right?
+- Yes, I had a woman,
+who was a very successful business woman,
+high level in a corporation.
+I had a terrible dog phobia.
+And so I had her imagine that
+somebody brought in the dog
+to the room and I said,
+"what are you doing?"
+And you could see her getting tense.
+And she said, "Well, I'm waiting
+to see what the dog does."
+And I said, "If somebody
+who works for you,
+comes into your office,
+would you freeze and wait
+to see what they did?"
+And she said, "Of course not,
+I tell 'em what to do."
+[laughs] And I said, "Well, so
+you're immobilizing yourself,
+the power isn't with
+the dog it's with you,
+so, imagine what you
+might do to engage the dog
+and help control the situation."
+And she said, "Thanks."
+And this reminds me of,
+one of my favorite stories
+about hypnosis that,
+my father was seeing a woman
+who lived in Midtown Manhattan
+and had a horrible dog phobia.
+She'd dropped things, she'd
+spill coffee if she saw a dog.
+She would time her trips to the store,
+when she thought it was least likely
+that people would be walking dogs.
+- Now that wouldn't be
+possible, everyone in-
+- [laughs] Everyone in New York has a dog
+- It's like a fleet of French Bulldogs,
+- Right, exactly.
+- taking over New York City.
+- So, he taught her to
+think of dog as a friend,
+have a neighbor who had a dog,
+bring the dog over but
+hold the dog by the collar
+and make sure,
+and gradually she was able
+to stroke the dog and say,
+dog friend and distinguish
+between wild and tame animals.
+There are animals, you should
+be afraid of [murmurs].
+So, she seemed to be doing better.
+He called back about three months later
+and asked for her.
+"Well, who's calling?" the son said.
+And he said, "Dr. Spiegel."
+And the boy said, "That's weird."
+And my father said, "What's weird?"
+He said, "Spiegel's in heat."
+She had bought a dog,
+- I love it.
+- and named it, Spiegel.
+- I love it.
+- Talk about transference.
+- I love it.
+[David laughing]
+But it really speaks to the power of this.
+And it brings me back to this issue.
+So, what is different about,
+what your father did in
+that case with this woman,
+in terms of what happened in hypnosis
+that allowed her to go
+from being completely terrified of dogs
+to owning a dog and naming
+it after your father?
+Which I find amusing.
+- Yeah.
+- But that's different
+than just the two of them sitting down
+and talking about it, right?
+You know, in therapy,
+narrative is a huge component.
+- Right.
+- And in hypnosis narrative
+is a huge component.
+- Right.
+- So it must be that,
+the brain state is what
+is really different.
+Because we'll talk about
+trauma in a few minutes.
+But I think people who
+have trauma or phobias,
+certainly could have a
+conversation about it.
+Some of them might freeze up.
+Some of them might lose their
+articulation and so forth.
+But what is different about that state
+that combines with narrative,
+you think to allow these
+underlying neural networks
+to engage her to change?
+'Cause I find this so
+fascinating because we're a-
+Every attempt at dealing
+with stress or phobia
+in the clinical setting
+involves some discussion
+about what it is.
+- Yes.
+- But, here we're not talking about
+any medication being introduced,
+at least not in these
+particular circumstances.
+- Right.
+- So,
+I realize it's kind of an obvious question
+like, it has to be some
+difference in brain activity,
+but I find that to be incredible.
+The control variable
+there is the brain state.
+It's not, what's spoken.
+- You're raising a couple of
+very important issues, Andrew.
+We talked earlier about with
+systematic desensitization,
+where you sort of lay
+out a hierarchy of things
+and do it one at a time.
+I think of this as
+unsystematic desensitization,
+because you're changing mental states.
+And I think there's more and more evidence
+that mental state change itself
+has therapeutic potential.
+We're seeing that with
+ketamine treating depression,
+the dissociogenic drug.
+We know it every morning when we wake up,
+that problem, when you know,
+you made the mistake of reading
+a nasty email at 11:00 PM.
+You didn't know what to do.
+You wake up in the morning thinking,
+oh, that idiot, yeah,
+here's what I'm going to do.
+So, just changing mental state,
+itself has therapeutic potential.
+And I think we underestimate
+our ability to regulate
+and change responses to be cognitively,
+emotionally and somatically flexible.
+And so, we do things, you're right,
+that follow similar principles
+of facing a problem,
+seeing it from a different point of view.
+And you've done a really,
+a nice podcast on trauma and stress
+and how you have to expose yourself to it,
+not avoid it, as we talked about before.
+And then find some way to reconnect to it,
+to substitute something
+that can make you feel good,
+rather than bad,
+so that you activate
+other centers of the brain
+like mesolimbic reward system.
+And so, I that with hypnosis
+and you can do it much faster.
+People don't think they can but they can.
+If you are having, right now
+that physical experience,
+I'm thinking about this
+but I'm not feeling as bad as I used to.
+That can be a powerful thing
+and you can do it with hypnosis.
+So, a woman came to see me,
+who had suffered an attempted rape.
+It was getting dark,
+she was coming back from the grocery store
+and this guy grabs her
+and wants to get her
+up into her apartment.
+It's outside her apartment.
+And she starts fighting with him
+and she winds up with a
+basilar skull fracture.
+He runs away.
+The cops come,
+since she hadn't been raped, they left,
+they weren't interested.
+And she wanted to use hypnosis
+to get a better image of
+what this guy looked like,
+which is a painful, upsetting thing.
+So, she was quite hypnotizable.
+I got her floating.
+I say, you're safe and comfortable, now,
+nothing can happen that
+will harm your body.
+But on the left side of the screen,
+I want you to picture this guy
+and his approaching and what's happening.
+And she said, I really, the light,
+it was getting dark.
+I really can't see much
+of his facial features,
+but I do recognize something,
+I hadn't allowed myself to remember.
+If he gets me upstairs,
+he doesn't just want to rape
+me, he's going to kill me.
+And so, in some ways, what
+she was seeing was even worse.
+So, you're thinking, good, Spiegel,
+you made her even more
+frightened than she was before.
+But as you had pointed out
+in your PTSD stress lecture,
+you've got to confront the trauma,
+to restructure your understanding of it.
+So, on the other side of the screen,
+I had her picture,
+what are you doing to protect yourself?
+And everybody in a trauma
+situation engages in some strategy
+of self protection.
+That's the salience network kicking in.
+And she said, "You know what?"
+He's surprised that
+I'm fighting that hard.
+He didn't think I would.
+And so, she realized on the one hand
+that it was even worse
+than she thought it was.
+But on the other hand
+that she actually probably saved her life.
+And so, it was a way of,
+helping her restructure her
+experience of the trauma
+and make it more tolerable.
+So that helped with her-
+She didn't recog-
+She couldn't identify the guy,
+but it helped her restructure
+and understand her experience.
+And that's something that you can do
+in just talking, straight
+out psychotherapy.
+But sometimes you can do
+it a hell of a lot faster
+and more efficiently using hypnosis.
+And there is one randomized
+trial out of Israel
+that shows that adding
+hypnosis to PTSD treatment,
+actually improves outcome.
+So it's a way of accomplishing
+things that we understand
+in the broader psychotherapy
+world, but much more quickly
+and sometimes effectively.
+- Yeah, it sounds like going
+somewhat into the state
+that one is trying to deal with,
+but then dissociating
+from that state is key.
+And I could imagine,
+and I've been open about
+this on various podcasts.
+I've done a lot of an
+analysis over the years.
+I've experienced myself
+that in those sessions,
+depending on how I show up to them,
+I might just get kind of a
+laundry list of what happened
+as opposed to actually feeling anything,
+around what happened.
+- Right.
+- And I think people
+probably vary in the extent
+to which they can drop into feeling states
+and it can depend on the day.
+It can depend on how well
+you slept the night before
+and so on.
+- There's one thing I might add, Andrew,
+- Yes.
+- And that is,
+there's a notion to late Gordon Bower,
+we just had a memorial
+for Gordon at Stanford.
+He died about a year ago.
+Brilliant cognitive psychologist,
+one of the founders of
+cognitive psychology at Stanford
+and a great pitcher.
+He almost became a Major League pitcher
+but he decided to go
+to grad school instead,
+and I'm glad he did.
+But Gordon helped establish the concept of
+state dependent memory
+that when you're in a
+certain mental state,
+you enhance your ability to
+remember things about it.
+And sort of the bad example of that is
+the drunk who hides the bottle
+and can't remember where he put it
+until he gets drunk again
+and he's in that same mental state.
+People go into dissociative
+states when they're traumatized.
+So in a way, hypnosis
+is helping them remember
+and deal with the memories better
+because they're more in the mental state
+that is more like what happened.
+And most rape victims will tell you,
+I was floating above my body,
+feeling sorry for the woman
+being assaulted below.
+People in traumatic
+episodes, they just say,
+you know, I blank out, I
+don't know what's happening,
+I'm on autopilot
+and that's a kind of self hypnotic state.
+So, when you use hypnosis
+to help them deal
+with a traumatic memory,
+you're making the state they're in,
+right there in your office with you,
+more congruent to the
+state they were likely in,
+when the trauma happened.
+And I think that is part of
+what helps facilitate treatment
+of trauma related disorders.
+- I see.
+So that makes me have to ask,
+every question I have to ask,
+'cause I really feel it as
+a almost like compulsion,
+then if dissociation during
+a traumatic episode is,
+it's a part of the adaptive strategy.
+- Right.
+- But it creates certain issues,
+it creates problems, right?
+Why would something like ketamine,
+which creates a dissociative state,
+be useful for the treatment of trauma?
+This is what I'm confused about these days
+because our colleague, Karl Deisseroth,
+who's also been on this podcast
+and his coworkers have figured out,
+okay, there's these layer one
+networks in the neocortex,
+and those are involved
+in dissociative state.
+And so we're starting to
+gain some understanding
+of how ketamine works at a neural level.
+- Right.
+- It does seem,
+as if for certain populations
+it can be a useful treatment.
+I don't know, I've never tried it.
+I don't know what the
+current status of that is,
+but it is legal.
+It is allowed at least in,
+it's FDA approved and it's in use.
+Why would dissociative states be useful
+if some element of dissociation
+is what gave rise to the trauma
+memory in the first place?
+- Well, yeah, and Karl
+had a brilliant paper
+in nature where he,
+it was from rats to humans in one paper.
+And he showed that there's
+this rhythmic discharge
+in the retrosplenial region,
+that is triggered by ketamine.
+And the rats actually showed
+dissociative like behavior,
+in that they would a hot pad
+that they ordinarily wouldn't
+and they didn't seem to
+have much pain in their paw.
+And he then had a male subject
+who had implanted electrodes-
+- Human, yeah.
+- A human subject, yeah.
+And the electrodes had picked
+up this rhythmic activity.
+And when they did,
+he would report being
+in a dissociative state.
+And his description was,
+it's like being a pilot of an airplane.
+And then I felt myself
+walking out of the cockpit
+and the plane was still flying and-
+- It sounds terrifying to me.
+[David laughing]
+It sounds terrify terrifying.
+- That's the thing-
+- I want to be in my body,
+[David laughing]
+most of the time, you know.
+- That's right but,
+the point is, in a way
+the principal, Andrew,
+is like, the principle you said,
+that you need to re-confront
+a traumatic situation
+before you can modulate
+your associations to it.
+So, you have to accept
+it, accept the arousal,
+put some boundaries around it
+and then figure out how you
+can approach that problem
+or how you did approach that problem
+from a different point of view.
+So, it does not surprise-
+In fact, we've studied,
+people who disassociated during
+the Loma Prieta earthquake
+and the Oakland-Berkeley firestorm.
+- I remember both those well.
+- Yeah.
+- Earthquakes follow me.
+Then I move south and
+then the Northridge quake-
+- I'm going to keep away from
+So, there'll be one later, this afternoon.
+[David laughing]
+- I'm starting to dissociating.
+So, dissociation does
+compartmentalize experience,
+but that means from the point
+of view of treating trauma,
+it's an inhibition.
+You don't engage it.
+It's like it happened over there.
+And I think what happens is that people,
+are sometimes too good at being able
+to separate themselves
+from their recollection.
+So it's in there somewhere.
+It's out of sight but
+it's not out of mind.
+It's having effects on you,
+but you can't deal with it.
+You can't reprocess it.
+So I do think one reason
+ketamine might work
+is that in fact, it allows you to keep,
+to re-approach the dissociative experience
+in a way that you can
+then start to think about
+and do something about it.
+And just the fact you
+can turn it on and off.
+And that's also where
+self-hypnosis is so helpful.
+It's not something that
+just comes over you
+and happens to you.
+It's something you can make happen.
+You can control it, you
+can do something with it.
+So, you feel less helpless
+and out of control.
+The essence of trauma is helplessness.
+It's not fear, it's not pain.
+It's helplessness.
+You become an object.
+You become just your body.
+You don't control what's going on.
+And we're not used to that.
+You and I have discussed
+this breathing paper
+on anticipation of breathing.
+And it's not whether you breathe,
+inhale or exhale or hold your breath,
+it's that if you think you
+can inhale and you can't,
+that is really upsetting, understandably.
+And so, the issue is control
+and hypnosis, which has
+this terrible reputation
+of taking away control
+is actually a superb way
+of enhancing your control
+over mind and body.
+- I love that and it reminds
+me that naming is so important.
+You almost wonder if self-hypnosis
+and clinical hypnosis had
+been called something else,
+that it would've been separated
+out from stage hypnosis
+in a way that would make it less scary,
+weird, complicated for people to embrace.
+But,
+- Yeah.
+- part of the reason for
+having this discussion is,
+I've had great experiences with hypnosis,
+that I've seen the data,
+we're talking about a
+lot of clinical examples.
+It's incredibly powerful
+and it boils right down
+to neural brain states.
+- Right.
+- And,
+I think in the years to come,
+it's going to become more
+widespread along those lines.
+How quickly,
+you've described some examples
+of people getting relief very quickly.
+- Right.
+- How permanent,
+are those changes?
+Is there a need for follow
+up and related to that,
+I'm sure a number of people
+are listening to this
+and thinking, wonderful,
+I'd love to get hypnotized
+for any number of different
+things by Dr. Spiegel
+or somebody else expert
+in clinical hypnosis,
+but they might not have access to you
+or somebody with similar training.
+So what is the power?
+So, how quickly does it work?
+How long lasting are those changes?
+And then,
+is it necessary to work
+with a clinical hypnotist?
+And is it better to do that
+than self-hypnosis and so on and so forth?
+Maybe you could just give us a contour
+of the landscape of directed
+and self-directed treatment.
+- Well, typically,
+most people start by coming
+to see a clinician like me.
+It's better to see
+someone who has licensing
+and training in their
+professional discipline,
+medicine, psychology, dentistry, whatever.
+- 'Cause there are a lot
+of hypnotists out there,
+who are just hypnotist.
+- Right.
+Just hypnotists.
+- Oh, okay.
+- And the key issue is,
+somebody who can really
+assess what your problem is
+and make sure that you're not,
+talking someone into
+reducing their chest pain,
+rather than getting their
+coronary artery problem-
+- 'Cause they could
+have a real issue there.
+- They could, right.
+- That hypnosis might adjust
+but wouldn't deal with the
+deeper underlying issue.
+- That's right.
+On the other hand.
+And typically when I use it with people,
+I often only see them once
+or twice or periodically,
+but not every week.
+And certainly not every day,
+if they have a pain problem
+and hypnosis is very helpful for pain.
+And so, what I'm doing is,
+identifying how hypnotizable they are.
+I give them a standard brief test
+of their ability to experience hypnosis,
+and then going through a
+self-hypnosis exercise with them
+to deal with the problem,
+seeing how they respond to it,
+and then teaching them how
+to do it for themselves.
+And in the old days,
+I used to have them use
+their iPhone and record
+that part of the session.
+So they could play back
+the hypnosis experience.
+Now we've developed an app, "Reveri,"
+that can teach people
+and step them through,
+dealing with pain, stress,
+focus, insomnia and help people eat better
+and stop smoking.
+But we have elements that
+take about 15 minutes
+and elements that just
+take one or two minutes
+that people can refresh and reinforce.
+- Two minute hypnosis,
+[indistinct] one minute.
+- Yes.
+- Yeah.
+- And it's one to two,
+we're one to two minutes now,
+and we're finding that two
+thirds of the people find
+that even just the one minute refresher,
+helps them feel better.
+They're reporting, they feel better.
+So, the nice thing is,
+you know right away,
+whether it's likely to help you or not.
+And we've found, we've done studies,
+looking at hypnosis for pain relief
+in acute medical procedures.
+We did a randomized trial that
+we published in The Lancet,
+three conditions, people
+getting arterial cutdowns
+to chemoembolized tumors in the liver
+or visualize renal artery stenosis.
+You don't use general anesthesia for this.
+It's very uncomfortable
+and people are anxious
+and we had three conditions.
+One was standard care,
+they could push a button
+and get opioids, IV.
+- This is during the surgery?
+- During the surgery.
+The second is, they could do that,
+plus they had a friendly
+nurse, comforting them.
+So, we controlled for pleasant
+attention and support.
+And the third was, we
+taught them self-hypnosis
+for pain control.
+So, you're feeling, you
+can change the temperature,
+you're your body is
+cool, tingling, and numb,
+you're floating in ice water
+and feeling comfortable.
+Or go somewhere else,
+leave your body here and
+go to a desert island
+and enjoy yourself.
+And we found that,
+it's about two and a half hour procedure,
+that by an hour and a half,
+the hypnosis group had
+reduced their pain by 80%,
+compared to the standard,
+- Wow.
+care group, using half
+the amount of opioids,
+they had fewer complications
+and the procedure took
+17 minutes less time
+on average to get done.
+Because not only was the
+patient more relaxed.
+So was the treatment staff.
+They weren't dealing with someone
+who's struggling and uncomfortable.
+We measured their anxiety and same thing.
+They hypnosis group, I was
+worried they were all dead.
+They had no anxiety
+after an hour and a half,
+they were saying, I'm fine, you know,
+and they were fine.
+And the standard care group,
+had 5 out of 10 anxiety
+scores at that point.
+So, we published that in The Lancet,
+big randomized trial.
+If we had a drug that did that,
+every hospital in the country
+would be using it now,
+but there's no industry to push it.
+So, that's part of what helped us decide
+that we needed to help people,
+do this with Reveri
+and teach them how to do it
+and provide interactive
+support for them to do it.
+And does it, the question, although is,
+does it work long term?
+'Cause what we can do acutely
+doesn't necessarily carry on.
+So, we did around
+randomized trial of women
+with metastatic breast cancer.
+They had advancing disease.
+We met with them in a
+support group once a week
+and taught them self-hypnosis,
+for stress and anxiety and
+pain control at the end.
+And by the end of a year,
+the treatment group had half
+the pain the control group did,
+on the same, in very low
+amounts of medication.
+So, it lasts.
+And they would say,
+when I felt that pain in my chest
+and thought it was a metastasis,
+I just did the exercise.
+I got myself in a warm
+bath and I felt fine.
+So, it works because it becomes
+a skill that people acquire,
+but they can tell right away,
+whether it's likely to help them,
+working with a clinician
+or now using the app
+or other ways of helping them
+learn to use it as a skill.
+So, the nice thing is you
+will know very quickly,
+whether it's likely to help you or not.
+And if it is, you can learn
+to do it for yourself.
+- That's great and we will,
+again, there'll be a link
+to Reveri in the caption,
+it's available for Apple and Android.
+And I think even though
+there's a nominal cost there,
+I think that, as you mentioned,
+medications and other
+approaches to dealing
+with these problems are quite expensive,
+and have all the potential
+for side effects and things.
+Not that some of those aren't also useful.
+- Could I, before you get to that,
+- Please.
+- just one thing.
+We've worked very hard on the app.
+We have an iOS app for Apple.
+We decided to table for a
+moment, redoing the Android app.
+So, it was available,
+when we were working
+through the Alexa platform.
+It's not at the moment
+but it will be soon.
+So, I just don't want
+people to be disappointed
+if they're looking for it for Android,
+it's on our agenda but we
+don't have it at the moment.
+- Great, thanks for that clarification.
+So hopefully, in time for both,
+I get asked a lot about obsessive thoughts
+or intrusive thoughts.
+I also get asked a lot about OCD.
+Is there any evidence that hypnosis
+or self-hypnosis can be used for,
+dealing with obsessive thoughts?
+- Sometimes, there are some
+very obsessional people,
+who just turn out not to
+be that hypnotizable for,
+yeah, and it's not random.
+They tend to be so over
+controlling of thought,
+they're all busy evaluating
+rather than experiencing, so-
+- I know a few people like that.
+[David laughing]
+It sounds like an adaptive
+mindset for a lot of professions.
+- That's right.
+- And then we get trained up in that,
+- Yeah.
+- during school,
+how to obsess over the exam,
+obsess over the,
+- Yeah.
+- our social interactions.
+I mean, it's part of becoming
+a functional human being.
+And yet, it can take us down a different-
+- We sometimes overdo it.
+I mean, I'll tell you one
+example from extreme situations,
+that, you know, you're
+judging, evaluating,
+you're not letting yourself experience,
+including emotionally.
+I know somebody,
+who listens to the tapes
+from airplanes that go down.
+So, they get the black
+box and they listen to it.
+And he said to me, you know-
+- That's his profession or
+he does this recreational-
+- No, it's his profession.
+- Okay.
+- That's what he did.
+'Cause they're trying to
+do accident prevention
+and how to handle things.
+And he said that you worry
+about people panicking, right?
+And here these guys know
+that they've got 30 seconds
+or some 45 seconds
+and they're just going
+through their checklist.
+He said, they don't panic enough.
+They're taught that this is what you do.
+And there is reason,
+there's good reason for it.
+But sometimes they overdo it.
+And it's painful to listen to this
+'cause you know what's going to happen.
+So, it's kind of a balance we have to hit.
+And sometimes we get too
+emotional and too absorbed
+and you're not with that enough
+to sort of see other possibilities.
+That can be a problem.
+But on the other hand,
+sometimes you're too rigid and controlled
+and you don't let your emotions guide you
+to what you need to do to protect yourself
+or protect others.
+So, I would say in general
+that people with OCD are,
+on the less hypnotizable
+side of the spectrum,
+they're less likely to allow
+themselves to engage in any,
+and the typical example is the checking
+with OCD for example,
+they don't remember,
+whether they locked the door
+or turned off the gas in the
+oven and they keep going back
+and they keep checking.
+So, there the evaluative
+component of the brain,
+kind of overrides the experiential one
+and sometimes people can get some benefit,
+but they're not a group
+that I would select
+for being the most likely to respond
+to self hypnotic approaches.
+- Are superstitions similar?
+- Superstitions, I think that's more,
+there are people who
+are very hypnotizable,
+who keep getting caught up
+in things like superstitions
+and there, the imagination
+supplants the reality.
+And we've seen a lot of
+that happening recently.
+And so I think there,
+it's by possible that they
+could be helped by learning
+to sort of see it but put it in context,
+see it from a different point of view.
+- I developed a pretty
+vicious superstition,
+when I was in college and it
+was hard to break, actually.
+I always feel, when I talk to clinicians,
+I have to reveal certain things
+about my own pathology.
+- Please do.
+- And so-
+- You'll get my bill later.
+- Thank you, yes,
+it's part of the reason I arranged this.
+[David laughing]
+No, I'm just kidding.
+But yeah, I did.
+I had a habit of knocking
+on wood for things
+and I noticed it started to,
+I would sneak knocking on
+wood every once in a while
+'cause I didn't want people to
+think I was doing too often.
+And then I started to realize that,
+it was becoming a little bit of a reflex.
+And then I saw this incredible video
+from Bence Olveczky's lab at Harvard.
+He studies motor patterns.
+And he has these rats that
+press different sequences
+of levers and turn dials in
+order to get a pellet of food.
+But as they do that,
+they'll start to introduce these behaviors
+that have nothing to do with
+the actual lever pressing,
+like they'll start scratching
+their hind quarters
+and things like that.
+And their hat, their heads, excuse me,
+they don't wear hats
+and flipping their ears.
+And this is just like a pitcher
+before throwing a baseball.
+That we do this,
+- Oh, yeah.
+- we start to incorporate motor behaviors
+that are unrelated to the outcome,
+but our mind somehow starts to think
+that they're necessary for the outcome.
+And so then you incorporate it.
+So, I decided to break it
+by simply forcing myself
+to not do it for about a week.
+- Mm-hm.
+And then it just seemed like a ridiculous,
+- [Both] thing to do.
+Yeah, well-
+- Knock on wood.
+- We call that response
+prevention and it works.
+What you do is,
+you set up a new context in your brain,
+where you get the outcome you want,
+devoid of the extraneous behavior.
+- Yeah, and I knew it was nuts, right.
+I knew it was illogical.
+- Right.
+- But somehow these
+things take on meaning.
+- [David] Right.
+- So, we talked about,
+the utility of hypnosis
+for stress reduction,
+phobias, pain,
+possibly, we don't know but for,
+things like ADHD and OCD,
+it just will depend on hypnotizability.
+- Right.
+- You talked about this
+beautiful study on the,
+metastatic breast cancer
+outcome or patients.
+Hypnotizability is clearly a key variable.
+- Yes.
+- So could you please tell us,
+what hypnotizability is,
+how it's evaluated
+and what The Spiegel Eye-Roll Test is?
+- Okay, sure.
+So, hypnotizability is just a capacity
+to have hypnotic experiences.
+And we have a test called the
+hypnotic conduction profile.
+Where we give a highly
+structured hypnotic experience.
+And the old tradition in
+clinical hypnosis was,
+that you try a bunch of different things,
+talking, walking upstairs and downstairs
+and other images and time what you say
+to the breathing of the
+subject and all that.
+And the more you change
+what you do as a clinician,
+the less you can make of
+variation and outcome.
+And it could take a long time, you know,
+20 minutes, 30 minutes.
+And I just view that as a kind of complex,
+not very effective way
+of assessing the person's
+hypnotic capacity.
+We know that the peak period
+of hypnotizability in the human life,
+is the latency years in childhood.
+So, every eight year old is
+in a trance all the time.
+You call all 'em in for
+dinner, they don't hear ya,
+they're doing their thing.
+And that's why childhood is
+such a wonderful experience.
+Work and play are all the same thing.
+And we try to make them
+into little adults,
+which I think is a terrible mistake.
+Everything is fun for them.
+They enjoy learning,
+they enjoy everything.
+- So what age are they in this-
+- This is like 6 to 10, 6 to 11.
+And they're playful,
+they enjoy everything.
+Everything is sort of a game and fun
+and we try to make it miserable for them,
+but they've got it.
+And then when, what Piaget called,
+a more adult cognitive framework,
+where we learn abstract concepts,
+we learn that even if
+one bottle looks bigger
+than the other, they
+can have equal volume.
+And so, we at imposing logic,
+we're growing our DLPFC at that point
+and imposing cognitive
+structure on experience.
+Some people start to lose
+that hypnotic ability.
+By the time you're in your early 20s,
+your hypnotizability
+becomes extremely fixed.
+And there was a study done at Stanford,
+Ernest Hillard, Phil Zimbardo
+did this, looking at,
+they've tracked down students
+who were in psych one,
+had their hypnotizability measured
+and retested them blindly 25 years later.
+And the test, retest correlation was,
+you want to guess what it was?
+- I'm guessing it's, I
+don't know, 0.6 something.
+- Yeah, very close.
+It was 0.7, IQ would be 0.6,
+on the 25 year interval.
+- Wow.
+- So, it's more stable than
+IQ over a 25 year interval.
+So, once you're at that
+point, that's where you are.
+What are the factors that lead to that?
+Well, and so what it means is that,
+about a third of that adults
+are just not hypnotizable.
+Two thirds are,
+about 15% are extremely hypnotizable
+and we can measure that
+and give it a number
+from 0 to 10.
+And that's very useful.
+For some of my patients when I do it,
+I say, look, I'm sorry,
+you're not hypnotizable
+but we're going to do something else.
+Medication, systematic desensitization,
+mindfulness, other things
+or if they're very
+hypnotizable, I just go for it.
+I don't do a lot of explaining.
+People who are low to
+moderate hypnotizable,
+like explanations about what you're doing,
+but then they can still get the benefits.
+So, it helps me guide the
+nature of my treatment
+with these people.
+Now, the eye roll is,
+my father used to use an
+eye fixation induction,
+he used to say, look up at the ceiling
+and now close your eyes
+while you're looking up.
+You're very, yes,
+you're very-
+- Yeah [indistinct] [laughs].
+- He noticed he had two
+patients back to back.
+And one was a woman who
+I'd seen him work with,
+who had hysterical seizures.
+She would just suddenly start shaking.
+And-
+- Real epileptic seizures?
+- No, pseudo epileptic seizures.
+- I see, so hysteria.
+- Hysteria, and although
+some people have both,
+that is the,
+for some people, real
+epilepsy becomes a framework
+that gets elaborated on,
+for when you're stressed,
+you have seizures.
+She just had pseudo epilepsy,
+no EEG abnormalities.
+And she was really something to watch.
+Her husband had to move his
+work bench near the door,
+so that if she started to have a seizure,
+he could run home and
+try and help her with it.
+It was that bad.
+And he noticed that when
+she did what you did,
+when she looked up,
+when she would have one
+of her seizure events,
+all you see is sclera, you
+don't see Iris anymore.
+And she would start to seize.
+So he did a great thing with her.
+He taught her to have seizures.
+Everybody else was telling her to stop.
+He made her have one.
+So he hypnotized her,
+[indistinct] let's go back
+to the last time you had one
+and sure enough, she'd start to shake.
+And gradually he'd make
+them smaller and smaller.
+So, she was learning she could control,
+she'd have access, it's like with PTSD,
+you confront, you don't avoid
+it, you don't suppress it.
+You confront it and figure
+out how to deal with it.
+The next patient he had was a
+rigid obsessional businessman
+who wanted to stop being so controlling
+and all this [chuckles], it reminded me,
+there was a New Yorker
+cartoon of a driver,
+who comes to a yield sign
+and he yells, "Never!"
+It's always [indistinct].
+- That sounds about right,
+you're a New Yorker.
+- Yeah, I'm a New Yorker.
+And so, this guy, when
+he tried to look up,
+he couldn't keep his eyes
+up while he closed them.
+And so, my father started testing people.
+And it seemed that there
+is a rough correlation
+between the capacity to keep your eyes up,
+while you closed them and
+measured hypnotizability.
+- So that people who are
+listening [stutters],
+and watching on video.
+So, the Spiegel Eye-Roll Test,
+involves looking up at the ceiling.
+So, it's tilting the head back,
+I'm tilting my chin back and
+looking up at the ceiling now.
+But I'm also directing my eyes
+upward and my eyes are open.
+And then the eye roll test involves then,
+closing the eyelids
+while the eyes are open.
+- Are open.
+- And whether or not,
+the eyes roll back and as you said it,
+then you see sclera,
+the white part.
+- You see sclera,
+the white part.
+- That means you're,
+very hypnotizable
+or moderately hypnotizable.
+- Right.
+- Whereas if the eyes move
+down and you see iris,
+the colored part of the
+eye as the eyes close,
+less hypnotizable.
+- Right.
+- So you can look this up online there,
+you just put Spiegel Eye-Roll Test
+and you'll find it.
+And we are also going to do
+an actual example of hypnosis
+on video later.
+- Right.
+So, you're asking the brain
+to do something difficult,
+to keep the eyes up while
+closing the eyelids.
+And so that's contradictory signals
+for the third, fourth and
+sixth cranial nerve nuclei
+that control eye movement.
+- You said the third-
+- Fourth and six,
+- Yup.
+- cranial nerve nuclei.
+And so you're suspending one activity,
+while asking them to do another
+and eye movements have a lot to do
+with levels of consciousness.
+The periaqueductal gray,
+surrounds these cranial nerve nuclei.
+And when we close our eyes when we sleep,
+we have rapid eye movement when we dream.
+Most drugs, that affect
+level of consciousness,
+can affect eyes and eye movements,
+either the dilation or
+contraction of the pupils,
+depending on whether it's
+a stimulant or an opioid.
+- Stimulants, make the pupils big.
+- Big, right?
+- Yeah.
+Like cocaine, amphetamine.
+- Right, exactly.
+- Things that sort.
+- And opioids,
+you get constricted pupils.
+- This is what the parents looking
+at their kids coming in
+the door late at night,
+they're looking for substance abuse.
+- That's right.
+- Yeah.
+- So, there's something about the eyes
+that has a lot to do with
+level of consciousness.
+I mean, obviously, you close
+your eyes when you go to sleep,
+you have rapid eye movement
+when you're dreaming.
+So, it's not surprising.
+And there's an old Zen practice called,
+looking at the third eye.
+And I think part of the
+reason that this happens is,
+where you're looking up inside
+it's like there's a third eye
+between the other two in your forehead.
+And I think it's because
+we are visual creatures,
+we're pretty pathetic from
+a physical point of view.
+Many animals can outrun us,
+or outs smell us or eagles
+could read the newsprint
+at a hundred yards and we can't.
+So, our major defensive
+sensory input is vision.
+And that's why animals,
+predator animals have eyes
+in the front of their head,
+so that they have very good,
+detailed vision of prey.
+Whereas prey animals like deer,
+have eyes on the side of their head.
+So, they don't see things that well,
+but they have a much bigger range
+of potential to see threat.
+And we mainly use,
+and in fact, it's interesting,
+there have been social
+anthropologists that say,
+why do we gather where we do,
+on coastlines and at the edge
+of a forest or something,
+it's because you've got
+protection in the back.
+Something can attack you from one side
+and you have a big vision
+of what might threaten you.
+And we tend to be attracted
+to those kinds of physical situations, so-
+- Yeah, we love vistas.
+- We love vistas, that's right.
+- Vistas are very calming.
+They take us into that panoramic vision.
+- That's right.
+- I didn't know this,
+but it turns out that
+most of the scenic spots
+at any location in national parks
+and where people naturally
+aggregated it was-
+which makes sense.
+- Sure.
+- But, that those signs and
+locations were built up around,
+people's tendency and animals tendencies.
+- Oh, really [indistinct]?
+- To aggregate there.
+Yeah, there's a interesting book
+on the history of the
+national parks that says,
+that they didn't give a
+research study to support it,
+but there was no Google Maps, obviously.
+- That's very interesting.
+- Yeah, panorama
+and visual boundaries
+are really interesting.
+I think, so the eyes, as we both know,
+are two pieces of the
+central nervous system
+of the brain, outside the-
+- Right.
+I used to say that the
+eyes are outside the skull
+and a neuro-ophthalmologist wrote to me
+and vehemently pointed out
+that they are outside the
+cranial vault, so, you know.
+They're outside the cranial vault
+but they are two pieces of
+brain they're out there.
+And so, you mentioned cranial
+nerves, three, four and six.
+This isn't a neuroanatomy course
+but maybe we could go
+a little deeper there.
+So, you said there's
+contradictory activity,
+looking up is controlled by
+the one set of cranial nerves.
+And then the closing of the eyelids,
+is controlled by another cranial nerve.
+- No, it's the same one.
+I think it's six that
+when you close your eyes,
+you activate,
+no, it's the facial, I
+guess it's the facial nerve.
+It's 7, yeah.
+- 7, yeah.
+- But you're looking up,
+you're activating the muscles
+that force your eyes to look up.
+And closing your eyelids
+normally relaxes those,
+it relaxes that upper movement,
+because your eyes are closed
+and you don't need to do it.
+So you're breaking a
+usual customary pattern.
+- It's like the rubbing the,
+- Right.
+- hey, I can't even do it,
+see it's like the,
+- Right.
+[Andrew and David laughing]
+- That's exactly right.
+- Rubbing your tummy
+and patting your head.
+There's a bit of a conflict there,
+- Right.
+- But clinically,
+it's been a good probe for you,
+- It has.
+- and for your father.
+So, was it Spiegel senior
+or Spiegel junior?
+- That's Spiegel senior.
+- That developed The
+Spiegel Eye-Roll Test.
+- But the key issue is this,
+that normally when we close our eyes also,
+we're going to sleep.
+You're not worried about
+what's going on in the world anymore.
+Here, you're maintaining
+resting alertness.
+So, you're focusing but
+you're turning inward.
+That's an unusual state.
+Normally we close our eyes
+periodically, we have to,
+but when you close your eyes
+for some period of time,
+it's normally to go to sleep
+and you're not worried about
+detecting risk or threat.
+So, it's an interesting state
+because you're turning inward, basically,
+you're looking up,
+you're shutting your eyes
+and you're allowing whatever
+happens outside you to happen
+and focusing on what's going on inward.
+So, I think it's a signal to
+your brain to turn inward.
+- Very interesting.
+And meditation of course,
+could be done with eyes open
+but almost always is
+done with eyes closed.
+- Yes, that's right.
+- Very interesting.
+So, you can very quickly determine
+whether or not someone
+is highly hypnotizable.
+- Right.
+- not at all hypnotizable.
+You said about two thirds
+of people can be hypnotized.
+- Right.
+- Obviously a third cannot.
+But within the two thirds that can,
+there's a range,
+and you said 15% of people fall into this,
+highly hypnotizable category.
+- Right, that's correct.
+- That I seem to be a member of.
+- Yeah.
+- And,
+does repeated use of self-hypnosis
+or clinical hypnosis,
+increase or change hypnotizability,
+for those that can access
+it in the first place?
+- I would say in general, it
+may increase a little bit,
+but not a hell of a lot,
+and it's not worth the effort
+to increase your
+hypnotizability at that point.
+It's worth trying to
+deal with the problem,
+you're dealing with.
+So, you can get better
+at using it at the level that you have.
+There was a study done in which
+they tried to train people
+to be more hypnotizable and obviously,
+there're subjective and
+behavioral components to the test,
+you can learn to do a
+little better on them.
+But what we found was when
+we reanalyze this data,
+that we could account for
+three times the final score,
+based on the initial
+hypnotizability measurement,
+rather than whether or
+not they had been trained
+to do better.
+So, you can improve it a little
+but it's not worth the trouble.
+- Got it.
+Along the lines of eyes and eye movements,
+a lot of interest out there about EMDR,
+Eye Movement Desensitization Reprocessing.
+- Yeah.
+- Shapiro herself was working,
+she wasn't at Stanford directly,
+but was the local to Stanford.
+- Yeah.
+- I think in Palo Alto.
+- MRI, yeah.
+- So what are your thoughts on EMDR?
+Where is it useful, where do
+you think it's less useful?
+Are there things that EMDR
+could be combined with
+to make it more useful?
+The listeners of this podcast come to,
+I think, come to the podcast
+with a range of backgrounds
+and interests.
+To me, it makes sense why EMDR,
+lateralized eye movements might work,
+given the newer data that it
+can suppress amygdala activity
+in some animals and animal
+models and in humans as well.
+But it really hasn't been
+explored much, neurally.
+I've heard things like,
+it coordinates the two sides of the brain,
+which it, to me is just a throwaway.
+I don't think there's any evidence that,
+coordinating the two sides of the brain
+is better than not coordinating.
+I wouldn't be speaking right now
+if the two sides of my brain,
+were well correlated.
+- Yeah.
+- Because language is lateralized so,
+- Right, exactly.
+- I heard that it mimics,
+rapid eye movements during
+sleep, but actually it doesn't.
+So,
+- Right.
+- But I have heard people talk
+about their positive
+experiences with EMDR.
+What are your thoughts about EMDR?
+- Yeah, you had a good comment on that
+in one of your recent podcasts.
+And I'll tell you,
+one way I sort of think about it
+from a bemused point of view,
+is the old, you mentioned it earlier,
+the oldest sort of idea
+of a hypnotic induction,
+was a dangling watch, right?
+And [indistinct] watch.
+And, in fact, there was
+enough concern about it
+that when automobiles were invented,
+there was a movement to prevent
+installing windshield wipers
+because people were afraid
+that they would be hypnotized,
+if they watched the windshield
+wipers go back and forth
+on a car.
+Now, it turns out fortunately that,
+you tend not to look at
+the windshield wipers.
+You keep looking through the windshield.
+And so, we have windshield wipers today.
+But that movement is,
+what exactly used to be
+a hypnotic induction.
+I think there is a lot
+of hypnosis in EMDR.
+- Ah.
+- And I think,
+it's a combination of that
+with exposure based treatments,
+where you use EMDR to think about it.
+You tend not to process
+the experience as much
+and just do the physical part of it,
+which I personally think is a drawback.
+And, every study I've seen
+that was a dismantling study.
+There's no question that
+people who go through EMDR,
+many of them get better
+with trauma related problems
+and the VA has a big
+program using it and so on.
+But every program that has dismantled,
+going through the treatment
+with having the lateral eye movement,
+has shown that the lateral eye movement,
+doesn't add anything to it.
+And toward the end of her career,
+Francine was doing [indistinct]
+contralateral touching
+or something, it wasn't
+eye movements anymore.
+It was other things.
+So, I tend to think that,
+EMDR is another form of exposure
+based therapy for trauma,
+but as you've implied
+with the exception of
+this possible new data,
+it certainly doesn't have to do with,
+rapid eye movement sleep.
+And I don't think moving
+the eyes is the issue.
+I think it's a way of sitting
+down and confronting trauma.
+And I would rather,
+that the trauma itself
+be processed a bit more
+than often happens in EMDR.
+So, a lot of people have gotten therapy.
+Some of them have been helped.
+Francine used to originally claim
+that just one session would
+desensitize people and do it.
+And that's clearly not true.
+I see a lot of people who said,
+yeah, it helped for a
+while but I need more.
+So, I think it became a kind of a,
+overly simplistic approach to
+understanding brain physiology
+and that part is wrong.
+And the interesting thing,
+you mentioned suppressing
+amygdala activity.
+It's very interesting that,
+my late friend Allen Hobson,
+who was a brilliant sleep researcher,
+you know Alan-
+- Sleep researcher.
+Well, I don't know him,
+but I read his book when I was in college
+about the chemistry of sleep.
+- Right.
+And the similarities between dream states
+and hallucinations.
+- Yes.
+- And it's one of the reasons
+I got into this business.
+- Yes, well, I worked with him
+in a MacArthur mind-body
+network for many years.
+- Wow.
+- He was a brilliant guy,
+points out that we need to get into,
+primarily a parasympathetic
+state to go to sleep,
+that we have to shut off the
+sympathetic nervous system.
+And that's why a loud noise wakes you up,
+when your heart rate goes up and all this.
+So, he was brilliant at documenting
+what happens in the brain at sleep.
+He pointed out something also
+very interesting about dreams,
+which is that the stories in dreams,
+and even the images in dreams
+can change all over the place
+in crazy ways.
+But usually the affect is constant,
+he said, usually if it's
+a frustration dream,
+whatever happens, you end up frustrated.
+And if it's a enjoyment dream,
+you enjoy whatever's going on.
+So, there's an odd consistency
+and affect in dreams
+that you don't have in other states.
+And the idea of lateral eye movement,
+suppressing amygdala activity
+would kind of fit with that,
+that you don't allow intrusions
+of fear and anger and upset in dreams.
+It may be there all the time,
+but it may not be there
+when you think it should be.
+So, why is it that you can
+be falling off a building
+and somehow not that scared,
+you're just having this
+experience of flying in a dream.
+So, I think there may
+be something going on
+about regulating affect, but there are,
+we have elaborated better
+ways to regulate affect.
+- Great, so EMDR,
+might incorporate some
+elements of hypnosis,
+so the lateralized eye movements,
+perhaps by way of
+suppressing the amygdala,
+this fear associated center,
+might bring people into a more
+parasympathetic calm state.
+So, it might be pseudo hypnosis,
+and then an exposure therapy
+through the discussion about the issue.
+- Right.
+- Okay.
+More research needed on EMDR out there.
+And obviously,
+something that's come up
+a lot in this discussion
+and in our discussions that,
+have the great fortune of
+talking to you every week is,
+and working together is,
+this idea of getting close to the phobia,
+getting close to the trauma,
+re-experiencing it as a portal
+to then adjusting the response
+to it and rewiring something.
+So, the troubling thing
+or the horrible thing is no
+longer as horrible to us.
+but the repeating theme is we can't expect
+to get over something without
+getting really close to it.
+Maybe even experiencing it somatically.
+Nowadays, we hear a lot about,
+triggers and trigger warnings.
+And certainly, one can
+understand why those exist,
+but it seems like in
+the general population,
+there's this idea that
+we want to move away
+from anything that upsets us and yet,
+- Right.
+- I think it's fair to say,
+even though I haven't
+gathered the statistics that,
+on the whole,
+that human beings are
+becoming more and more anxious
+and more and more stressed,
+perhaps because of but
+certainly in parallel,
+with the fact that we're
+trying to move away
+from troubling things.
+So, I've heard you say before,
+that in terms of therapeutic approaches,
+it's not just about
+the state you get into,
+but whether or not you brought
+yourself there voluntarily.
+- That's exactly right.
+- So, this element of
+deliberate self exposure,
+deciding I'm going to confront the trauma,
+I'm going to confront the pain.
+I'm going to confront the insomnia.
+I'm going to confront the, you know,
+and fill in the blank.
+And then readjusting
+one's emotional response,
+right up next to that troubling thing.
+That seems to be the
+hallmark of this treatment.
+And,
+if I'm thinking about it correctly,
+of pretty much all treatments
+for getting over stuff.
+If people don't have access
+to a really good clinician, like yourself,
+how should they carry these
+thoughts and these ideas?
+I mean, I think almost
+everybody of any reasonable age,
+has memories or things that upset them,
+but we learn to suppress them.
+What does one do?
+Obviously, the Reveri app has approaches
+to dealing with some of
+this, inside of the app,
+but how does one start to think about,
+actually dealing with something like this
+and avoiding the hazards
+of just kind of reactivating
+a lot of painful experiences?
+Because a lot of being
+a functional human being
+is also going to work each day,
+interacting with people and
+not bringing one's trauma,
+and dumping it out all on the table
+or being able to just
+function is so crucial.
+So, how do you think
+about this as a clinician?
+- Well, the image it comes to mind
+is the Greek myth of Pandora's Box.
+That it opened and the Furies got out
+and you couldn't put 'em back in.
+And we have this kind of fantasy
+that once you get into these memories,
+they'll take you over
+and you'll never get them back in the box.
+And I think that's wrong.
+People who use hypnosis say that,
+there are ways to present things to people
+that will be helpful and ways that won't.
+And one real mistake is to tell someone,
+don't think about purple elephants.
+What are you thinking about?
+- Purple elephants.
+- It doesn't work.
+So, you want to find a way to
+feel in control of the access
+and to define what
+happened on your own terms.
+And so, I'm not a big
+fan of trigger warnings.
+I think we're going crazy over,
+this could be upsetting,
+that could be upsetting.
+Yeah, there are lots of
+things that are upsetting.
+The average kid has
+watched 20,000 murders,
+by the time he's 20 years old,
+watching television and movies these days.
+So, we see terrible things
+and it's not a matter of,
+are you exposed to
+something that's upsetting,
+but how do you handle it?
+What do you make of it and
+are you feeling in control?
+It's not like,
+what Putin is doing to
+his rival in Russia,
+forcing him to watch propaganda
+movies 10 hours a day,
+while he is in prison.
+It's a matter of thinking about a problem,
+in a way that leaves you
+feeling, you understand better.
+You're in more control, you
+can turn it off when you want,
+you can turn it on when you want.
+And so we have to, in life,
+deal with stressful things,
+there are studies,
+Karen Parker at Stanford has
+done some wonderful studies
+with primates about stress inoculation.
+That if you separate a
+baby monkey from his mother
+for two hours a day and then reunite them,
+and then you stress
+that baby monkey later,
+they actually handle stress better.
+There's less cortisol arousal
+in the face of distress,
+stress inoculation, that's been called.
+So, mere exposure to trauma or stress.
+It's a part of living anyway.
+We can't avoid it, even if we'd like to,
+and,
+it's not pleasant, it's not great
+but it's sometimes things
+you need to learn about life.
+And if you can find an
+algorithm for facing it,
+putting it into perspective,
+dealing with it,
+you become a stronger
+person not a weaker person.
+So, this idea that,
+college students are such fragile flowers,
+that if you talk about a
+sexual assault or something,
+you're doing something terrible to them,
+it's just wrong.
+And I think we need to build our ability
+to recognize and manage stress.
+And you can't do that without doing it.
+You can't ride a bicycle
+without taking the risk of falling off it.
+And so, I think that's the way,
+I think of dealing with stress.
+- Yeah, I really
+appreciate you saying that.
+You and I were both at a gathering,
+let's say where this
+issue was being discussed,
+and around an issue of a
+publicized sexual trauma.
+And you made an excellent case
+for why this stuff can't
+be pushed under the rug.
+And that actually, in my observation,
+led to a lot of healing
+for the people that
+and the families of people
+that suffered from this.
+I do think people are resilient.
+But we don't really teach
+how to think about feelings.
+We're told that we need
+to feel our feelings,
+but then again, we are also told
+that feelings don't hold
+all the information.
+And so, I think that as you mentioned,
+there's no operating or users manual
+for this nervous system thing.
+Brings me to another issue,
+which is the mind-body connection.
+Something that we're very interested in
+and you've done extensive work on.
+We all like to think that,
+getting more in touch with our body,
+would be a great thing,
+learning to interocept,
+paying attention to
+our internal landscape,
+would be a great thing.
+But as we often discuss,
+when we're feeling lousy,
+then being really in touch
+with that lousy feeling,
+may or may not be a good thing, right?
+So, how should we think about mind-body?
+I can see examples in hypnosis,
+from your descriptions of hypnosis,
+where you want to unify
+the mind-body connection.
+Feel what you're thinking,
+think what you're feeling, et cetera.
+But I could also point to elements
+within the hypnotic process
+in which you are actively
+trying to uncouple those.
+- That's.
+- So, it sounds to me like,
+this whole mind-body thing
+is a bit more like a car.
+You can't say that 40 miles
+per hour is the optimal speed.
+It kind of depends on the road you're on
+and the turn you may or may not be taking.
+- Right.
+- How should we think about
+mind-body in terms of,
+navigating daily life?
+What do you think is the adaptive way,
+to conceptualize the mind-body?
+It's a big question.
+- It is.
+It's a very interesting one.
+I guess, I think that
+it's a matter or not of,
+absolute control but more control,
+that we need to think
+of our brain as a tool
+and our body's signals as tools as well,
+to help us understand what's
+going on in the world,
+what we need, what matters,
+what's important, what isn't,
+but also something that can be managed,
+not simply absorbed.
+And so, hypnosis I think
+is a kind of limiting case,
+where you can push it about
+as far as we can push it
+in terms of regulating pain.
+Pain is a good example of that.
+Obviously, you need to pay attention.
+If you just broke your ankle,
+you better pay attention
+to it and get help
+or you're having crushing
+substernal chest pain.
+You better do something about it.
+But our brain,
+is sort of programmed to
+treat all pain signals
+as if they were novel pain signals.
+If it's a sudden new problem
+that needs to be attended to.
+I teach people to think of
+the pain and categorize it,
+does the pain mean that
+if you put weight on this,
+you're going to re-injure
+your ankle for example,
+or does it simply mean
+that your body is healing
+and the pain is a sign that,
+gradually things are
+getting back to normal
+and so, you can modify
+the way you process pain,
+based on what your brain
+tells you the pain means.
+And that's true for
+emotional pain as well.
+And particularly where I think
+a strategy that really helps,
+is if you think of an
+interpersonal problem
+or a threat of something
+coming as an opportunity
+to do something to
+ameliorate the situation.
+So, it's not just it's happening to you,
+but something that you can
+influence and do something about.
+So, it's blending the receptive
+with the active response,
+that I think can make a difference.
+So, you try and process it in a way
+that gives you a deeper
+understanding of what's happening.
+You face it but you also say,
+this is an opportunity for
+me to do something about it.
+And the minute you realistically enha-
+and this doesn't mean,
+imagine away a heart attack.
+It means figure out how to
+rehabilitate from a heart attack
+or a broken leg or something like that
+in a way that you get as much control
+into the situation as you can.
+- I love it.
+Grief.
+Grief is one of those
+states that is very hard
+to remove oneself from.
+And a lot of people asked me,
+how do I deal with grief?
+And I'm not a clinician
+so I'm deferring to you.
+- Mm-hm.
+- On the one hand,
+actually someone at Stanford
+recently came to me and said,
+my mother passed away and I
+had a sibling that passed away
+and they were the only people that I had.
+And I'm also living alone
+and I'm challenged with
+a number of things.
+And,
+they looked like they
+were holding it together,
+- Mm-hm.
+- very well, in fact,
+given what they were describing.
+And on the one hand,
+well, I certainly pointed
+out that I'm not a clinician,
+but I said on the one hand,
+you could imagine that it
+would be necessary and useful
+to go into the grief's state,
+if you want to transition through it.
+- Right.
+- On the other hand there,
+I've heard before that the cathartic model
+of just really diving into an emotion,
+can also be potentially hazardous.
+If you don't have any
+anchors to grab onto.
+What is view of psychiatry
+or your view of grief
+and how to deal with grief?
+Because I think grief is,
+one of those all encompassing
+emotions for many people.
+- Yeah, it is.
+And it's a very important,
+natural, necessary stage of life.
+And the reason we have
+all these grief rituals
+from burials and memorials and headstones
+and sitting shiva and other
+things that people do.
+It's a way of making it real,
+that an incomprehensible
+loss has to be comprehended.
+You have to realize that you're
+now going to have to live life
+without your loved one, your
+parent, your sibling, whoever.
+And we've all gone through
+this at one time or another,
+I certainly have.
+And it's very hard to
+just come to terms with,
+but one principle is to sort of say,
+it's never all or none, it's more or less.
+So yes, it's all or none
+that you've lost a loved one,
+but I ask people as part of their grieving
+to say to themselves,
+and I do this in hypnosis sometimes too.
+You've lost them but what
+have they left you with?
+What have they bequeathed to
+you even though they're gone?
+And I'll sometimes ask them to say,
+if your mother could be here right now,
+what would she say to you?
+How would she feel about your life now?
+What would she advise you to do?
+So, in our support groups
+for women with advanced
+breast cancer, we lost people.
+And I got to tell you that we
+were warned by oncologists,
+that we demoralized people that,
+I mean, they were wonderful oncologists,
+but there are some that were very afraid
+that we would harm them in some way,
+because the mortality rate is fairly high
+with metastatic breast cancer.
+They're going to watch people
+die of the same disease
+and you'll demoralize them.
+So, we actually measured their emotion
+and the content of
+speech every five minutes
+throughout a bunch of groups to make sure
+that wasn't happening.
+What we found was,
+that they talked about
+more serious issues,
+but the mood didn't actually get worse.
+And we found in general that
+expressing negative emotion
+on the long run helps
+people be less anxious
+and depressed over time.
+And we've shown this in
+randomized clinical trials.
+So, it's not just my clinical impression.
+And what we try to get them to do,
+is to face a loss,
+live with the emotion that comes with it
+but also see that the
+reason it hurts so much,
+is how much that person gave you.
+So, we would do a self-hypnosis exercise
+at the [indistinct] say,
+I want you to get your body
+floating, safe and comfortable.
+Now, picture Mary and sit
+with the feeling of sadness
+that she's no longer with us.
+And we do that for a few minutes.
+And then we'd say on the other side,
+picture one thing she left
+with you that you still have,
+that you carry on in your heart,
+her tradition of what she gave to you.
+And so just seeing it,
+not as a complete loss,
+but as a real loss, a painful loss
+but one that helps you to reflect on,
+what you gained from her and knowing her,
+I think can be very helpful
+in the grieving process.
+- That's very helpful
+way to conceptualize it.
+Couple quick questions.
+Can children be safely
+hypnotized or do self-hypnosis?
+- It's sometimes harder for
+them to do self-hypnosis,
+they need more structure to do it.
+You've got to share your
+dorsolateral prefrontal cortex
+with 'em a little bit,
+but yes, absolutely, children
+can be very hypnotizable.
+And I know pediatricians,
+who use it wonderfully all the time.
+They get them to focus on something else.
+So, they're going to
+have to give them a shot
+or draw blood or something.
+And they'll say,
+I'm going to press your happy button
+and he presses their belly button.
+And they start to giggle the way kids do.
+And meanwhile, the nurse
+is drawing the blood
+and they don't even notice it.
+Dentists, good dentists
+can use it to help kids
+with fear and pain.
+So yes, it can be very
+effective for children.
+We did a randomized trial.
+I have a publication in pediatrics,
+my late sister, who was a pediatrician,
+and who always used to joke that,
+she was the only one in our
+family who was a real doctor.
+I said, I gotcha.
+I got a paper in pediatrics
+[Andrew laughing]
+and the paper was children
+having to undergo,
+a voiding cystourethrogram.
+So, the anatomy of the kidney,
+if you'll forgive me, is
+sort of interesting in that,
+the ureter that goes into the bladder,
+normally goes into the
+bladder at an angle.
+And so that means,
+that when the bladder
+contracts to expel urine,
+it automatically closes off the ureter
+because it's sideways to the bladder.
+Some kids are born with it perpendicular,
+and then you'll get
+reflux into the kidney.
+And some children outgrow it,
+some need pretty complicated
+surgery to fix that.
+And so, you image them every year or so
+to see whether they're
+getting kidney damage or not.
+And it's a pretty miserable experience.
+You're a nine year old girl.
+You have to go and lie
+on a hard cold table,
+have strangers pull your legs apart
+and stick a catheter into your urethra
+and hold in the bladder
+and then expel urine.
+And so, you get into
+these struggling fights.
+And of course the more they struggle,
+the more they constrict and
+it makes it harder to do it.
+So, I was asked if we could test this.
+So, we did a randomized
+trial at children's hospital.
+They either got training in self-hypnosis.
+I would meet with them and
+the mother the week before,
+we find out from the kids
+where they like to be.
+And I'd say, you're going to
+play a trick on your doctors.
+Your body's there, you're somewhere else,
+go visit your friend, go to
+Disneyland, do something else.
+And the mother would work on this with me
+at the head of the table.
+And we found that these children
+were much easier to image.
+One got so relaxed that, so
+your guy [indistinct] he's said,
+normally it takes us 10
+minutes to get them to pee
+after they're doing this.
+She was so relaxed, she started peeing
+before I could even get the
+bed pan under her [laughs].
+And I had to clean up the table.
+And they also, 17 minutes
+shorter procedures.
+And that's a long 17
+minutes for a little kid.
+So, it can be very
+effective with children.
+They're less anxious, they have less pain
+and get through these
+difficult procedures very well.
+- That's great.
+Has hypnosis ever been done for couples,
+like couples therapy?
+I'm thinking of pretty much
+every clinical setting here.
+Both people have to be hypnotizable,
+of course.
+- Mm-hm, yes.
+- But the reason I ask about this,
+is next, I'm going to
+ask about psychedelics
+and there's a lot of interest in,
+coordinating states through the use,
+of drugs of different kinds.
+- Mm-hm.
+- We actually do this when
+we treat depression, right?
+You have a depressed
+person with family members
+who are not depressed, and you say,
+well, let's make them all
+not depressed [chuckles],
+[David laughing]
+right, I mean,
+but and I'm only half kidding there,
+because that is kind of the
+underlying logic in some sense.
+But are you aware of any of
+any coordinated hypnosis?
+- That's interesting, I mean,
+I've done plenty of it in
+groups not with couples.
+- You can hypnotize large groups,
+at once?
+- Oh yeah.
+- Are we hypnotized right now?
+- Yeah, you are.
+And I hope you've been enjoying it.
+[Andrew laughing]
+But the metastatic breast cancer,
+there was a group of like 10 women,
+who would meet once a week
+and we would all go
+into hypnosis together.
+- I didn't realize that,
+you were hypnotizing them collectively.
+- Yes, right.
+- Fascinating.
+- And that, if anything,
+I think it brings out the
+best in people's abilities
+because it's a shared social experience
+and they would talk about it afterwards.
+And so, yes, that's
+absolutely doable, yeah.
+- And I don't want to focus
+on psychedelics specifically.
+Maybe that's a topic for a future episode.
+But is there any basis
+for combining hypnosis
+with drug therapies inside
+of the hypnotic episode?
+So, I realize that some patients of yours,
+might be prescribed a antidepressant
+or a medication for some purpose,
+maybe same or different
+than the hypnosis is
+being directed toward.
+But is there any evidence that,
+if people are relaxed through
+the use of a propranolol
+or one of these many things
+in the psychiatrist's kit,
+that hypnosis can be more effective?
+- Well, interestingly,
+one study that I haven't mentioned is,
+we did spectroscopy on
+people who were hypnotized.
+And we found that,
+there was a correlation
+between hypnotizability
+and GABA activity in the
+anterior cingulate cortex,
+which fits with turning down activity.
+To the extent that we can self-medicate
+and GABA receptors basically are doing
+what benzodiazepines do to the brain,
+that can happen when
+people are hypnotized.
+- So you're saying inside of the hypnosis,
+you have neural evidence that,
+there's a kind of a
+sedative effect of hypnosis
+at the chemical level.
+- Yeah, right.
+- Amazing.
+- The people who are more hypnotizable,
+have more of those GABA receptives
+and it's related to the degree
+of their hypnotizability.
+- Fascinating.
+- In terms of, there have been studies,
+where they give people
+medications as well.
+And the interesting thing
+with benzodiazepines,
+which activate inhibitory
+activity in the brain.
+If you are very anxious,
+it might improve your
+hypnotic response a bit.
+If you're just so anxious
+and [indistinct] you can't do it.
+If you're not very anxious,
+it actually inhibits hypnotic activity
+because you get sort of
+sedated and just out of it.
+And you can't focus
+your attention, as well.
+So, by and large,
+we don't use drugs as an
+adjuvant to hypnotic experience.
+Most of the time you don't need to.
+And sometimes it can make
+it worse rather than better.
+There's some evidence that,
+mild stimulants might enhance
+hypnotic responsiveness,
+a little reliably, but too much,
+Well, [indistinct] scatter attention
+and you'll have less control over it.
+So, they might be adjuvants,
+but I frankly think hypnosis
+is more of a replacement
+than a need of supplementation.
+- Your laboratory and my laboratory have,
+well, have sort of snuck into your lab
+and then trying to emerge the two,
+it's been a lot of fun,
+- It sure has,
+been learning a lot about,
+the power of respiration of breathing
+to shift brain states, not just
+during breathing protocols,
+but at all times.
+And we will do an entire
+episode about those protocols.
+I think we,
+- Cool.
+- after those are published and so on.
+But breathing itself is,
+you've described as a bridge
+between conscious and unconscious states.
+- Right.
+- So, I have to ask,
+how important is the
+patient's breathing pattern?
+How closely are you monitoring
+their breathing pattern?
+How closely do you monitor
+your own breathing pattern
+as you're inducing hypnosis?
+Put simply, what is
+the role of respiration
+in shifting the brain's state,
+during a hypnotic protocol?
+- Yeah, that's very interesting.
+You had a great show with Jack-
+- Yeah, Jack Feldman
+- Feldman.
+[Andrew indistinct]
+And he is.
+And the issue,
+I watch it,
+I try [stutters].
+The work that we're enjoying
+doing together shows
+that there are breathing patterns
+that may increase sympathetic
+arousal or may decrease.
+It may [indistinct]
+cyclic sighing seems to,
+actually, where you have
+more time spent exhaling
+than inhaling.
+And there's reason to believe
+that it induces parasympathetic activity,
+'cause you're increasing
+pressure in the chest
+and therefore allowing
+the heart to slow down
+because blood is being returned
+to the atrium more easily.
+I do use it.
+I ask people to take a deep
+breath as part of the induction
+and then slowly exhale.
+And partly as a result
+of our research together,
+I'm emphasizing this slow exhale more,
+as part of [stutters],
+to enhance the idea in the induction
+that this is a period of relaxation,
+'cause I think they are inducing that
+and perhaps perceiving it as well.
+So, there there's no,
+you're absolutely right that
+breathing is very interesting
+'cause it's right at the edge of conscious
+and Jack talked about that too,
+of conscious and unconscious control,
+that it will go on automatically
+but we can control it.
+And so, it's a kind of way
+for us to demonstrate to ourselves,
+greater ways of modulating
+our internal state.
+So, you can either do it,
+thinking about it,
+the way we do with pain
+control in hypnosis
+or you can do it to some extent,
+by taking charge of your breathing
+and doing things that
+will produce a change
+that you want to see happen in your body.
+So, I like it because
+it's right at that margin,
+where you can enhance,
+for me, I like that as a
+way of augmenting hypnosis,
+more than medication,
+I think this is a powerful
+way of doing that.
+- Great, I'm really excited
+to see where all of this goes.
+- Yes.
+- Breathing, vision,
+bodily states are clearly the-
+and directed mental focus,
+seem to be the key elements of hypnosis.
+Am I missing any other ingredients?
+- Yeah, I think that's right.
+- It's-
+- Breathing, vision,
+- Breathing, vision, how
+you change your vision
+and you don't, you know,
+typically you're in a
+physically relaxed state,
+but frankly there are people
+at the peak of performance,
+including physical athletic performance
+or musical performance when
+they're in hypnotic states too.
+I've talked to classical pianists who say,
+I'm not thinking, if
+I start thinking about
+what my fingers are doing now, I screw up.
+I'm floating above the piano,
+thinking about the tone
+that I want to feel exuding
+from the instrument.
+So that's a hypnotic like state too.
+And many athletes who
+are in peak performance,
+are just flowing with it.
+They're not thinking step
+by step, what am I doing?
+And that's when you're doing your best
+or when we're working
+or giving a talk and doing it well,
+we're in a hypnotic like states.
+So, it usually requires,
+but doesn't necessarily
+require physical comfort
+or quietness.
+It can sometimes be intense activity.
+- Incredible.
+Well, this has been an amazing discussion.
+I've learned so much as
+I always do from you.
+Where can people learn more about,
+how they can get hypnotized?
+We mentioned Reveri,
+we'll put a link to it,
+R-E-V-E-R-I.com is the way to access that.
+- Or it's the Reveri
+app from the app store,
+is the other way.
+reveri.com is the website,
+you can get to it through that
+or download the Reveri
+app from the app store.
+- Great.
+So, currently on apple,
+hopefully soon, also on Android,
+but in the meantime,
+what if people are interested
+in exploring clinical hypnosis,
+working with you or somebody similar?
+Is there a centralized resource
+that people can go to to find,
+really well-trained hypnotists?
+- There are two good
+professional organizations
+that will help you with that.
+One is the society for clinical
+and experimental hypnosis.
+And I think that's sceh.us is their-
+- Okay, we'll look it
+up and provide a link.
+- And the American society
+for clinical hypnosis,
+and they both provide referral
+services for professionals.
+You can look it up.
+I would just say in general,
+look for someone who
+is licensed and trained
+in their primary professional discipline,
+psychiatry, psychology,
+medicine, dentistry
+and who has training and
+interest in using hypnosis,
+is a way to do it.
+- Great and then one more
+question and then a comment.
+The question is, will
+you be my psychiatrist?
+- [laughs] I'm honored.
+- It's a tall task.
+I might be that the most stubborn patient.
+- I think the hardest work's
+already been done, Andrew.
+- Thank you.
+- You're fine, now.
+- I appreciate that.
+[David laughing]
+Well, and the final thing is a comment.
+First of all,
+thank you so much for being here today,
+for sharing your knowledge.
+- You're welcome.
+- I hope we can do it again and again.
+- I hope so.
+- I love working with your laboratory
+and with you.
+- Likewise [indistinct].
+- Because when you speak,
+I learn and I know others do as well.
+- Thank you.
+- We will put resources
+to get to you but I also just want to say,
+thank you for doing the work that you do.
+- Well, thank you.
+- It's an incredible thing
+that in this world
+where we are discovering so
+much about how the body works,
+the mind is still rather mysterious
+and people are struggling
+with a lot of things,
+but also I think people
+are really excited about,
+applying tools like
+hypnosis to perform better,
+feel better mentally and physically.
+And so you've pointed us
+to a tremendous amount of resources
+and how these tools work
+and where they've already
+been demonstrated to work.
+So just, thank you.
+I know this is your
+professional commitment in life
+and we all benefit.
+So, thank you so.
+- Well, thank you,
+but it's been a real joy for me
+to be collaborating with you
+and for you to be using your precision
+and knowledge about neuroanatomy,
+neurobiology to address problems
+that often people who are that disciplined
+in the primary neurobiological end,
+aren't as interested in as you are.
+And so, it's really been a pleasure
+to try and bring together
+what we both know
+from these different perspectives
+to build something that
+neither of us could do alone.
+And so, it's been a real
+joy for me to do it.
+- Thank you, I'm honored.
+- Thank you.
+- Thank you very much, David.
+- You're welcome.
+- Thank you for joining me today
+for my discussion with Dr. David Spiegel.
+I hope you found it as
+fascinating as I did.
+And if you'd like to see the video
+of Dr. Spiegel hypnotizing me,
+in what constitutes a abbreviated
+clinical hypnosis session,
+you can go to the Huberman
+Lab Clips channel on YouTube.
+Also, if you'd like to
+check out the Reveri app
+for self-hypnosis designed by
+Dr. Spiegel and colleagues,
+you can go to Reveri
+that's R-E-V-E-R-I.com
+to see the Reveri app,
+there's also other information there
+about the scientific studies
+that support the Reveri app.
+If you're enjoying and or
+learning from this podcast,
+please subscribe to our YouTube channel.
+That's a terrific zero
+cost way to support us.
+In addition, please
+subscribe to the podcast
+on Apple and or Spotify.
+And on Apple, you have the opportunity
+to leave us up to a five star review.
+Please also leave us
+comments and feedback,
+as well as suggestions for
+guests that you'd like us to host
+on the Huberman Lab Podcast,
+in the comment section
+on our YouTube channel,
+please also check out the sponsors,
+mentioned at the beginning
+of today's episode,
+that's the best way to
+support this podcast.
+We also have a Patreon that's
+patreon.com/andrewhuberman
+and there you can support the podcast
+at any level that you like.
+On many previous episodes
+of the Huberman Lab Podcast,
+we discuss supplements,
+while supplements aren't
+necessary for everybody,
+many people derive
+tremendous benefit from them,
+for things like enhancing sleep and focus
+and various other aspects
+of brain and body,
+health and performance.
+One issue with supplements however,
+is that many of the supplements out there,
+simply do not contain
+what's listed on the bottle
+and or the quality of the
+ingredients is not very high.
+That's why we partnered
+with Thorne Supplements.
+Thorne Supplements are used
+by all the major sports teams
+and they've partnered
+with the Mayo Clinic.
+The reason they have so
+many high level partners,
+is that Thorne Supplements,
+are of the very highest
+quality ingredients.
+They also are extremely precise
+in terms of what's listed on the bottle,
+is always what it's in the bottle.
+If you'd like to see the
+Thorne Supplements that I take,
+you can go to Thorne,
+that's thorne.com/u/huberman
+and there, you can see the
+Thorne supplements that I take
+and get 20% off any of those supplements.
+Also, if you navigate
+deeper into the Thorne site
+through that portal,
+thorne.com/u/huberman
+you can also get 20% off
+any of the other supplements
+that Thorne makes.
+If you're not already following
+us on Instagram and Twitter,
+please do so,
+it's hubermanlab on both
+Instagram and Twitter.
+And at those channels,
+I cover science and science related tools.
+Some of which overlap with
+the content of this podcast,
+other of which does not
+and is unique content.
+So, once again, thank you for joining me
+for my discussion with Dr. David Spiegel
+and last but certainly not least,
+thank you for your interest in science.
+[upbeat music]

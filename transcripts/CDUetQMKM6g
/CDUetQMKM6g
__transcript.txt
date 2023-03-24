@@ -1,0 +1,4147 @@
+welcome to the huberman Lab podcast
+where we discuss science and
+science-based tools for everyday life
+I'm Andrew huberman and I'm a professor
+of neurobiology and Ophthalmology at
+Stanford school of medicine today my
+guest is Dr ODed rakhavi Dr ODed rakhavi
+is a professor of neurobiology at Tel
+Aviv University in Israel his laboratory
+studies genetic inheritance now
+everybody is familiar with genetic
+inheritance as the idea that we inherit
+genes from our parents and indeed that
+is true many people are also probably
+now aware of the so-called epigenome
+that is ways in which our environment
+and experiences can change our genome
+and therefore the genes that we inherit
+or pass on to our children
+what is less known however and what is
+discussed today is the evidence that we
+can actually pass on traits that relate
+to our experiences that's right there is
+evidence in worms in flies in mice and
+indeed in human beings that memories can
+indeed be passed from one generation to
+the next and that turns out to be just
+the tip of the iceberg in terms of how
+our parents experiences and our
+experiences can be passed on from one
+generation to the next both in terms of
+modifying the biological circuits of the
+brain and body and the psychological
+consequences of those biological changes
+during today's episode Dr rahavi gives
+us a beautiful description of how
+genetics work so even if you don't have
+a background in biology or science by
+the end of today's episode you will
+understand the core elements of genetics
+and the genetic passage of traits from
+one generation to the next in addition
+he makes it clear how certain
+experiences can indeed modify our genes
+such that they are passed from our
+parent it's to us and even
+transgenerationally across
+multi-generations that is one generation
+could experience something and their
+grandchildren would still have genetic
+modifications that reflect those prior
+experiences of their grandparents Dr
+rachavi takes us on an incredible
+journey explaining how our genes and
+different patterns of inheritance shape
+our experience of life and who we are
+before we begin I'd like to emphasize
+that this podcast is separate from my
+teaching and research roles at Stanford
+it is however part of my desire and
+effort to bring zero cost to Consumer
+information about science and science
+related tools to the general public in
+keeping with that theme I'd like to
+thank the sponsors of today's podcast
+our first sponsor is Roca Roca makes
+eyeglasses and sunglasses that are of
+the absolute highest quality the company
+was founded by two All-American swimmers
+from Stanford and everything about Roka
+eyeglasses and sunglasses were designed
+with performance in mind I've spent a
+lifetime working on the biology the
+visual system and I can tell you that
+your visual system has to contend Within
+an enormous number of challenges in
+order for you to be able to see clearly
+under any conditions Roka understands
+this and has designed their eyeglasses
+and sunglasses accordingly originally
+Roca eyeglasses and sunglasses were
+designed for sport that is for things
+like running and cycling and many of the
+features they have reflect that so for
+instance they are extremely lightweight
+they won't slip off your face if you get
+sweaty and they can indeed be worn for
+running and cycling and things of that
+sort however they also come in a number
+of different Aesthetics and styles that
+make them perfectly suited not just for
+sport but also for wearing to the office
+to work if you'd like to try Roca
+eyeglasses or sunglasses go to Roka
+that's roka.com and enter the code
+huberman to save 20 off your first order
+again that's Roca roka.com and enter the
+code huberman at checkout today's
+episode is also brought To Us by hvmn
+Ketone IQ Ketone IQ is a ketone
+supplement that increases blood ketones
+most everybody has heard of the
+so-called ketogenic diet most people
+including myself do not follow a Keto
+genetic diet that does not however mean
+that ketones cannot be valuable because
+ketones are one of the primary sources
+of brain fuel and body fuel that allows
+us to think clearly for long durations
+of time and to perform well physically
+which is all to say that even if you're
+somebody who's not on a ketogenic diet
+such as myself increasing your blood
+ketones can be immensely beneficial for
+cognitive and physical performance
+indeed that's how I use Ketone IQ I'll
+take one or two servings per day
+typically sometimes before a workout but
+most typically before doing about of
+cognitive work so I'm going to sit down
+and prepare a podcast or focus on
+research for my lab or a writing project
+or anything that requires a high degree
+of concentration for a prolonged period
+of time ingesting Ketone IQ prior to
+that I've noticed greatly increases my
+level of concentration and I can sustain
+that concentration for much longer
+periods of time than if I don't take
+Ketone IQ if you'd like to try Ketone IQ
+you can go to hvmn.com huberman to save
+20 off again that's HP bmn.com huberman
+today's episode is also brought To Us by
+eight sleep eight sleep makes Smart
+mattress covers with cooling Heating and
+sleep tracking capacity so I've talked
+about many times before on the podcast
+there's a critical relationship between
+sleep and temperature and indeed between
+waking up and temperature that is your
+body temperature needs to decrease by
+about one to three degrees in order for
+you to fall and stay deeply asleep at
+night and when you wake up in the
+morning in order to do that feeling
+refreshed your body temperature actually
+needs to increase by about one to three
+degrees so it's critical that you
+control the temperature of your sleeping
+environment and that that temperature be
+controlled very specifically across the
+night and into the morning with eight
+Sleep mattress covers that's all
+extremely easy to do you can program the
+temperature of your mattress in the
+beginning middle and throughout the
+night and when you wake up I've been
+sleeping on an eight-sleep mattress
+cover for over a year now and it has
+greatly improved the quality of my sleep
+and indeed I know that because eight
+sleep also includes a terrific sleep
+tracker built directly in to that
+mattress cover if you'd like to try
+eight sleep you can go to adesleep.com
+huberman to save 150 off their pod 3
+cover eight sleep currently ships in the
+USA Canada UK select countries in the EU
+and Australia again that's
+eightsleep.com huberman and now for my
+discussion with Dr ODed rojavi ODed
+thank you so much for being here totally
+my pleasure yeah this podcast has a
+somewhat unusual origin because I am
+familiar with your work but we
+essentially met on Twitter
+um where you are known for many things
+but uh lately especially
+um you have been focusing not just on
+the discoveries in your laboratory and
+other Laboratories but also sort of meme
+type humor that relates to the
+scientific process and we'll return to
+this a little bit later but um first of
+all I think it's wonderful that you're
+so active on social media in this
+positive stance around science that also
+includes humor but today what I mainly
+want to talk about is
+the incredible questions that you probe
+in your lab which are highly unusual
+incredibly significant for each and all
+of our lives and very controversial and
+at times even
+um a little bit dangerous or morbid so
+this is going to be a fun one for me and
+for the audience just to start off very
+basically you get everyone up to speed
+because people have different
+backgrounds
+I think most people have a general
+understanding of what genes are what RNA
+is and so on but maybe you could explain
+to people in very basic terms and I'll
+just preface all this by saying that I
+think most people understand that if
+they have two blue-eyed parents that
+there's a
+higher probability that they their
+offspring will have blue eyes than brown
+eyes
+similarly to brown eyed parents higher
+probability that they have brown eyes
+rather than blue eyes and so on
+but that most people generally
+understand and accept that if they spend
+part of their life let's say studying
+architecture that if they have children
+that there's no real genetic reason we
+assume that their children would somehow
+be
+better at architecture because they
+contain the knowledge through the DNA of
+their parents they might be exposed to
+it in the home so-called nature nurture
+that's a nurture in that case but that
+they wouldn't inherit knowledge or other
+traits
+and today I'm hoping you can explain to
+us why eye color but not knowledge is
+thought to be inherited and the huge
+landscape of interesting questions that
+this opens up including some evidence
+that contrary to what we might think uh
+certain types of knowledge at the level
+of cells and systems can be inherited so
+that was a very long-winded opening but
+to frame things up
+what is DNA what is RNA and how does
+inheritance really work okay so DNA are
+the is the material the genetic
+instructions that is containing every
+one of our cells we have the set of
+genes containing the entire set is
+called The genome and this is present in
+every cell of our body the same set of
+instructions
+and genes are made of DNA and they're
+all they also contain n chromosomes that
+are containing chromosomes chromosomes
+is the DNA and the proteins that
+condense the DNA because we have a huge
+amount of DNA in every cell that you
+need to content it to sort of like um
+thread on a spool right huge amount that
+you have to condense
+and we have the same genome the same DNA
+in every
+cell in our body can I just interrupt
+and I'll do that periodically just to
+make sure that
+um people are being carried along
+I sometimes find that even remarkable
+that a skin cell in a brain cell a
+neuron for instance very different
+functions but they all contain the full
+menu of genes and the same menu of genes
+now it is amazing it is amazing and
+perhaps it's good to have an analogy to
+understand how it works so this is I
+hope this is not the commercial but this
+is like the Ikea book that you have in
+every cell in your body the instructions
+to make everything that you need in your
+house the chairs the the kitchen the
+pictures but in every in but in every
+room you want something else so in the
+kitchen you want things that fit the
+kitchen and in the toilet you want
+things that fits the toilet so you only
+remove one particular page of
+instructions which is the instruction of
+how to build a chair and this you place
+in the key in the in the living room
+okay and in the toilet you put in the
+toilet so the DNA is the instruction to
+make the genome the is the instructor to
+make everything this is the Ikea book
+and in every cell we we take just the
+instructions for make one particular
+furniture and this is the RNA this is
+the RNA this is the set and then the end
+you'll build the chair the chair is the
+protein so the DNA the RNA is the our
+instructions to make one particular
+protein based on the entire set of
+possibilities
+and and this is uh this is true for one
+particular type of RNA which won't be
+the style of of this conversation which
+is messenger RNA
+this is the RNA that contains the
+information for making proteins in fact
+this is just
+a small percent of our of the RNA in the
+cell so we have a very big genome and
+less than two percent of each encodes
+for this messenger RNA however
+a lot of the The genome is transcribed
+to make RNA that does other things
+some of these rnas we understand
+and many of them we don't
+I think it's a beautiful description and
+Ikea is not a sponsor of the podcast so
+um it's a totally fair game to to use
+the Ikea catalog as as the analogy for
+DNA The Specific Instructions for
+specific pieces of furniture is the RNA
+and the furniture pieces being the
+proteins that are that are essentially
+made from RNA using messenger RNA right
+okay thank you for that so
+despite the fact that the same genes are
+contained in all the cells of the body
+there is a difference between certain
+cell types right I would say is it fair
+to say that there's basically one very
+important exception which is somatic
+cells versus germ cells and would you
+mind sharing with us what that
+distinction is so so yes every cell
+every cell type is different because it
+expresses it brings into action
+different genes from the entire
+collection and assumes an identity
+and so we have uh we have cells in the
+legs we have cells in the brain we have
+in the in the brain we have cells
+produce dopamine cells that
+producerotonin and so on and we can make
+uh different uh separation different uh
+distinctions but we can make one very
+important distinction between the
+somatic cells and the germ cells The
+Germ cells are supposed to be the only
+cells that contributes
+to the Next Generation that out of which
+the next generation will be made so each
+of us is made just from a combination of
+experimenting egg these are two types of
+germ cells and then they fuse and you
+make you you get one fertilized egg and
+out of this one cell all the rest of the
+body will develop
+and what happens in the Soma which is
+which are all the cells that are not the
+germ cells should stay in the summer
+should not be able to contribute to the
+Next Generation this is very important
+and it's thought to be one of the main
+barriers for the inheritance of acquired
+traits inheritance of memory and so on
+because for example like the example
+that you gave in with learning
+architecture if I learned about
+architecture the information is encoded
+in my brain
+and since my brain cells
+can't transfer information to the
+Spearman D egg because the information
+is supposed to reside in synaptic
+connections between different neurons in
+particular circuits that developed uh so
+what's what what happens in the brain
+shouldn't be able to transfer to the
+Next Generation even simpler a simpler
+example if you go to the gym and you
+build up muscles you know that your kids
+will will have to work out on their own
+it won't that this shortcut won't won't
+happen this is something that we know
+intuitively and even if we don't have
+any background in biology
+and this is connected to the fact that
+as we said in the beginning every cell
+in the body has its own genome
+and the next generation will only form
+from the combination of the genomes in
+the sperm and the egg
+even if you somehow acquire the mutation
+or a change in your DNA in one of
+particular brain cells it wouldn't
+matter because this mutation there's no
+way to transfer it to the DNA of the of
+the germs that will contribute to the
+Next Generation
+so despite that
+there is as you will tell us some
+evidence for inheritance of experience
+let's call it or um and here we have to
+be careful with the language right I
+just want to put a big asterisk and
+underline and a highlight that the
+language around what we're about to talk
+about is both confusing
+and at the same time fairly simple and
+controversial right it's a little bit
+like in the um in the field of longevity
+people sometimes will say anti-aging
+some people say longevity the anti-aging
+folks feel that longevity is more about
+longevity clinics they don't like that
+anti-aging is related to some other kind
+of Niche clinics sometimes FDA approved
+or government approved sometimes not and
+so there's a lot of argument about the
+naming but it's all about living longer
+and living healthier
+in this field of acquiring traits or the
+passage of information to offspring what
+is the proper language to refer to what
+we're about to uh discuss
+um there is this idea and I'll say it so
+that you don't have to that dates back
+to Lamarck and lamarckian evolution very
+controversial right um and maybe not
+even controversial I think it's very
+like offensive even to certain people
+this idea of inheritance of acquired
+traits the idea that one could change
+themselves through some activity use the
+example going to the gym we could also
+use the example somebody who becomes an
+endurance Runner then decides to have
+children within another endurance Runner
+and has in mind the idea that because
+they did all this running and not just
+because they were biased towards running
+in the first place but because they of
+the distance they actually ran that
+their offspring somehow would be
+fabulous runners okay this lamarkian uh
+concept is We Believe wrong so how do we
+talk about inheritance of acquired
+traits what's the proper language for us
+to frame this discussion right we have
+to be very careful as you said and there
+are many complications that many
+ambiguities and maybe you could tell us
+why lamarchy and evolution for those
+that don't know is so
+um so such a stained thing right so it's
+not polite right Perhaps Perhaps we'll
+start we just just say that we can talk
+about inheritance required traits
+transmission of Parental responses
+inheritance of memory all of these
+things and we can also talk about
+epigenetics
+and transgenerational epigenetics and
+intergenerational epigenetics there are
+many terms that we need to
+to make clear for for the audience
+the the reason that is so uh toxic or
+controversial is very
+complicated and it goes a long time back
+even way before Lemak so even the the
+Greeks talked about inheritance acquire
+traits La Marque is associated with the
+term
+but it's probably a mistake although
+everyone talks about including people
+who studied So La Marque worked he
+published his book about a little more
+than 200 years ago and he uh he believed
+in The Inheritance acquired traits
+absolutely but just like anyone else in
+his time
+just everyone believed in it this is it
+seemed obvious to them that it was long
+before Mandel and the rules of of
+genetic inheritance and also Mendel was
+long before the understanding the DNA is
+the heritable material so this happened
+a long time ago everyone believed in it
+including Darwin Darwin was perhaps more
+La Marque and De La Marque really yes
+absolutely all right now we're now we're
+getting into the yeah and and this is uh
+in the inhale in in the origin of the
+species it's in all of his writings
+Lamarck didn't even really make the
+distinction between the generations he
+had many other reasons for being wrong
+but he connected the terms inheritance
+of acquire traits to evolution
+and this is some of the reason he that
+he was very controversial even in his
+time there were other reasons for
+example he rejected current day
+chemistry and thought that he can
+explain everything based on Aristotelian
+fluids Earth Wind Fire and Water there's
+still some people on the internet that
+think they can discard with chemistry
+and explain everything that's on Earth
+Wind and Fire and this wasn't only
+biology it was also the weather and
+everything so that was part of the
+reason but um
+made many mistakes but he did have a a
+full tier of inheritance which was a big
+[Music]
+um
+step towards where we are today so he
+had important contributions nevertheless
+although he was mistake about the
+mechanism what he believed like everyone
+else
+drives evolution is the transmission of
+the traits that you acquire during your
+life or the the things that you do or
+don't you do we talked about use and
+disuse of of certain organs that shape
+the uh our organs and eventually also
+the organs of the Next Generation he
+sounds a little bit like the uh the
+first self-help public figure right well
+this idea you know I mean this is
+heavily embedded into a lot of the
+health and fitness space on the and
+Twitter and Instagram and on the
+internet which is that uh and it's and
+it's the idea that we're sold
+um very early in life at least here in
+the United States and probably elsewhere
+which is that we can become anything
+that we want to become and then that
+will forever change The Offspring
+um either because of nature or nurture
+right and this is a very dangerous idea
+as I'll explain in a second and he led
+to horrible things this is part of the
+reason that this is such a Taboo it's
+not only self-help you're helping your
+all this helping yourself the problem is
+when you apply to others and this
+happens in a very very dramatic and
+horrible way in in in recent in the
+recent past as I'll tell in a second So
+La Marque this is what he believed and
+and he thought this was this is how
+Evolution progresses progression and
+later uh um Darwin
+and showed that this really natural
+selection the selecting of the the
+people that of the organisms that are
+already
+um that already contain the the
+particular qualities are selected based
+on the whether they survive or not in
+particular environments and therefore
+the
+um Evolution progresses they become more
+common and take over this is very
+distant two different explanations the
+most common way this is contrasted is
+the neck of the giraffes this is the
+classic example according to to Lamarck
+the giraffes had to stretch their necks
+towards the trees
+to eat when the treeter when the trees
+were high and because of that they
+transmitted these traits long next to
+their children who also had long necks
+by the way he only mentioned this
+example you know
+a handful of times he didn't really
+focus on that and according to that we
+just the agile that would happen to be
+born with the long neck survived because
+it ate so it's genetic heritable
+materials you know about genetics but uh
+take over and the rest of the giraffes
+that have different heritable materials
+just die
+so this is natural selection versus
+inheritance for quiet rates
+there are many reasons why lamarchism
+and inheritance of quiet rates became
+such a bad term one of the biggest is
+what happened in the Soviet Union
+under Stalin there was a scientist
+called lisenko who thought that
+mendelism normal genetics is Bourgeois
+science shouldn't be done and whoever
+did normal genetics was either killed or
+sent to the Siberia and and he thought
+that just like you said we can not only
+we can become everything that we want
+but we can grow everything that we want
+in every field we can take a frozen
+field and grow potatoes there and so on
+and this led to massive starvation
+ruined agriculture in in in in the
+Soviet Union also in science for many
+many years and put a very dark cloud on
+the entire field
+and only probably in the 80s or
+something like this the field started to
+recuperate for that
+aside for that which is a very dramatic
+thing there was also crazy stories
+around an attempts to to prove The
+Inheritance required traits despite the
+realization of many scientists this is
+something that is very rare or that
+normally doesn't happen is it that is
+not a normal way that inheritance works
+and I can tell you about two such
+dramatic cases that will illustrate it
+yeah please so so in the in the
+beginning of the 20th century in Vienna
+there was a researcher called Paul
+camera was a very famous and and also
+very colorful figure who did experiments
+on many different types of animals
+he did experiments on toads that are
+called the Midwife toad because the male
+carries the DX
+and there's a beautiful book about it
+from from Kessler telling the story of
+what happened there and he there are a
+couple of types of of toads some of them
+live
+underwater and some of them live on land
+and these toads are different in the
+shape and in the behavior
+and so of course the capacity to live
+underwater is one thing but also the the
+morphology
+and appearance changes the Toads that
+live underwater develop these new petal
+pads these black pads on their hands
+that allow the males to grab onto the
+female without sleeping for mating for
+mating
+and the ones online don't have them
+he claimed that he can take the toads
+and train them
+to live underwater
+changing the temperature and all kinds
+of things it's a very difficult animal
+to work with eventually according to
+camera they will
+acquire the capacity to live underwater
+and also change the physiology and
+develop these new black no petal plants
+on their heads with this discovery he
+traveled the world became very famous
+and this was in just the beginning of
+the previous century
+as the person who found the true foreign
+traits despite their controversy and so
+on in their in the beginning of the
+realization of how it actually works
+with DNA and so on not with DNA but with
+the natural selection DNA came later
+and uh
+and people didn't believe him he was
+actually under a lot of attacks but it
+seemed convincing at the end what
+happened is that they found that he
+injected ink to the Toads to to to make
+them become black to have this new petal
+pets so he faked the results
+and
+um and he couldn't stand that with uh
+the the accusations and killed himself
+wow in this book by Kessler it's just
+maybe it was it was the assistant who
+did it who killed him no no who who
+injected it to to sort of save him from
+because the sampers lost the coloring or
+something like that so it might be who
+knows what well in science whenever
+there's a fraud accusation or
+controversy that it's not uncommon to
+see a passing of responsibility right
+are there recent cases there are ongoing
+cases now where it's a question of who
+did what Etc actually I have two
+questions
+um uh before the Second Story
+um I'm struck by the idea that he was
+traveling and talking I'm guessing this
+was before PowerPoint and keynote but
+also before transparencies which are
+actually were still in place when I was
+uh
+my graduate student for those of you
+don't know transparency they're
+basically
+um transparent uh pieces of plastic
+paper that uh that you put onto a
+projector and then you can write on them
+and do uh demonstrations but can show
+photographs and things like that
+um so how is he giving these talks and
+would he travel with the top so he
+traveled with the sempus I see and and
+I'm basing this on this Kessler book
+which is on its own very controversial
+it's more of a beautiful story than you
+know perhaps the truth but and and
+according to the story there you had to
+stand one side of the lecture hall with
+his hands behind the back While others
+would examine the samples and pass them
+around and so on but he cheated someone
+cheated he probably he probably did it
+at least that that's the what most
+people think
+but this wasn't replicated I mean also I
+don't think anyone tried to replicate it
+interesting uh rep this is just a point
+about replication and actually another
+tragic example not but a few years ago
+um Sakai who is a as far as we knew was
+doing very accomplished work on um the
+growth of retinas literally growing eyes
+in a dish I think everyone believes that
+result but then there were some
+accusations about another result
+um that turned out to be fraudulent and
+Sakai killed himself right this was a
+recent this was only about maybe five
+ten years ago
+um so it still happens yeah it happens I
+think it's rare but it does happen
+especially in this very high profile I
+would argue I'd love to know what your
+number is but I would argue that 99 of
+scientists are seeking truth and are
+well-meaning honest people I totally
+agree and I think that uh even think
+when people are wrong
+it's mostly not because they're evil and
+trying to active like maybe they really
+want to believe the results or there are
+all kinds of way to be wrong and and
+even to bend truth without uh you know
+just uh blatant fraud but this is
+according to the story and an example of
+very bad thoughts which is I agree it's
+rare because most scientists as you said
+this is also my opinion are just trying
+to to discover truth and do the best
+they can well why else would you go into
+it because it's certainly not a
+profession to go into if you want to get
+rich and it's um probably not even a
+profession to go into if you want to get
+famous if you want to be famous you
+should go to Hollywood or um become a
+serial killer because they'll make
+specials please don't
+um but uh please don't do either uh no
+Hollywood I suppose for some is fine but
+in any case
+um okay so camera around 1907 1906. this
+is slightly before the whole the the
+Contour obviously broke out after the
+first world war okay yeah great so um
+camera is gone his toads with their um
+either ink or whatever neupitol pads
+they have to go back to mating on land
+yeah okay I'd like to take a quick break
+and acknowledge one of our sponsors
+athletic greens athletic greens now
+called ag1 is a vitamin mineral
+probiotic drink that covers all of your
+foundational nutritional needs I've been
+taking athletic greens since 2012 so I'm
+delighted that they're sponsoring the
+podcast the reason I started taking
+athletic greens and the reason I still
+take athletic greens once are usually
+twice a day is that it gets to be the
+probiotics that I need for gut health
+our gut is very important it's populated
+by gut microbiota that communicate with
+the brain the immune system and
+basically all the biological systems of
+our body to strongly impact our
+immediate and long-term health
+and those probiotics and athletic greens
+are optimal and vital for microbiotic
+health in addition athletic greens
+contains a number of adaptogens vitamins
+and minerals that make sure that all of
+my foundational nutritional needs are
+met and it tastes great if you'd like to
+try athletic greens you can go to
+athleticgreens.com huberman and they'll
+give you five free travel packs that
+make it really easy to mix up athletic
+greens while you're on the road in the
+car on the plane Etc and they'll give
+you a year's supply of vitamin d3k2
+again that's athleticgreens.com huberman
+to get the five free travel packs and
+the year supply of vitamin D3 K2 so so
+this is forget about that we also had
+the lisenko episode you know that's a
+very big thing and and then in the US
+there was in the 70s and 80s a
+researcher named McConnell
+who did very different experiments and
+he was also a character he worked he
+worked on he so he was the Joker type of
+thing and he published many of his
+results in a Jonah that he published
+that was called worms breeders Gazette
+and had many cartoons and so he started
+his own journal yeah yes and that's one
+way to publish a lot yeah but they also
+published in in very respected journals
+in parallel but he was he was a
+psychologist American psychologist and
+he worked on a warm which is a flat warm
+which is called planaria which is very
+interesting this is different than what
+we'll discuss today different type of
+one and you know worms are
+are very common so four out of five
+animals on this planet is a war really
+yes numerically if you just count the
+individuals so we are the exception and
+and uh so but but I'll talk about a very
+different warm later
+this is a flat one this is called
+planaria
+and it is remarkable in many ways it was
+also a model that many people worked on
+including the the fathers of of genetics
+of people who started genetics like
+Morgan they worked on it in the
+beginning but it's very very hard to
+study genetics in this form because
+unlike us unlike what we explained
+before about how we all develop from
+sperm and egg
+these worms most of the time reproduce
+just by fission they tear themselves
+apart so they have a head and a tail and
+the part of the head would just tear
+itself apart on the tail growing you and
+the head will grow and you tail the tail
+will grow in your head you can even cut
+them to 200 pieces each piece will grow
+into a new one Wild and and they have
+centralized brains with lobes and
+everything and even this degenerate eyes
+he studied these worms and he said that
+he can teach them certain things
+associations
+by pairing all for I don't remember
+exactly what he did I think it was uh um
+either lights or electricity with shock
+which would shock them with other things
+and he could train them to learn and
+remember particular things like either
+you might get shocked on one side of the
+tank exactly and then avoid that side of
+the tank yes and then I guess the
+question is whether or not they're all
+they're ripped apart cells and their
+subsequent Generations will know to
+avoid that side of the tank without
+having ever been exposed to the shock
+right so without ever being exposed to
+shock or they whether the the new
+generation the new head will be able to
+remember to learn faster that's another
+the subtlety that you know might happen
+okay
+and and this is what he said it happened
+he said he can teach them certain things
+remove cut off their heads and new heads
+with all the brain
+uh will will grow and that it will
+contain the memory this was the start of
+the controversy not the end of it only
+at the beginning
+then he said something even much Wilder
+which is it can train them to learn
+certain things and then just chop them
+up put them in a blender
+and feed them to other worms because
+they are cannibalistic they eat each
+other and that the memory will transfer
+through feeding this sounds such a
+dramatic field
+and by the way this this opened the
+field so people did experiments then not
+only in planaria but in golf fish and
+certain rodents and did this memory
+brain transfer essays implanting brain
+and this is in the back when they they
+had an idea that some memories could be
+moleculars could have a molecular form
+which is very appealing it's almost like
+science fiction you can have a memo in a
+tube
+I like the way we think about memory
+normally which is something that is
+distributed in neuronal circuits
+and encoded in the strength of
+particular synapses and so on but but
+the idea that you can take a memory and
+reduce it into a molecule and transfer
+it around is very very you know
+interesting so this is why it's
+attracted so many people this ended up
+in a catastrophe
+so there was an NIH investigation
+couldn't no one can replicate anything
+it was a big mess although there were
+always scientists who said yes we can
+replicate this in this so they were in
+the background okay
+McConnell stuff
+was different
+again people thought that they couldn't
+they that there are problems replicating
+but it wasn't necessarily but some
+people replicate but it wasn't
+necessarily about
+replicating the whole thing but the
+question was did the memory the transfer
+is specific or is it an overall
+sensitization that transmits and so on
+right like you could imagine that what
+gets transmitted is a hypersensitivity
+to electricity as opposed to the
+specific location that the electricity
+was introduced or even more than that
+more you're more Vigilant and you'll
+learn anything except faster that's also
+a possibility but his problem wasn't the
+accusation it was much worse that he was
+targeted by the Unabomber these
+terrorists who sent letters with bombs
+to many scientists for 15 years
+and and his assistant again is the
+assistant I think exploded and this is
+how his line of research ended
+just recently a few years ago a
+researcher from Boston
+um Mike Levin and and his postdoc
+talshomrat
+replicated some of McConnell's
+experiment with the cutting of the head
+but in the very using very fancy
+equipment and automated tracking and
+they could say that they can replicate
+some of this his uh his uh his
+experience really yes and they don't
+open packages in that Library they have
+they have interesting stories you should
+have Mike over yeah I'm familiar with
+with a bit of his work now I didn't
+realize they had done that experience so
+they published it yet a few years ago
+and this is very interesting but of
+course they don't know how it happens
+the mechanism is unclear McConnell went
+a step further than this and what's
+fascinating is that this these are
+experiments that were done in the 70s
+and 80s he said that he can not only
+transfer the memories through
+chopped animals
+but he can take the other animals that
+learned and break it down into different
+fractions so just the DNA just the RNA
+just the the fats the the proteins the
+sugars and he said that the fraction
+that transmit the memory is the RNA
+and this is very very interesting
+because it was a long time before
+everything that we know about
+RNA today
+I'll soon go into my research explain
+what what we do and then you see that
+you can actually feed worms with RNA and
+get and have many things happen this is
+everyone no this is true okay so this is
+why it was so appealing to to go back to
+that and study by the way at the time it
+became popular knowledge everyone knew
+this experiments they'll just it was a
+Star Trek episode about it from 84.
+there are Comics books about it books
+about it so this was very and people
+were eating RNA because they thought it
+was ironing memory this was of course
+complete nonsense but but this was it
+made a lot of noise in these years which
+is part of the reason it was so toxic
+until recently you couldn't touch it
+because it was considered pseudoscience
+likely senko like uh camera and all of
+this so this was just something you you
+didn't want to touch at all
+and and then we go back to to these uh
+studies about the inheritance of memory
+or inheritance of acquired traits in
+other organisms
+in in members in in in humans and aside
+from the dark clouds that these episodes
+left there were also theoretical
+problems of why this can't happen
+barriers that have to be breached for
+this to happen
+and you can you can talk about many
+different types of barriers
+uh
+and and you can also narrow it down to
+two main barriers first barrier we
+mentioned it this is the separation of
+the Soma from the German right the
+somatic cells they can change in
+response to experience the sperm and the
+Egg the so-called germ cells cannot yeah
+that's the idea or they are isolated on
+what happens in the summer okay The Men
+Who who first thought about this barrier
+is called Wiseman August Wiseman this
+one is the 19th century
+so it is called today the Wiseman
+barrier separation of the summer from
+the German only the germline transmit
+information to the Next Generation and
+this is also called the second law of
+biology so this is very very fundamental
+so natural selection is the first one
+this is the second one because it's so
+important to how we work
+to how our bodies work Wiseman by by the
+way thought that if you will have direct
+influence of the environment on The Germ
+cells then perhaps this could transfer
+to the Next Generation
+so he wasn't as strict as
+his burial suggests but but this is not
+how most people remember it
+okay but he thought that this is
+unnecessary it's possible that natural
+selection can explain everything and it
+compared to to uh a boat which is in the
+ocean it is sailing and it has a sail
+open so you don't have to assume that it
+has an engine the wind is blowing you
+don't have to assume other things the
+natural selection might be enough
+so this barrier is still standing
+but not entirely it is rich in some
+organisms and we'll go into that in a
+second the other barrier is the now we
+have to to understand the other Bill we
+have to talk about epigenetics we have
+to Define epigenetics and what it is
+and epigenetics is another term which
+people misuse horribly and say about
+everything that is epigenetics
+even people from the field
+the word itself that the term was
+defined in the 40s by uh Weddington
+Conrad Wellington and he talked about
+the interactions between genes and that
+and and their products that act that's
+in in the end bring about the phenotype
+of the consequences and how genes
+influence development
+later people discovered mechanisms that
+are that that change the action of genes
+the different mechanisms and started
+talking about these as epigenetics for
+example the DNA is built out of four
+basic elements
+is how the the the at GNC right and they
+could be more chemically modified
+so in addition to just the information
+that you have in the sequence of the DNA
+you also have this the information in
+the modification
+of the basis
+the most common modification that has
+been studied more than others is
+modification of the letter c of cytosine
+methylation the addition of a metal
+group to this C
+and
+and and this can be
+replicated so after the the DNA the
+cells divide and and replicate the
+genetic material in certain cases also
+these chemical modifications can be
+added on and replicate and be preserved
+for those who aren't as familiar with
+thinking about genes uh and Gene
+structure and epigenetics could we think
+of um these you mentioned the four
+nucleotide bases cg80 but could we
+imagine that through things like
+methylation it's sort of like taking the
+primary colors and adding a changing one
+of them a little bit changing the the
+Hue just slightly which then opens up an
+enormous number of new options of color
+uh integration it's just more
+combinations more ways more information
+there are the modifications of the DNA
+and also there are the modifications of
+the proteins which condense the DNA that
+are called histones
+so they are also Modified by many
+different chemicals again methylation is
+a very common modification acetylation
+even serotonin
+the serotonination of histones Serotonin
+right this is a new paper from nature
+from a few years ago can change DNA not
+the DNA itself but the protein that
+condenses it essentially how
+um in the analogy I used before of uh of
+how the thread is wrapped around the
+spool essentially yes and and this
+determines the the degree of
+condensation of the DNA whether the gene
+is now more or less accessible and
+therefore can perhaps be expressed more
+or less
+this is this is one way to affect the
+the gene expression and and bring about
+the function of the gene there are many
+additional ways not the only one
+so then when this was when all of this
+was starting to be elucidated people
+talked about epigenetics they started
+talking about these modifications forgot
+the original definition and when people
+said epigenetics they talk about
+methylation and things like that and um
+again to just frame this up so we can
+imagine two identicals twins so-called
+monozygotic twins
+um we could go a step further and say
+that they're monochorionic if they were
+in the same placental Sac because twins
+can be raised in separate Stacks
+slightly different early environments
+let's say those two twins are raised
+separately one experiences certain
+things
+um the other other things they eat
+different foods Etc and there is the
+possibility through epigenetic
+mechanisms that through methylation
+acetylation
+um serotonin production
+Etc that the expression of certain genes
+in one of the twins could be Amplified
+relative to the other right so yeah so
+we know that even a totally identical
+Tweeds genetically they're identical but
+they look different and they are
+different because we experience we all
+experience it and this is this can
+happen because of these
+epigenetic changes okay or it can happen
+because of other mechanisms because
+genes respond to the environment genes
+don't exist in a vacuum
+there are genes are need to be activated
+by transcription factors and there's a
+whole uh there's a lot of Machinery that
+is responsible for making genes function
+so we are
+a combination of our genetic material
+and the environment okay so when people
+talk about epigenetics and talks that
+talk just about the modification they're
+also not exactly right my definition of
+epigenetics is inheritance which occurs
+either of course cell division or more
+interestingly also for this podcast now
+across Generations
+not because of changes to the DNA
+sequence by but through other mechanisms
+I think this is the the the most robust
+definition that that allows you to
+understand what you're talking about
+and then again and then uh and then the
+question is if this happens then what
+are the molecules that
+actually transmit information across
+Generations are they these chemical
+modifications to the DNA or to the
+proteins that condensate DNA or are
+there other other agents that transmit
+information and which molecules can do
+it and I actually think that the most
+interesting players today are RNA
+molecules okay but before I go into that
+I just want to say that when we talk
+about the barriers to epigenetic
+inheritance or the barriers to
+inheritance of acquired traits
+in addition to the
+separation of the summer from the German
+and we discussed the other main barrier
+it's called epigenetic reprogramming
+which is that we acquired our diff our
+cells the the genetic material in our
+cells acquires all kinds of changes
+these chemical changes modification we
+discussed
+but these modifications are largely
+erased
+in the transition between Generations so
+in the Gemini in the in the spearm and
+the Egg and also in the early embryo
+most of the modifications are removed so
+we can start a blank slate based on the
+genetic instructions
+and this is crucial otherwise
+according to the theory it's not clear
+that actually true because in some
+organisms doesn't really happen
+we will just we will not develop
+according to the
+species typical genetic instructions so
+to preserve this we we raise them at the
+the all these modifications that start
+anew and this is in memmers and in
+humans
+this is largely too most of the
+notifications on this in the sperm and
+in the egg are removed from about 90
+percent of them some remain which could
+be interesting so the idea if I
+understand correctly is that there's
+some Advantage uh to wiping the Slate
+clean and returning to the original plan
+in in the context of the IKEA furniture
+analogy
+um the instruction book is the one
+that's issued to everybody okay or every
+cell right only certain instructions are
+used for certain cells say a skin cell
+or a neuron or a liver cell or a
+um any other cell for that matter
+through the course of the lifespan of
+the organism those Specific Instructions
+are adjusted somewhat okay so maybe uh
+like Ikea furniture uh sometimes you you
+can they send you seven not eight of
+particular screws where they send you
+um the proper number but you put them in
+the wrong place and it sort of changes
+the way that the thing works a little
+bit
+once that assuming Furniture could
+reproduce but here in the analogy of the
+furniture as as the cell or or the organ
+in that mates with another organism that
+needs to be replicated and so the idea
+is to take the instruction but go
+through and erase all the pen and pencil
+marks erase all those additional little
+modifications that the the owner use or
+introduced to it and return to the
+original instruction right because if
+you want to bring back the instruction
+book you want it to have all the
+potential to make all the Furnitures you
+don't want it to be restricted to the
+ones that you made in particular
+room so it's essentially the opposite of
+acquired traits and characteristics
+based on your uh what we say in biology
+geek speak lineage based experience but
+what your parents experience right in
+some ways we want to eliminate all that
+and go back to just the genes they
+provided yes but it's more complicated
+it's more complicated than that because
+we have some very striking examples even
+in members were some of the of the marks
+are maintained for example the classic
+example is imprint imprinting is a very
+interesting phenomena and
+the way DNA works is that we you inherit
+and a copy for every chromosome from
+your mother and your father
+and then you have in every cell of your
+body two copies if you're a human
+of every concept okay and then so so
+every Gene is represented twice these
+are called alleles the different
+versions of the chief
+and the the thought is that once you
+entered in the Next Generation the two
+copies that you inherited are
+are equal it doesn't matter whether you
+record inquire acquire them from your
+mother or from your father right
+there are some situations where it does
+matter there's there is a limited number
+of genes that are in Pre called
+imprintages where it does matter whether
+you inherited from your mother or your
+father and and this is happening through
+epigenetic analysis not because of
+changes to the DNA sequence but because
+of maintain maintenance of this chemical
+modifications across generations and as
+I recall from the beautiful work of
+Catherine dulock uh at Harvard that
+especially in the brain there is
+evidence that some cells contain the
+complete genome from Mom or the complete
+genome from Dad and it can also switch
+during your life so for her work showed
+that early on in in your life it's
+different whether you express the
+maternal or paternal copy then when
+you're
+more mature so parents and children take
+note you know for those of you that are
+saying oh you know the child is more
+like you or more like me that can change
+across the lives man and if you're
+thinking about your parental lineage and
+wondering whether or not you quote
+unquote inherited some sort of trait
+from mother or from father it can be of
+course both or it can be just one or
+just the other which I think most
+parents
+tend to see and describe in their
+children from time to time that's just
+like the father that's just like the
+mother of friends right right but
+it's important to know that in this
+situation their environment played no
+role this was just whether it passes to
+the mother or the father it's not that
+something that happened to the mother or
+the father affected this okay so this is
+slightly different the question is now
+can the environment
+change the heritable material okay so
+it's very important
+to understand that there's a difference
+between nurture and nature and this is
+very confusing and people are
+it's a little subtle so for example
+people tell me I'm growing horses for
+many years and I just know that this
+horse has a particular uh character it's
+very different from from the other horse
+and so this is epigenetic and Heritage
+no it could be just genetically
+determined yes this horse inherited a
+different set of genetic instructions so
+it is different it doesn't have to be
+about epigenetics epigenetic inheritance
+means that the environment of the
+parents somehow change the the children
+and there there are these two main
+barriers that are serious bottlenecks
+that we have to think what type of
+molecule and how they can be breached so
+one possibility is that it's really this
+limited number of chemical modifications
+that survive and which is about 10 also
+that could be very interesting not a
+small number not a small number but
+perhaps perhaps okay this is one one
+possibility the other possibility that
+there are other mechanisms
+the the situation now in humans is that
+it's just really unclear what transmits
+if it can transmit and which molecule
+does it
+we'll talk later about other organisms
+where it is a lot more clear but in
+humans and members in general there are
+many examples for environments that
+change the children
+whether they you need to invoke an
+epigenetic mechanism to explain this
+phenomena this is unclear first of all
+because it's how to separate nurture
+from nurture
+and second because the mechanism is just
+not understood so there are classic
+examples for in humans there were
+periods of famine starvation in
+different places in the world
+in the Netherlands in China in Russia
+where people did huge epidemiological
+study to study the next Generations and
+so that the children of women who were
+starved
+during pregnancy are different different
+in many ways they have a
+different birth weight
+glucose sensitivity and also some
+neurological
+higher chances of getting some
+neurological diseases and this has been
+shown
+in very large studies is there ever an
+instance in which starvation or hardship
+of some kind some challenge a sensory
+challenge or a survival based challenge
+led to Adaptive traits yes they are in
+different organisms
+it could be as a result of a trade-off
+so there could be a downside as well but
+for example there are two examples that
+come into mind one of them is that if
+you stress male
+um mice or or
+um or rats I don't remember this is work
+of Isabel mansoi in the eth in
+Switzerland if you stress the males you
+can do it in many different ways and I
+don't remember exactly how they did but
+you can do you can separate them from
+their mothers you can do social defeat
+all kinds of things then the next
+Generations are less stressed they show
+less anxiety so they're threshold for
+stress is higher yes however I think
+they have memory deficits and and other
+metabolic approach maybe an advantage
+for dealing with stress could be it
+could I don't have any direct evidence
+of that but there's some there's some
+simmering ideas that you know our
+ability to Anchor our thoughts in the
+past present or future seems very
+adaptive in certain contexts in other
+contexts it can keep us ruminating and
+not right you know right adaptively
+present to our current challenge another
+example is that uh um nicotine exposure
+this is I think the work of oliverando
+from UMass is a if I'm not mistake again
+these are not my studies but they
+improve the the tolerance to exposure to
+similar drugs in the Next Generation
+the interesting thing here is that it's
+very non-specific so you you treat them
+with nicotine but then in the Next
+Generation they are more tolerant to
+nicotine but also to other
+I think cocaine or that sort of makes
+sense to me because uh yeah obviously
+nicotine
+um activates the cholinergic system the
+dopaminergic system epinephrine and Etc
+um and you can imagine that there's
+crossover because other drugs like
+cocaine amphetamine mainly Target the
+catecholamines the dopamine and
+narepants in in this particular study if
+I remember correctly they show that this
+happens this heritable effect even if
+you use an antagonist to block the
+nicotine receptor wow so so it's
+something more about clearance of
+xenobiotics and and hepatic functions
+that is transmitted and is very
+non-specific what I love about all the
+examples you've given today and and
+especially that one is and I hope that
+people um if you're just listening I'm
+smiling because biology is so cryptic
+sometimes you know the the the the
+obvious mechanism is rarely the the one
+that's actually at play right and um and
+people always ask well why why is it
+like this and I always say you know the
+one thing I know for sure is that I
+wasn't consulted at the design phase and
+if anyone claims they were then you
+definitely uh want to back away very
+fast and there could be so many
+trade-offs so many trades so for for
+example we started and also other many
+many other people studied effects these
+are in worms we'll go we'll go deep into
+that in a second but uh that show that
+when you starve them the next
+Generations uh live longer
+and this I think could be a trade-off
+with other things like
+um like fertility
+so the next Generations are more sick
+and fair and less fertile and perhaps
+because of that they live longer so they
+could be it's not necessarily a good
+thing right I don't want to draw you off
+course uh because this is magnificent
+what you're doing and and uh splaying
+out for us here but do you recall there
+was a few years ago it actually ended
+very tragically it was an example I
+think it was down in San Diego County
+there was a cult of sorts that were
+interested in
+um living forever uh and so they uh
+castrated the male self-castrated
+themselves in the idea that somehow
+maintaining some prepubescent data
+reverting to a pseudo pre-probescent
+state would somehow extend longevity the
+idea that um sexual behavior somehow
+limited lifespan this has been an idea
+that's been thrown around in the kind of
+more wacky longevity communities
+um they also shaved their heads they
+also wore the same Sneakers but then
+they also all committed suicide right as
+the hail Bop Comet came through town
+um but that's just but one example of
+many Cults aimed at sort of um that
+obviously was not life extension that
+was life truncation but aimed at kind of
+eternal life or some sort of uh through
+caloric restriction that's right this
+this cult also is very into the whole
+idea that by through caloric restriction
+we can live much longer which uh may
+actually turn out to be true I think
+it's still debated
+um hence all the debate about
+intermittent fasting Etc but also uh it
+isn't on if you overeat you shorten life
+this is this is clear it's known that
+big-bodied members of a species live far
+um shorter lives than the smaller
+members a Great Dane versus a Chihuahua
+for instance so there is some like sort
+of shards of truths in all of these
+things but I I it seems to me that the
+real question is like what is the real
+mechanism and and why would something
+like this exist right and why questions
+are very dangerous in biology right
+right but but very interesting also and
+and so so when it comes to metabolic
+changes and nutrition there are numerous
+examples where you either overfeed or
+starve and gets effects in the next
+Generations many of the sometimes the
+effects contrast depending on the way
+you do this and again these are none of
+we don't do any of that in in members
+but people show that you're starving or
+overfeeding the mothers or the fathers
+changes the body weight of the the Next
+Generation and also the the glucose
+tolerance and and other and and also a
+productive uh success and um
+and and so the the fact that there's an
+effect that there's something transmits
+this is clear the question is how
+miraculous is it and whether you need
+new biology and epigenetics to explain
+what do I mean by that if you affect the
+Next Generation
+it doesn't necessarily has to go through
+the outside or the sperm and involves
+the epigenome you change the metabolism
+of the animal as it develops and
+obviously it will affect it when you for
+example starve women that are pregnant
+as happened during the the this famous
+starvation studies the the baby is
+already in Utah exposed directly to the
+environment so it's not even a heritable
+effect the baby is itself that effective
+it's a direct effect very interesting
+important and has many implications and
+it will be separate from the genetics
+you have to take it into account to
+understand what's going on
+it doesn't require necessarily new
+biology a new new biology of inheritance
+not only is the embryo affected the
+embryo while in Utah already has gem
+cells so it's also the next generation
+is directly exposed
+and you don't need any new biology
+necessarily to explain it and it doesn't
+have has to involve genetic epigenetics
+or epigenetics Etc it's clear to me that
+in the female fetus the total number of
+eggs that she will someday produce and
+potentially have fertilized by sperm
+exist but in males with a 60-day sperm
+cycle leaves me the question to
+fetal males males as fetuses living as
+fetuses in their moms already start
+producing sperm or it's the primordial
+cells that give rise to sperm so I'm not
+an expert so I don't want to go into the
+details of exactly when in Mammoth but
+but yes exposure of them of the mother
+also affect the eventually the the the
+the transmission of the father of
+genetic information through the sperm's
+father and there are also many examples
+of just stressing the fathers affecting
+the sperm and affecting the Next
+Generation then if you go to the F2
+Generation if you've got two generations
+down the road not to the kids but to the
+grandkids then it is a real epigenetic
+effect because uh because you you
+examine something that happens although
+the next generation was was never
+exposed to the original challenge so
+when we say about epigenetic inheritance
+in through the paternal linear through
+the funnels we talk about uh two
+generations
+and when you go through the mother it's
+three generations to talk about to when
+you need to invoke some real epigenetic
+mechanism and there the evidence becomes
+much more scarce
+in minutes
+there are examples
+more of less convincing the field is
+evolving and improving a lot so for
+example now
+to many people use the cutting edges to
+use IVF
+in vitro fertilization or transfer of
+embryos to make sure that you actually
+it's the it's the heritable information
+not the environment uh or and that it
+goes through the germline
+so this is something that is being done
+now there are studies which I'm at the
+three-parent IVF where they take the DNA
+from Mom the sperm from Dad and they
+take the DNA from Mom and put it into a
+novel cytoplasm or no no or just you
+just take the sperm and transfer it and
+fertilize the the the an egg to standard
+IVF yes yeah you can do it in many
+different ways but this idea that you
+separate the the environmental the
+environment of the mother from The
+Inheritance or the environment of the
+father and uh to to control and separate
+nature from nature the environment
+becomes the culture dish yes yeah
+so so the field is is improving people
+do experiments that have a higher ends
+or more replicates and better controlled
+and there are some examples for effects
+that transfer and it depends who you ask
+whether people believe it or not
+many geneticists do not believe it and
+many people do believe and it depends on
+the community there are strong
+resistance
+for many reasons some of them are
+Justified some less justified in our
+part of the scientific process of and
+how things work because it's it's it's a
+new it's challenging the Dogma so this
+is very interesting on its own if you
+ask psychologists many psychologists
+believe that those heritable trauma and
+things like that
+population geneticists less so
+so this really depends and I think that
+we are just at a point in time where we
+don't really know whether it happens at
+to what extent and we need bigger
+studies even if you think about normal
+just genetic studies where people trying
+to understand the genetic underpinning
+of complex traits
+like
+um
+anything that involves their brain
+pretty much we now know that you need to
+study many many many people so now this
+big genome-wide Association studies big
+genetic studies involve hundreds of
+thousands of people no one did an
+experiment like this for epigenetics
+it's much more complicated because you
+need to also take into account the
+environment and to it's I don't I'm not
+even sure we know how to design such an
+experiment it's very very challenging
+okay so so the part of the resistance
+resistance to the ideal is based on
+total theoretical grounds because of
+these barriers
+and because of the of the controversies
+on the other hand
+there's people that really want to
+believe it people really want to believe
+it
+because
+it sort of gives your life meaning
+if you can change your B biology
+through changing of your kids through
+changing your biologists also
+psychologically I can understand why
+many people want this to happen even
+shreddinger the same as a physicist so
+he wrote a very important book in 44 so
+this was before the the double helix and
+the
+um
+that's it's called what is life this is
+actually a book that was drove many by
+physicists to establish molecular
+biology it's very very important and he
+talks about the heritable material it
+also talks about Evolution and he said
+unfortunately Lamarque is a more
+inheritance of acquire trait is
+untenable it doesn't happen
+and you're right this is very very sad
+or unfortunate because unlike Darwinism
+or natural selection which is gloomy
+doesn't matter what you do
+the next generation will be born based
+on the instruction in the sperm and the
+Egg doesn't matter you can't influence
+it of course you can give your kids
+money and education but you can't
+biologically influence it you can also
+so
+um one thing I'm fascinated by for a
+number of reasons is partner selection I
+mean in some ways you know we think oh
+we we want to find someone who is you
+know kind that does seem to be by the
+way the primary feature at least in uh
+the data tell us we had David Buss on
+the podcast of how women like men that
+people are kind there's also resource
+potential there's also beauty or
+um aesthetic attractiveness in males and
+females Etc
+um male male female female as the case
+may be but in terms of reproduction
+spermag uh male female obviously so
+we're selecting for a number of traits
+but presumably subconsciously we are
+also selecting for a number of traits
+related to Vigor and in the idea that if
+we were to have Offspring with somebody
+that those traits would be selected for
+right and we actually have a
+work on that in nematodes that I'll be
+happy to tell you about in a second
+after we with the dating and the data
+the dating and warmth and and where we
+understand the mechanism and we'll go
+into that in a second but uh or in a few
+minutes after we we dive into the worms
+but uh but yes the original
+um calculations of how population
+genetics work
+to simplify things and to do the math so
+it would be busy it was random mating of
+course it doesn't work like that okay so
+it complicates things because we know
+and there's research about potential uh
+capacity to somehow sense uh immune
+compatibility and things like this which
+is I don't know I'm not an expert on
+that but neither am I but my
+understanding is that of course we're
+familiar with the other traits we select
+for um like potential nurturing ability
+whether or not someone is reliable
+predicts something about their nurturing
+ability and for Offspring potentially I
+mean you can draw lines between these
+things without any um direct evidence
+but but they seem so logical right that
+somebody kind who might also stick
+around or be honest in these kinds of
+things that it makes sense but that one
+would be selecting for certain
+biological traits like immune function
+or some other form of robustness that
+we're not aware of is I think a
+fascinating fascinating area of biology
+yeah yeah so so this is where the the
+the the
+working members stand however there's
+also one additional thing to to mention
+which is that
+on top of chemical modifications to the
+DNA and and the proteins that condense
+the DNA which are called histones there
+are also other mechanisms that might
+transmit information including
+transmission between generations of RNA
+and there are different types of RNA not
+just the RNA that we mentioned before
+the messenger RNA which
+encodes for the information for making
+protein but also other rnas that
+regulate gene expression and this is and
+I think that in recent Years also in the
+mammalian field a RNA as the molecule
+that has the potential to transmit
+information between generation took
+Center Stage so I think this is The
+Cutting Edge
+and a lot more to understand than no but
+RNA has a lot of potential for doing
+that as we'll explain uh soon but we
+have to go to worms first I'd like to
+just take a brief moment and thank one
+of our podcast sponsors which is inside
+tracker inside tracker is a personalized
+nutrition platform that analyzes data
+from your blood and DNA to help you
+better understand your body and help you
+reach your health goals I've long been a
+believer in getting regular blood work
+done for the simple reason that blood
+work is the only way that you can
+monitor the markers such as hormone
+markers lipids metabolic factors Etc the
+impact your immediate and long-term
+Health one major challenge with blood
+work however is that most of the time it
+does not come back with any information
+about what to do in order to move the
+values for hormones metabolic factors
+lipids Etc into the ranges that you want
+with inside tracker changing those
+values becomes very straightforward
+because it has a personalized dashboard
+that you can use to address the
+nutrition-based behavior-based
+supplement-based approaches that you can
+use in order to move those values into
+the ranges that are optimal for you Your
+vitality and your longevity inside
+tracker now includes a measurement of
+APO lipoprotein B so called APO B in
+their ultimate plan apob is a key marker
+of cardiovascular health and therefore
+there's extreme value to knowing your
+apob levels if you'd like to try inside
+tracker you can go to insidetracker.com
+huberman to get 20 off any of inside
+tracker's plans again that's inside
+tracker.com huberman to get 20 off thank
+you
+for that incredible overview of genetics
+and RNA and epigenetics and was
+essentially a survey of this very
+interesting
+um and on the face of a complex field
+but you've simplified it a great deal
+for us
+in our transition to talking about worms
+I would like to plant a flag in the uh
+in the huberman lab podcast and say that
+what we are about to discuss is the
+first time that anyone on this podcast
+has discussed so-called model organisms
+I may have mentioned a fly paper here or
+there or a study on honeybees and
+caffeine and um flower preference at one
+point but typically that's done in
+passing and we quickly rotate to humans
+I know that many if not most of our
+listeners are focused on humans and
+human biology and health Etc but I
+cannot emphasize enough the importance
+of model organisms and the incredible
+degree to which they've informed us
+about human health especially when it
+comes to very basic functions in cells
+right I mean one could argue okay and
+there's been some debate telomeres and
+mice did that really lead to the same
+sort of data on humans okay there are
+these those cases certainly but model
+organisms are absolutely critical and
+have been and basically informed most of
+what we understand about human health so
+before we
+um start to go into the description
+about worms per se could you just
+explain to a general audience what a
+model organism is right they're not
+modeling they're not posing for
+photographs obviously
+um what what that means and what some of
+the general model organisms are and why
+you've selected or elected to work on a
+particular type of worm to study these
+fascinating topics that in there's zero
+question also take place in in humans at
+some level
+so it's it's a it's a real pleasure and
+an honor to represent the model
+organisms here I'm really happy just for
+that this is it was worth it uh because
+as you said model organisms are
+extremely important and we learn so much
+about about biology through them the the
+model organisms mean that it's an it's a
+an organism that many people work on so
+there's a community of people that work
+on people work study many types of
+organisms but not around every organism
+there's a huge community of researchers
+that com that combine sources to create
+all the the resources and the tools and
+understanding that accumulates
+there's just a handful of model
+organisms
+in the his in the short history of the
+field of biology it's not so long we
+learned about every aspect of biology
+through them including many important
+diseases
+human diseases and these are
+E coli bacteria phage which is a virus
+of bacteria
+and
+flies
+worms that are called C elegans
+nematodes this is what we study in the
+lab
+fish which are called zebrafish it's a
+particular Danny o'danio right yeah and
+uh and of course there are also model
+organisms and mouse
+and um and also plants important plants
+the most studies one is the arabidopsis
+yeah and perhaps less so nowadays but
+non-human primates macaque monkeys
+marmoset squirrel monkeys these I I
+don't know exactly how to finish this
+but emerging model organisms there are
+many logarithms that are emerging and
+there are communities that are formed
+including also around the planaria that
+we mentioned before this flatworm that
+regenerates is a great model for
+studying regenerations if we could
+develop new heads it would be incredible
+and we can learn from these organisms
+and the reason that we can learn a lot
+also about humans by studying these
+animals is that we all evolve from the
+same ancestor
+so we shared we shared we shared a lot
+of our uh um uh our functions with them
+and also a lot of our genes
+see elegans and they have the different
+model organisms have different
+advantages that serve us
+they uh they sometimes have some things
+that are much more apparent in them that
+we can study for example learning and
+memory was largely studied in the
+beginning in a snail Ecclesia where many
+of the discoveries were made because it
+has big noise that you can easily study
+and
+and examine and yes snails learn yes
+they learn even CL against these
+nematodes that we study learn and they
+are much simpler than another important
+reason to send them of course is you can
+you actually experiment on them we can't
+do this to humans the things that we do
+to these animals and and we can change
+their genes
+do all kinds of things for them and in
+some uh sorry to interrupt but in some
+cases I think you're going to tell us
+for instance in C elegans in particular
+they what the presence of particular
+cell types is so stereotyped that you
+can look at several different worms and
+you can the the community of people that
+study CL against is literally numbered
+and named each neuron so that two
+laboratories on opposite sides of the
+world can publish papers on the same
+neuron knowing that it's the same neuron
+of the two different Laboratories
+something that is extremely hard to do
+in any mammalian model a mouse or
+certainly in humans and um has posed
+huge challenges that uh give great
+advantages to studies of things like
+Clans
+this is the star now of of what what and
+this is what what we study these are
+nematodes small worms round worms that
+are just one millimeter long
+so you can see them with the naked eye
+you have to look under the scope where
+do they live in the in the natural world
+so they they used to call them soil name
+I thought but this is not really true
+there are there are in many places but
+they're mostly in rotten fruits and
+leaves and
+um you can find them in the ground as
+well but you can also find them and they
+are free living so they're not parasites
+but you can sometimes also find them in
+snails
+okay but but the best way to isolate
+them is from rotten fruits okay yeah I
+like the idea that they're not parasites
+I'm one of these people that gets a
+little squeamish about the notion of
+parasites yeah so so they're not
+parasites they're really fun to handle
+because they're so small and easy you
+just grow them on plates with Edgar and
+E coli bacteria this is what they eat in
+the lab you can just pick them with uh
+um with a small pick wire pick and move
+them around and change their their genes
+and do many things to them but they have
+many advantages for neuroscience
+and for studying inheritance as you
+mentioned they have always a certain
+number of cells in the body so a seal
+against nematode always has 959 cells in
+its body that's it okay not 960. not 958
+959 okay and out of which 302
+are neurons
+always 302 there's a huge debate now
+over Twitter on whether it's 302 or 300.
+I I mean I don't want to get into
+trouble okay but people take this very
+very hard I think it's 302 but let's not
+get into it because I'll get into
+trouble well we can equilibrate all
+things here by you say 302 granted
+you're far more informed in this model
+organism that I am or ever will be I'll
+say 300 and then we're balanced in terms
+of partisan politics in the C elegans
+so so it's and it's always the same and
+each neuron has a name like you said and
+when we not only does every neuron has a
+name many of them we know what they do
+so there's a few cells that are sensory
+neurons that uh sends particular
+chemicals in certain situations we'll
+know that a chemical will be sent just
+by one
+there are the motor Neons and internodes
+and all of that we know how many
+dopamine neurons they are and serotonin
+and we know them all by their name not
+only that we know how they are connected
+to one another we have a conectom since
+the 80s
+like a subway map that tells us which
+neuron talks with which other neurons
+and it is the same
+okay it was used to think to people
+thought that it was exactly the same
+between genetically identical worms now
+we know that there are slight
+differences but by and large it is the
+same and we have a map a roadmap that we
+can use to study the so-called connector
+the connector not only that the worms
+are transparent
+so we can actually see the neurons
+fire
+using particular tools
+and we can activate genes and solid
+genes using optogenetics like was
+discussed in on the podcast we can make
+the worms go forward or backward or lay
+an egg by shining different waves of
+length of light on them and so we have a
+very powerful tools for manipulating the
+brain
+on top of that we have
+a great understanding of the genetics of
+the worm of of the genome this is
+surrogance is the first animal to have
+its secret its genome sequenced before
+humans for that of course they were
+bacteria but
+and um
+and we know that in each worm produces
+each mother produces about 250 babies
+which are almost genetically identical
+so we can and we know what we get where
+we grow them the environment is very
+controlled so we grow them in the plate
+with just bacteria so we can easily
+separate between nature and nurture and
+and one thing that uh I wonder about
+often is Generation time you know even
+um though mice are not humans mice have
+certain advantages because they're
+mammalian species you can't do all the
+Magnificent things you can do in C
+elegans and mice but
+uh one major issue with mice is that the
+generation time is somewhat long even
+pair two mice they may you get a mouse
+or litter of mice 21 days later it might
+seem like okay uh that's only 21 days or
+so but
+if you are a graduate student or postdoc
+trying to do a project I mean that can
+extend the time to do experiments out
+three or four years compared to what you
+could do in Seattle again you're
+absolutely right this is one of the
+major advantages the generation time in
+silicons is free days three days so you
+can do hundreds of warm Generations in
+one PhD this is very important not only
+that every worm will produce hundreds of
+opportunities so you will have that are
+genetically identical so you will have
+great statistics for your experiments
+and the worms probably don't mind living
+on these agar plates you know munching
+away on E coli where
+um it's the good life you know it's
+questionable whether or not mice or
+certainly listen I I I'm a proponent of
+well-controlled uh over and as long as
+there's oversight um animal research
+it's necessary for the development of
+treatments of diseases that that hinder
+humans but it is always a little bit of
+a of a kind of a cringe and go kind of
+thing when you're dealing with with
+mammals that are living so far outside
+their natural environment you know I'd
+be lying if I didn't say that it gets to
+you after a while and if it doesn't get
+to you you kind of have to wonder about
+your own psyche a bit right I also think
+that this is important but for me it's
+much easier to work on worms I don't
+have to uh you know feel bad about it
+yeah they're happy if they're happy
+happiness you also I mean if if a worm
+dies it's less painful to the human than
+if uh and other more sensitive animals
+yeah I would argue yes I agree yeah so
+yes there so there are many advantages
+for studying C elegans and
+in the warm
+we now have very obvious and clear-cut
+proof that there is inheritance of
+acquired traits
+so much so that I don't think that
+anyone pretty much in the epigenetic
+field argues against it well and in
+large part thanks to you and the work
+you've done so could you tell us what
+was the first experiment that you did on
+sale against that confirmed for you
+that there is inheritance of acquired
+traits because of course the best
+experiments and experimenters
+um always set out to disprove their
+hypothesis and when the hypothesis
+survives despite all the control
+experiments and poking and prodding and
+um attempts to contradict oneself then
+it's considered a victory but it's one
+that you have to be we all have to be
+very cautious about enjoying because uh
+of the tendency to want our hypotheses
+to be true so what was the first
+experiment where you were convinced that
+inheritance of acquired traits is real
+the first experiment I did was when I in
+my postdoc
+which I did with Oliver Hobart in
+University of Colombia and
+we set to test whether worms can produce
+transgenerational
+for long multiple Generations resistance
+to viruses
+well this is a very pertinent topic
+which is a relevant and and
+worms these worms don't have dedicated
+immune cells like we do they don't have
+tea sets or B cells they defend
+themselves from viruses
+very efficiently using RNA so in fact
+when we started these experiments there
+wasn't any natural vials that was known
+to infect the elegans which is amazing
+because viruses are very good as we all
+experience now in infecting
+and the worms are resistant to biosis
+because of our RNA molecules short RNA
+molecules that destroy viruses
+and these are called small rnas
+now we need to discuss them before I
+explain my experiment
+in um
+2006 two researchers that were studying
+C Elegance
+Andrew fire and Craig may look at the
+Nobel Prize
+for showing that there is a mechanism
+that regulates genes
+that happens for small rnas what they've
+shown is that if you
+inject the worms with RNA molecules
+which are which are double-stranded
+they lead to the side to to they shut
+off the genes that correspond that that
+match in sequence to this RNA
+so it's sort of like taking the specific
+instructions for the coffee table from
+your Ikea handbook and you insert a copy
+of that into the book and in doing so
+you prevent the expression of uh you
+sort of erase the original page perfect
+explanation perfect explanation and for
+for they found it
+was two strands is what starts the
+response leading to the production of
+small RNA molecules which are the ones
+that actually find the messenger RNA and
+leads to its destruction silence it so
+you don't get proteins in the end for
+that they got the Nobel Prize after
+people found that this is conserved in
+many organisms including humans and now
+there are now drugs this was only in
+2006 that the Nobel Prize the paper was
+published in 98 there are now drugs that
+use this mechanism
+also in you in in humans and I'll just
+interject and say that not only is it a
+recent discovery in an incredibly
+important one but Andy fire and Craig
+Miller are also really nice people yeah
+they just happen to be very nice people
+and Craig Miller is an excellent um I
+think he's a kite Surfer uh when I uh
+the only time I've met him in person was
+at a meeting it had a black eye and I
+thought okay wow I guess he's also a
+pugilist or something but turns out he
+had done that kite surfing
+um so scientists actually do things
+other than um uh go to the laboratory
+Nobel prize-winning scientists that is
+okay I'll let you continue thanks for
+allowing yeah incredible scientists and
+there were also
+studies in many organisms on the
+mechanisms of how this happens it is
+called RNA interference RNA interferes
+in the expression of a gene in the in
+the function of the Gene and it's also
+also called gene silencing because these
+rnas enforce the silencing of genes
+instead of the genes being expressed
+they'll silence it and you don't
+manifest them function okay
+already in this paper the first paper
+that they published about this where
+they've shown the double strand RNA is
+what leads to the silencing or the
+control they've shown
+two very important things one of them is
+that if you inject the worms with double
+standard RNA
+you don't only see the
+action in the cell that you injected or
+in the tissue that you injected but you
+see it all over the worm's body it
+spreads
+it wasn't exactly clear what spread but
+it was clear that it spreads you see
+that silencing all over the body this
+includes also The Germ cells so if you
+inject the double standard just to
+somatic cells
+even to the head you will get also the
+effect in the jump set and in the Next
+Generation
+okay in the immediate collagening the F1
+generation the kids
+so this was really clear proof that this
+is inherited however
+this is
+just one generation okay in this
+original studies
+latest I've shown something which will
+immediately remind you what I told you
+about with planaria that you can just
+take worms
+and feed them on bacteria that produce
+this double standard
+and that the Dobson and the silencing
+would move from the site of ingestion
+from the gut where the bacteria are
+eaten to the rest of the body and also
+to the Next Generation
+okay so before we left when I mentioned
+this cannibalistic experiments of
+McConnell with the planaria and now you
+see that it can happen and and this is
+not controversial at all this is being
+done routinely every day by any
+silicon's biologist in the world okay so
+this has been replicated a million times
+not only that you can also feed planaria
+these other worms
+with RNA you can just put it in chopped
+liver and let them eat it and again this
+will sandwiches throughout the body
+okay wild okay and this is what we do
+routinely we always when we want we use
+this technique to see what genes do if
+we want to see whether a particular Gene
+is important for a certain Behavior or a
+certain something
+the way to studies is to neutralize the
+gene activity and we do it by just
+introducing the worms with double
+standard RNA that correspond in sequence
+that match in sequence this Gene this
+will lead to the silencing disactivate
+the genes activity and then we
+understand the the effect stops we know
+this genius is involved in the in the
+function and we never want to just
+examine one worm so we feed the mother
+with double standard and then we examine
+all of its children
+so we can have the statistics over
+hundreds of worms or thousands of worms
+so this is validated and not
+controversial in our land totally
+routine is it fair to say that
+McConnell's experiments have um chopped
+blending up these worms really graphic
+image blending up these worms and then
+feeding them to other worms uh planaria
+that those experiments can yes be
+explained by
+um double-stranded RNA which and through
+RNA interface potentially it hasn't been
+done yet we are working on it in in my
+lab now in collaboration with other labs
+fantastic but it wasn't published but
+yes this this could be the explanation
+okay
+so um
+so fire and Melody these experiments
+some other people did these experiments
+when I started my work I wanted to see
+whether in addition to artificial double
+strand RNA some natural traits can can
+also transmit across Generations because
+of RNA because of small organisms right
+because um injecting rnai or um shorter
+interfering rnas that is or
+um you know putting
+worms into an environment with an
+abundance of inhibitory rnas as an
+experiment it's very different than
+worms experiencing something and then
+passing on that acquired trait to their
+offspring I mean it's a world apart in
+my opinion because one is an extreme
+manipulation that illustrates an
+underlying principle the other is
+something that in theory occurs in the
+passage of of generations just naturally
+we're going from the less artificial to
+the more artificial the the advantages
+just like with monologanisms that the
+more artificiality is the easiest it is
+to you know exactly what you did just
+now introduce one factor and you can
+follow the result so this is always the
+trade what I did was in Oliver's lab is
+to see whether
+the magic part of the magic for the
+worms resistance to viruses is the
+capacity to transmit information in the
+form of RNA molecules inhibitory
+molecules to the next Generations
+and it has been shown before in C
+elegans that the worms resist viruses be
+using this mechanism this small
+organisms
+in fact this is probably the reason that
+this small organized evolved in the
+first place
+to get rid of viruses and other
+um parasitic genomic elements
+and this is a mechanism to fight them
+and what I've I did is a very simple
+experiment I took worms and I infected
+them with a virus
+when you do this this also has been
+shown in the past the worms destroy the
+vials okay
+we demonstrated this very clearly
+using a fluorescent virus
+so when if the if the vowels replicate
+successfully the worm just turns green
+green and if the virus is destroyed the
+worm stays black right this is very
+simple it's a clear cut off it's not
+this you don't examine the worm and ask
+whether it feels good but you just see
+this green light binary response yes
+yeah
+and so we we took worms we infect them
+with the fluorescent virus they destroy
+it this also has been done in the past
+but then what we did is we neutralized
+the Machinery that makes small rnas in
+the
+descendants of the worms so they cannot
+make small rnas
+from the start on their own because they
+just don't have the genes that you need
+to to make this more or less
+okay and then we ask when we will what
+will happen will will affect these worms
+with the vowels will they be green
+or black they can't make their own small
+rnas so they can't protect themselves on
+their own the only way for them to stay
+black for help them not having the vile
+supplicate is if they inheritance
+modernized from their parents and this
+is exactly what happens
+all the worms progeny although they
+don't have the gym
+that is needed for making the small rnas
+are black they sign the valves and this
+also continues for additional
+Generations okay so the the parent worms
+effectively
+put something into the genetic
+instructions of The Offspring that would
+afford them
+um this let's call it an advantage in
+this case right afford them an advantage
+if they were to be confronted with the
+same thing that the parents were right
+and we know exactly what this Advantage
+is the advantages are small rnas that
+match the viral genome then just chop up
+the device in the Next Generation and we
+can identify these small rnas
+in the inhibitor awareness in The
+Descendants although they don't have the
+Machinery to make it just because in her
+we can identify them by sequencing
+by RNA sequencing which is like DNA
+sequencing you actually
+get the actual sequence of the RNA
+molecules and we can see that they
+correspond to the values and they have
+they inherited small rnas only if their
+their parents were infected with them so
+there's specificity there there's a
+specificity yeah it's not some just
+general resilience passage right I have
+to be careful in drawing an analogy that
+isn't correct and I want to acknowledge
+that what I'm about to say with
+certainty cannot be entirely correct but
+the analogy that comes to mind in
+mammals is this idea that if one
+generation is stressed that their
+offspring May in some cases have a
+higher stress threshold the resilience
+to stress I could imagine why that would
+be advantageous right your parents have
+a hard life they have Offspring and they
+want their children to have a higher
+threshold of stress because stress can
+inhibit reproduction Etc and as I always
+say you know at the at the end of the
+day and at the end of life
+um evolution is about The Offspring not
+about the parents and every species
+pretty much seems to want to make more
+of itself and protect it's young one way
+or another either through nature sure
+through nurture this is a nature-based
+protection of young is it fair to say
+that in the mammalian experiment with a
+passage of stress resilience
+that
+it could be RNA based that that would be
+for perhaps uh set some new threshold on
+glucocorticoid production here I'm
+speculating but I and I want to
+highlight that I'm speculating I'm
+speculating with a reason which is I
+think for people that are hearing about
+this in worms you've done a beautiful
+job of explaining out why model
+organisms are really important but to
+think about how this may operate in in
+our in the passage of human Generations
+I think is a reasonable thing to
+entertain right and and it is true that
+also in mammals
+now rnas and small rnas are a lending
+candidate for somebody that could
+mediate the transmission of of
+stress protection or also of harmful
+effects to transmit between Generations
+perhaps are going to do it however in
+worms the rnas have one more trick
+that we don't we don't know the
+equivalent in mammals yet this is
+something very crucial that we showed in
+that particular paper in the first paper
+which is so the effect that I described
+this transmission of resistance to
+viruses
+through these rnas doesn't only affect
+the Next Generation it also affects
+multiple additional Generations so it
+gets passed it's get passed and you have
+to ask yourself how doesn't it get
+dilute
+why why isn't it diluted right because I
+mean everyone produces 250 babies
+so you dilute by 250 and if something is
+diluted for four generations so it's 250
+times 252 after four generations it's a
+dilution of four billions completely
+homeopathic would never work okay it's
+just there's nothing left
+The Secret of these worms is that they
+have a machinery for amplifying the
+smaller in every generation
+this is called RNA dependent RNA
+polymerase it's a a complex which uses
+the RNA
+find and once it finds the messenger RNA
+just create many many many many small
+rnas so they don't get diluted and they
+pass on for additional Generations okay
+and this is the the trick we later also
+identify genes that regulate for how
+long an effect would last
+otherwise I mean if if in the beginning
+we ask why does how does it stop after
+one generation now we have to ask why
+doesn't it last forever and it doesn't
+typically we see that the responses last
+not only with the valuable system but
+also with other trades for a few
+Generations three to five generations
+we found genes that function as a sort
+of a clock the time situation of the
+inheritance what sorts of genes are
+those
+so we call these genes motek genes motec
+I don't know how is your Hebrew but more
+text me it means sweetheart in Hebrew
+but the acronym is modified
+transgenerational epigenetic kinetics
+there are different types of genes like
+that and for some of them if you mutate
+if you disrupt their function now now
+the effect would transmit stably for
+hundreds of generations it would never
+stop
+because their role is to stop the
+inheritance from going from from just
+you don't want to carry over something
+forever otherwise you would it will no
+longer fit the environment of the
+parents and you'll be prepared for the
+wrong things
+so this is important there are what type
+of genes are they one gene that we
+studied
+it's called met2 it's actually a gene
+that functions in methylation of the of
+the proteins that condense the DNA so
+this is uh and there are but when there
+are other genes that affect also
+production of small rnas
+is there some mechanism that controls
+the duration of Passage
+in a way that logically links up with
+the lifespan of the organism so for
+instance uh I knew my grandparents met
+them uh I did not ever meet my
+great-grandparents and I certainly
+didn't mean my great great grandparents
+I could imagine that my great great
+grandparents or my great-grandparents
+experienced certain things that were
+passed into their children and and uh
+perhaps into their children but it seems
+reasonable given that humans live
+somewhere between zero and uh 100 years
+typically what now 80 years is that the
+typical lifespan more or less okay
+that
+the if I were gonna design the system
+and again I was not Consulting the
+design phase I would want an Adaptive uh
+trait to be passed for two generations
+because given the way that our given how
+long our species lives and certainly
+given the way the world looks now as
+opposed to the turn of the previous
+Century or the turn of the previous
+Century different stressors different
+adapt you know different life
+environments
+um and what I would want to pass on to
+my Offspring I can basically hedge
+pretty well I can place a good bet on
+the next hundred years maybe the next
+200 but I don't have the foggiest clue
+what the world is going to look like in
+300 years is what I'm saying make any
+sense whatsoever it makes a lot of
+service and really it we need to to talk
+about two things in response to this
+question first of all
+um yes you can imagine that the reason
+that the worms in hertz typically for
+three to five generations is that this
+is relevant to something that happened
+in the environment for example uh we
+also showed that when you stab the worms
+it affects the next Generations again
+for a few Generations which itself is
+amazing right I just like want to
+highlight that that I mean you can
+imagine next generation is sort of like
+a genetic version of be careful kids but
+I'm going to give you this extra lunch
+pack in your genome that protects you
+against the possibility of starvation
+but it's also saying and were you to
+have kids right so they have it also
+yeah so I have to but just I have to
+just make a disclaimer that we not don't
+know that necessarily it's adaptive
+could also be damaged as I said when you
+stop them the next Generations live
+longer but this could be a trade-off of
+a trade-off for fertility or something
+so other labs also have also shown
+following our work that if you start the
+worms the next Generations are also more
+resistant to household starvation this
+sounds
+this is not my artwork but this sounds
+adaptive okay but whenever you're
+talking about the adaptation you have to
+sit in the context of evolution there's
+also this famous saying nothing in
+biology makes sense except in the light
+of evolution and so it's very hard to
+say without doing the lab Evolution
+experiments we actually see who wins the
+ones that it hurt or the ones who don't
+hit who takes over
+otherwise it's hard to talk about
+whether it's adaptive or not but when it
+comes to the duration of the response
+yes it could be programmed to fit
+something for example if you're talking
+about starvation worms transition
+between periods of starvation entrance
+periods where they have a lot of food so
+let's say they find an Apple for a few
+Generations they will consume the apple
+and then they will be styled for a while
+perhaps this is the number of
+generations that takes them to finish an
+epic or perhaps other responses also to
+higher temperatures
+if you grow worms in higher temperatures
+the orphans are different they change
+how they mate is what I'm alluded to
+before we're going to get back to this
+because it relates to cold exposure
+which many listeners and perhaps it is
+somehow correlated with the uh um the
+cycle of the year
+okay but to tell you the truth I don't
+know as I said we we um we go from the
+more artificial to the less artificial
+if double standard energy synthetic RNA
+is the most artificial
+starvation is more efficient more
+natural but it's not starvational real
+the real context of the world in a real
+Apple it's a plate with or without E
+coli bacteria but it's not an apple
+on a tree exposed to the elements with
+other worms with bacteria with all kinds
+of complications and it could be that we
+will see different durations of
+heritable effects the more natural we go
+it's just much less controllable and
+hard to do
+and again when we're talking about
+humans part of the argument why people
+who are the disbelievers I I it's not
+about to say but you know the critics
+say that this wouldn't happen in humans
+as they say
+you know the worms generation time is
+just three days the chances that the
+parents environment will match the
+children environment is very high
+because uh there's not a lot of time to
+for for the environment to change it
+plus they can go very far small
+there are many examples of epigenetic
+inheritance
+in plants this is a big field where the
+very established uh proof for
+inheritance of a quiet rate for for
+epigenetic enhance be more careful
+epigenetic
+in terms of quite a small loaded 10 but
+in Clans it also happens and then you
+also say these are sessile organisms
+they can't run away so the environment
+is more constant the ideas are maybe
+just a quick example that I've heard
+before tell me if I'm wrong I very well
+maybe uh for instance a particular
+species of plant that grows a a straight
+maybe slightly bended stock might be
+exposed to some environment where in
+order to capture enough
+um sunlight and other other nutrients
+might need to grow in a corkscrew form
+the corkscrew form can be inherited
+several Generations this is an example
+that I don't know but perhaps it's
+something like that I seem to someone
+will tell trust me the one thing we know
+about podcasting and YouTube is someone
+will tell us in the comments so uh Ben
+please do we invite that right but
+there's a long history of epigenetic
+inheritance studies in plants with
+excellent studies well controlled
+showing that it happens also there so
+this is very clear when it comes to
+humans you could say maybe my kids will
+go off to live in a different
+continent and they will be on the
+computer every day and everything will
+be different so it makes less sense to
+prepare them for the same hardships that
+I experienced however this in my opinion
+this is this argument comes a lot it's
+not the best EX argument because it
+depends on the scale
+of how you look at things we experience
+we meet for example I'm not saying that
+this is inherited but in humans but we
+experience the same pathogens in the
+same viruses all the time so perhaps it
+is worth preparing for them right again
+I'm not saying that that it happens but
+but it depends on the on the on the
+scale well what you're describing makes
+perfect sense and I do want to
+acknowledge these critics whoever they
+may be I do have the advantage that I
+don't work in this exact field and so
+I'm happy to stand um on Toe to Toe with
+those critics now and say that at least
+in terms of an inheritance of reactions
+or adaptive or maladaptive traits to
+stress or to reward when you talked
+about nicotine before you know passage
+of response to drugs of different kinds
+not being specific to nicotine it was
+sort of a more General
+um passage of of some sort of
+information related to reactions to
+chemicals present in nicotine but other
+other drugs
+foreign
+I have long been irritated
+um and a little bit tickled by the fact
+that people say oh you know we have this
+system for stress that was really
+designed to keep us you know um safe
+from lions and saber-toothed tigers sure
+but the Hallmark of the stress system is
+that it generalizes I mean if I get a
+troubling text message or if I suddenly
+see a dark figure in the in the hallway
+when I go to the bathroom at night that
+I don't recognize
+both of those have the same generic
+response which is the deployment of
+adrenaline uh in both brain and body you
+know changes in the Optics of the eyes
+quickening of the heart rate stress is
+by Design generic and so one could
+imagine that a passage of of some sort
+of stress resilience
+um or a maladaptive passage to stress
+would be also somewhat generic and
+that's actually advantageous overall
+same thing with the reward system you
+know and we have essentially have one or
+two chemical systems of reward I mean
+there's the opioid system and there's a
+cannabinoid system but in large part
+anticipation and reward is governed by
+the dopamine circuits and anticipation
+reward of an ice cream cone for a kid is
+the same neural circuitry that's going
+to be repurposed when they get to
+reproductive age and they are
+anticipating creating children with
+their mate and assuming they want to do
+that the double Energy System is going
+to be engaged so ice cream sex
+um you know uh stress to weather stress
+to famine the the biology of these more
+modal systems and especially in the
+nervous system are again I have to be
+careful with the words by Design are
+certainly generic and so I don't see the
+need for so for immense specificity I
+mean it's not like we're um well covid
+just happened so could you imagine that
+there's the passage of a covid-19
+specific resilience no I think what
+would probably be passed along would be
+some sort of if it does occur would be
+some sort of resilience to viruses more
+generally and that would be advantageous
+right so I I agree and this
+this opens the question of what is the
+bandwidth of inheritance how specific
+can it be does it make sense for it to
+be specific and in the case of C elegans
+the response can be very specific
+through this inheritance of rnas which
+are just sequence specific they don't
+regulate the the control one particular
+Gene okay
+in other cases it could be a very
+general response and and and and it's
+very interesting to think about it when
+we talk about inheritance of memories
+which is the most interesting thing we
+could imagine can brain activity of some
+sort transmit at least in these words I
+said no I I said it's disclaimer
+multiple times in in members we don't
+know times will tell in words we know a
+lot so can worms transmit brain activity
+to to do they have the specificity to do
+it okay
+before I'll say that I just say that we
+over the years learned a lot about the
+mechanisms that shuttle the rnas between
+Generations we know about genes that are
+needed just for that
+about worms would be perfectly okay but
+just don't have the capacity to transfer
+the RNA to the next Generations we know
+about genes that will make the responses
+longer or shorter
+we know about genes that prevent the
+transfer of RNA between different
+tissues
+about genes that make certain smaller
+than if so we know a lot about that and
+then the question arises we can we can
+finally ask can memory transfer between
+generation
+I think that first of all we need to
+Define memory for that and the broadest
+definition would be any change in your
+behavior because of what happened in the
+past
+or in your response because what
+happened in the past or because of your
+history
+the more interesting part of course is
+to talk about memories that are encoded
+in the brain
+and the reason is that the brain is
+capable of holding much more specific
+and elaborate memories then I think that
+any tissues that transmit transfer to
+transmit RNA to the Next Generation and
+affect the next generation is
+interesting the gut muscles everything
+but the brain
+can synthesize
+information about the environment and
+about internal State and can also think
+ahead and the most provocative thing you
+can say is that you could plan how
+somehow the fate of your of the United
+Nations using your brain you know after
+taking many things into the code this is
+without talking to them right without
+talking right an instruction so it's
+again we go back to this instruction
+manual it's like writing something into
+the instruction manual based on your own
+experience right and and can it happen
+okay and what is the bandwidth can we
+transfer specific things and and then I
+have to agree with you that I would
+imagine that what can transfer and I
+could be wrong
+is a general
+something
+sensitivity
+okay
+you can make technology to being
+inflamed or not
+hypersensitive to pathogens hyper vigil
+something like this okay but it can also
+be something very specific
+now we have to we have to understand
+that the brain
+uses a different language than the
+language of inheritance the brain the
+way we normally think about the brain is
+that it keeps information
+in
+synapses in the connection between
+different Norms when you learn something
+you make you make some connections
+stronger and some other connections
+weaker and you wire the nervous system
+in a different way
+the information in the brain is synaptic
+and it is in the connections on the
+other hand heritable information of any
+sort has to go through a bottleneck of
+one cell
+the fertilized egg
+because we all start from just one cell
+so it cannot be in the connections
+because this cell doesn't have any
+connections without the cellular there
+alone
+so we do so heritable information has to
+be molecular it has to be inside this
+one cell so the question is can you or
+do you translate the information this 3D
+structural information of sim synapses
+and the connection between brains in the
+architecture of the brain can you
+somehow translate it to heritable
+information to a molecular form it's an
+incredibly important and deep question
+it brings to mind something that was
+once told to me which as soon as I heard
+it was obvious but was very important in
+formulating my understanding of biology
+which is that a map is just the
+transformation of one set of points into
+another set of points right so a map of
+of the world essentially is just you
+take the what's been drawn out in terms
+of the architecture and the the
+coastlines Etc and divisions between
+states and you transfer that to an
+electronic map or a piece of paper it
+seems so obvious it's sort of a duh why
+are we talking about this but just to
+make sure that people understand what
+you're really talking about is let's say
+the memory and I have a very distinct
+memory for my childhood phone number
+phone number doesn't exist anymore
+and I won't give it out because then
+some other person might get your
+attention with repeated calls but in any
+case I remember it it's totally useless
+information but it lives in my you know
+cortex or my hippocampus or somewhere as
+a series of connections between neurons
+at the locations as you call synapses
+would my grandchildren know that phone
+number there's no reason absolutely no
+no right would my children know that
+unless there was some adaptive reason or
+some other reason for them to know and
+the up and this passage of acquired
+traits
+um and what you're saying is in order
+for that to happen there has to be a
+transformation of the neural circuit
+literally the wiring of Neuron a b c d
+that relates to and carries the
+information of that number into the kind
+of nucleotide sequences that are
+contained in DNA or patterns of
+methylation or RNA more likely so it's
+the transformation of one set of points
+in physical space to a translation of
+points in genetic space right is that
+amazing right and then we have many
+problems when first of all we don't know
+of a mechanism to translate between the
+two different languages the language of
+the brain and the language of
+inheritance we are not familiar with a
+mechanism like that second the Next
+Generation
+if it's not a worm if it's a mammal
+would have a different brain
+if and if it's if even if it was
+genetically identical to the parrot the
+the wiring of the brain and the
+particular neurona circles will be
+different
+this is true for twins it will always be
+true because it depends because it's
+partly random and it depends on the
+environment even if you have the same
+genetic instructions so let's say you
+somehow had a mechanism a miracle
+mechanism to take the 3D information and
+translate it to the magic to the
+language of inheritance you would then
+in the Next Generation have to translate
+it again to the brain although it is
+different this sounds very unlikely okay
+I I I'm playing a trick on you now okay
+because okay but I'm easy to tricks but
+but but if if this is how it happened or
+if this was required it could never
+happen in my opinion which means and I
+still think that there are certain
+memories that cannot transfer
+transgeneration and these complex and
+things that you learn about the
+environment that are arbitrary
+if none of our listeners kids will
+remember this conversation
+no way this is impossible unless they're
+listening there are some families or
+parents but but it cannot transmit
+because it's it's random and it's these
+are connections that are arbitrary
+so this seems to be a limitation on what
+can transfer
+on the other hand so perhaps more
+General things could pass some these
+type of things I doubt they can miss
+however you can never the less imagine
+that some things that are very specific
+some memories that are very very
+specific could nevertheless transmit
+from the brain after learning to the
+Next Generation I'll give you an example
+you can teach worms even if although
+they have just 302 neurons you can teach
+them simple things about the world for
+example you can take an auto that their
+worms like the worms have thousands of
+other ant receptors and they can
+recognize many many many molecules they
+can smell them so they can find food or
+avoid enemies you can take a food that
+the worms like an order that the worms
+like and pair it to something bad like
+starvation
+and then the worms will learn to dislike
+this Auto
+we don't know that this learning
+involves necessarily changing in the
+strengths of synapses it's a possibility
+but it doesn't have to be the case it
+could be that just the receptor for this
+particular order
+is being removed
+when they and this is how they now they
+won't have the receptor they won't smell
+they won't like the auto this is a
+possibility
+this type of thing you can perhaps not
+that anyone has showed it convincingly
+transmit to the Next Generation because
+all it would take is an RNA that would
+will control this particular receptor
+okay
+so this is a possible people have shown
+things like that not in C elegans but
+people have shown things like this in
+mammals
+they said that you learn certain things
+and then
+just in the next Generation that's a
+particular receptor would be methylated
+or would change and this would transmit
+the response and on the one hand it
+could be
+true on the other hand you need to
+understand they'll need to prove and
+this wasn't done convincingly enough yet
+how exactly does the information
+transfer from the brain to The Germ
+cells and then in the Next Generation
+from the germs it's back to the brain to
+where the reception receptor need to
+operate
+and this is a challenge this is the
+current state of of the field that this
+is something that needs to be proven
+what we didn't see Elegance is we showed
+that certain that the brain can
+communicate with the next Generations
+using small rnas
+and that this can change Behavior
+and it doesn't require any translating
+between any language it is very simple
+what we've shown is that if you take a
+worm and you change the production of
+smallerness just in its brain
+in the next Generations their behavior
+will be different even though you don't
+mess with their brains this is a paper
+that we published in
+2019 in in cell we show that you just
+manipulate the production of endogenous
+natural rnas in the worms brain that are
+always made but you you change the
+amount and this changes the capacity of
+the worms in the Next Generation to find
+food
+to find not only in one generation but
+three generations down the road
+and the way that it works is that
+perturbing the production of these
+smallerness in the brain effects in the
+end the expression of a gene in the
+germline
+it's one gene this is called sage two
+don't know how it works
+but we can do all kinds of controls
+where we manipulate the activity of the
+Gene and see that this also affects
+Behavior
+and this Gene
+works in the jumpsuit the information
+needs to go from the brain to the
+Genesis it doesn't need to go back from
+The Germ cells to the brain to affect
+Behavior and this depends we know that
+this is there are two epigenetic effects
+because it goes on for multiple
+generations and also because it requires
+the machinery
+the transfers organized between
+Generations if you don't have that
+protein that physically carries the RNA
+between generation doesn't happen so it
+has to be RNA it has to be RNA and not
+we can actually we can also find the
+rnas in the Next Generation the change
+we sequence the actual rnas the change
+in the Next Generation you mentioned
+that you don't know what Sage this Gene
+Sage does but is it reasonable to assume
+that it does something in the context of
+the nervous system or that's unclear as
+well it is possible it is possible but
+we have reasons to believe
+or experiments to show although there
+could be alternative explanations that
+it functions for the germi now you may
+ask how can you affect Behavior just by
+changing the germ cells right well it
+would have to change the germ cells in
+very specific ways because as uh people
+probably recall the germline The Germ
+cells are where the inheritable
+information is contained but you can
+imagine it for instance
+um adjusting the gain or sensitivity
+rather on some sort of uh
+sensory foraging system right right and
+the the interesting thing is it again
+can be quite unspecific
+so it sounds weird that you change germ
+cells and it changes Behavior
+experimenting but if you think about it
+it's trivia if you castrate a dog it
+behaves differently right
+sadly yeah I did that to my dog and I
+ended up putting him on testosterone
+therapy later and it brought him back
+yeah just as a as a sign as an aside yes
+this is because the germ cells affect
+the Soma including the brain in many
+ways by secreting certain chemicals and
+also because the other cells develop
+develop from the from the germ cells so
+some information could be transmitted
+over a development or the course of
+development could be altered because of
+changes that occurring in The Germ cells
+and for example in mammals one of the
+explanations for how heritable
+information transmits is that it just
+affects something very own in
+development
+I I I told you that the secrets to
+warm's inheritance is that they have the
+capacity to amplify these smallerness
+all the time this is what keeps it going
+and prevents the dilution in mammals we
+don't know of such an amplification like
+them so you ask how can a little bit of
+RNA or something without amplifying
+affect the entire organism and it could
+be that you just perturb something in
+the very beginning
+when you just have a few sets or even if
+the in the placenta that develops in
+pregnancy and these letters throws
+everything off and because of the U.S
+you have many problems in metabolism and
+so on and this is called the the it's an
+idea of the developed developmental
+origin of health and disease many of the
+of the functions occur early on in
+development
+so you raise a number of incredibly
+fascinating aspects of this I do have a
+question about one particular aspect and
+feel free to pass on this for a future
+episode if it's going to take us too far
+off track but something you said it
+really captured my attention
+um although I was listening to all of it
+which is that the germ cells so in the
+case of males it's going to be sperm and
+in the case of females it can be eggs
+something perhaps not coincidental about
+those cells in the environment that they
+live in is that yes they contain the
+genetic information to pass The
+Offspring right of course you explain
+how that works
+but also it's a
+it those cells live in a region that is
+Rich with hormones that can be secreted
+and in fact are secreted and through
+so-called endocrine signaling
+communicate with other cells not just at
+the level of receptors on their surface
+but also can enter the genomes of those
+cells and modify those cells in other
+words it seems to me that the micro
+environment to The Germ cells the testes
+and the ovaries
+are rich with information not just for
+the passage to next Generations but also
+for all the as you said all the somatic
+cells of the body they're telling the
+somatic cells of the body what to do and
+what to become and the best example I
+can think about this would be puberty
+right I mean I would argue that the that
+one of the greatest rates of aging and
+and transitions we go through in life is
+from puberty I mean a child becomes a
+very different person after puberty they
+look at the world differently they think
+about it differently the growth of it's
+not just about the growth of the hair
+and the jaw and the atoms apple and
+breasts and so on it's a transformation
+of the somatic cells from the same
+microenvironment that the DNA containing
+uh cells reside right so once you think
+about it like this it becomes obvious
+that just by affecting the germ cells
+you can affect the rest of the body and
+in C elegans they are experimented show
+it very clearly so for example if you
+take just take worms and prevent sperm
+production it changes the capacity to
+smell
+these are experiments done by others
+which is obviously a brain function and
+in a castrated dog you're not just
+eliminating the possibility of transfer
+of DNA information to subsequent uh
+Generations you're also limited
+personification of the yeah without
+question my Bulldog Costello change
+after castration and it was a wonderful
+dog but at some point developed some
+health issues the introduction of a
+small amount of testosterone every other
+day
+changed him fundamentally in that case
+for the better
+um back to a version of himself that I
+had only observed earlier but also a
+different version of the same dog and no
+he wasn't humping everything maybe the
+occasional knee
+um particular people who has names I
+won't mention but
+it was absolutely clear that the hormone
+was not just taking a system and
+amplifying it it was actually modifying
+the system so anyway I just wanted to um
+highlight that and then now um thank you
+for indulging me I let's
+um if you will let's continue down this
+path of uh that we were going on because
+I want to make sure that we absolutely
+get to this issue of transmission of
+information about sex choice of
+Offspring so the worms are
+hermaphrodites which means that they
+make both sperm and egg but there are
+also males which are much more rare and
+they can choose to mate with their males
+or not
+and when they made with the male it's a
+huge decision because it's very costly
+energetically and they also risk
+predation
+and all kinds of troubles the males hurt
+them and reduce their lifespan when they
+met with them people are going to draw
+all sorts of analogies here but it's
+inevitable but hey here we go and and
+most importantly for evolution when you
+mate
+with another animal you dilute your
+genome in half
+because the worms can just
+self-fertilize and transmit the exact
+same genome to the Next Generation but
+when they make they dilute it in half so
+this is a big
+price to pay on the other hand when you
+mate you diversify your genome so maybe
+some combination of Gene will be good
+and we know that in humans I mean you
+know it's kind of interesting that the
+brain circuits are associated
+um with a with aversion and with
+approach are um are fairly hardwired for
+a number of things like puddle of vomit
+almost everybody kind of cringes plate
+of cookies if you like cookies you move
+towards it but there's one particular
+word in uh the English and presuming the
+Israeli language that that ought to
+evoke disgust and that's incest because
+incest is actually not just disgusting
+as a practice but it's dangerous
+genetically right because of the
+inbreeding creates a deleterious
+mutation right so there are studies on
+how people in Israeli kibbutz for
+example where they all grow together the
+children live together it used to be
+like that don't date each other because
+this is the classic thing I talked to
+some of whom the keyboards you told me
+that's not true but but yes that there
+are studies like this that say but it
+makes sense and in some countries
+Scandinavian countries are in a Lapland
+and Iceland where populations are small
+they keep Exquisite records of lineage
+in order to avoid inbreeding right yeah
+right so you're absolutely right but the
+worms it's the safe choice for them is
+to self-mate and and if they mate with a
+male they take a risk but they diversify
+okay
+what what we found is that if you take
+the hermaphrodites the the we can call
+it the the female for just one second
+and you stress it with high temperatures
+then the next Generations of worms for
+three generations made much more with
+males
+and they do it because the female starts
+secreting a pheromone that attracts the
+males Ah that's very cryptic uh
+mechanism it's not that she somehow
+changes and then goes seeking males it's
+not it draws males it draws men oh and
+we know how it works we think we know
+how it works what happens is that the
+stress the high temperatures compromise
+the production of sperm in the
+hermaphrodites so the hermaphrodite
+don't they make sperm enough to make
+make Generations but the sperm because
+of the effective small RNA inheritance
+because the rnas are not inherited okay
+the spam is not made optimally so they
+make less sperm and where they don't
+make a lot of sperm they feel that they
+don't self-fertilize correctly so they
+call the males by secreting the
+pheromones so that it would provide its
+own sperm and they can continue to make
+babies
+okay and we know this also from
+experiment you just take hermaphrodites
+and you kill it sperm it starts to
+kissing the pheromone and the males come
+it's a need based system exactly
+incredible and I hope people can
+appreciate as they're hearing this that
+none of this we assume I don't know how
+to speak worm none of this we assume is
+a conscious decision in these animals
+they much like human mating behavior
+which to us always seems so conscious
+but is being governed by both conscious
+and subconscious decision making
+none of this is an active decision to
+secrete the hormone to draw in more
+males it's simply a biasing of
+probabilities right the hormone is now
+secreted in Greater quantities or more
+greater frequency the males therefore
+approach more so it's just increasing
+probability of interactions is that
+right right what happens naturally
+normally if you don't stress the the
+ancestors is that the worm starts
+secreting the phalmon only when they are
+old because also you know people will
+when they're running when they're
+running out of of their own fertility
+exactly because they only make the sperm
+at a particular time and then they run
+out of stealth stem they can sell
+fertilize so they have to call them as
+if they want to continue to meet well
+this is sort of the plastic surgery
+approach okay I'll take the heat for
+that one but you know but it's true I
+think as certain people age to a certain
+point and they feel that their fertility
+is waning if they want Offspring they
+need to take any number of different
+approaches they could get a here we're
+talking about a female but we could also
+do the reverse right
+um uh sperm donor right or by the if
+they want to attract a lifelong maid or
+co-parent with somebody oftentimes they
+will do things to adjust their
+attractiveness in any number of
+different ways psychological
+attractiveness or physical
+attractiveness I'm not afraid to bring
+this up because I think that the
+parallels are very important because I
+do think that every species and
+individuals within a species of course
+decides whether or not they want to
+reproduce or not but has an inherent
+understanding conscious or subconscious
+about where they reside in the Arc of
+their lifespan I do believe that not
+just based on experience some people are
+very attuned to the the passage of time
+being very fast others very slow I think
+that knowing how long your parents and
+their parents lived makes a big
+difference I have friends whose fathers
+in particular died fairly young and all
+these guys basically got married and had
+kids really young right so here that
+luckily for me I don't have to get into
+psychology of the worms the explanation
+is just like an instinct when they run
+out of sperm it starts to keep the
+pheromones and attract the males there
+are studies also in human about older
+fathers that children of older fathers
+have more has a higher chance of of
+becoming autistic there are study 40 and
+up basically however in this case it's
+not clear that this is not that this is
+something epigenetics could be just
+because of DNA damage you know because
+it accumulates yeah and actually
+nowadays there we have an episode on
+fertility coming up both male and female
+fertility and there's um they're
+actually DNA fragmentation kits for uh
+at home DNA fragmentation kits or sperm
+analysis you send the sperm back in you
+don't do the DNA people pipetting
+um semen at home wouldn't be an odd
+picture let's not go there but the um
+but there are clinics that do this for
+uh for a nominal charge but the um but
+it's I did want to ask about autism and
+human disease in particular
+um another thing that you hear sometimes
+and here I want to acknowledge autism is
+on a spectrum some people get upset if
+you call it a disorder there are some
+adaptive autistic traits and Etc but one
+thing that
+um often comes up is this idea that two
+people who are more of the kind of
+engineering hard science if you will of
+phenotype mate and have children higher
+probability of the The Offspring being
+on the Spectrum some people would argue
+ah but that's already selecting for
+people that might have already been
+partially on the Spectrum so maybe it's
+a gene copy issue I'm not asking you to
+comment on autism in particular but when
+you hear things like that that the
+children of older fathers
+um born from older fathers 10 a higher
+probability of autism what is that at
+the level of intuition does that strike
+you as an epigenetic phenomenon as a
+nature nurture mishmash or the
+possibility that it's RNA passage or
+anything does anything sort of um
+trigger the whiskers uh your your spidey
+sense so in that case I would go with
+the most parsimonious explanation which
+is it just less Fidelity or ever than
+less DNA maintenance and some damage
+that passes on it doesn't have to be an
+epigenetic thing but the sperm are
+generated at once every 60 days so the
+damage must be at the level of The Germ
+cells not having the proper Machinery
+right might have chondria or something
+like that or the DNA repair Machinery
+the DNA repair Machinery could be
+defective or could work less well in
+older people leading to the constant
+production of germ cells with more
+mutation this is the possibility do we
+know exactly what the DNA repair
+Machinery is yes there are many types of
+DNA repair
+those one that use other copies of the
+DNA to to uh to correct there are ones
+that just recognize all kind of lesions
+on the DNA and and remove it that it's a
+very elaborate and complicated system
+and is it a system that is now tractable
+that can be modified through
+pharmacology or through anything like
+that so I don't know about drugs that
+correct that improve it maybe they exist
+and I'm not aware that it's very well
+understood and many people are studying
+this direction yeah one thing that um
+came across in the exploration of the
+fertility work is that what I'm about to
+describe is not legal in the US it is
+illegal but is illegal in the UK and in
+other countries is this notion of three
+parent
+um IVF where it does seem that some of
+the eggs that persist in older females
+um don't uh even if fertilize don't
+produce healthy embryos they have
+chromosomal abnormalities replications
+and and
+um deletions that are problematic for
+the development of the embryo
+such as trisomy 21 AKA Down syndrome in
+part or in large part because of
+deficits in the mitochondrial genome so
+what they now do is they take the um
+because the mitochondrial genome resides
+mainly in the cytoplasm they'll take the
+an egg from the mother the sperm from
+the father but they'll take the nucleus
+from the mother
+and put that into a cytoplasm of a
+younger woman whose mitochondrial DNA is
+healthy then use the sperm to fertilize
+that egg and it and that's why it's
+called three parent IVF then implant
+that into the mother and this has been
+done several times for in cases of
+mitochondrial damage or or mutations in
+the in the mother it works the question
+is whether or not those Offspring will
+grow up to be healthy so this of course
+is not just a pure Divergence it raises
+a bigger question that I have for you
+which is
+in terms of the work in either C elegans
+or in other model organisms but in
+particular in C elegans where do you see
+this going next and if you would indulge
+us I would love you to tell us a little
+bit about the admittedly unpublished
+work that you're doing on temperature uh
+exposure and environments I mean how
+malleable is this system because to me
+it just seems incredibly malleable and
+yet it a lot of us still cloaked off to
+us there's still a ton to learn so
+assuming that we will discover
+similar things in in humans which we
+don't know that this is the case but
+let's say we we find it I think there
+are many things you can do before you
+change it
+for example you could you could also
+change it change
+aberrant inheritance by having the the
+parent exercise for example and some
+things like this have been done for
+example there are experiments in in
+rodents where they show that overfeeding
+the the Roland creates problems for the
+next Generations for the F for the
+children however if you let the the
+rodent exercise then it corrects the
+apparent inheritance so this is one
+possibility and you can also manipulate
+it at uh at the source you can change if
+it's rnas let's say you could in the
+future perhaps if we understand how it
+works actually change the composition of
+the Heritage by eating rnas just like
+the worms RNA sandwich no so the RNA
+sandwich will be difficult because it's
+not I don't know but you could if you do
+IVF if you do any veto fertilization you
+can perhaps change the composition of
+the rnas in the the stuff that you
+introduce
+but way before that what you could do
+perhaps even in the not so far future is
+use this for Diagnostics
+dna-based diagnostics for every couple
+that wants to have a kid uh you can in
+Israel this is done for for most couples
+you can look at the DNA and look for
+genetic disease but no one looked is
+looking at the RNA at the moment if you
+understand how it works better we'll
+have another level A Whole New World to
+look at and perhaps there will be some
+rnas that correlate with disease
+that they will say okay you know but the
+beauty is that this Unlike DNA it's
+plastic so with DNA this is your DNA
+perhaps we can choose another embryo
+but here you could say
+perhaps again in the future this is
+science fiction doesn't happen now but
+if we understand this and it's true we
+can say
+maybe you should run on the treadmill a
+little bit this will change the profile
+of your rnas and then we will use it for
+IVF
+this seems more because just it
+correlates with healthy profiles of rnas
+this is the level that no one looks at
+now and holds great potential again with
+a disclaimer that we know know how it
+works in humans at all yes yes well of
+course this is why why why it's so
+interesting yeah yeah it's super
+interesting
+um incredibly promising so along the
+lines of things that one can do in the
+short term and
+your experiments on C elegans I'd love
+for you to share with us what you're
+observing about cold exposure and how
+that impacts subsequent generations of c
+elegans and uh and if you would indulge
+us with the story of this discovery
+um like some of the earlier stories you
+told us it is a surprising and
+fascinating one I'll let me tell you
+about it this is not a story about trans
+International it's a story about memory
+within one generation ah excuse me
+within one generation okay and and as
+you said the story of how it happens is
+it's it's it's totally by accident it's
+a funny story and I'm I'm bringing this
+up because I know Donna lanchez was a
+huge fan of your postdocs really you
+know be happy that this is her work this
+is her work and this is unpublished work
+it's even we didn't even finish it so
+we're working it okay well when it's
+published we will feature the paper
+because I love this story so great so so
+what happened is that when you we talked
+about transgenerational memories and I
+said that in worms there are very
+long-term generational memories if a
+generation time for syrians just three
+days
+some memory is less so
+many generations so Way Beyond the the
+lifespan of the of the one the lifespan
+of the worm is three weeks okay
+generally you have a new generation
+every three days but every worm lives
+for three weeks
+but there's a lot of research that shows
+that unlike heritable memory which can
+be very long the memo is that the worms
+acquire during their lifetime is very
+short-lived so if you teach something
+after two hours it forgets
+okay
+so for example you can teach the worm
+you can take an order that it likes and
+pair it with starvation and then it
+would dislike the auto
+and then there's a simple test you just
+put it in a plate you put the auto in
+one side and a controller or another
+side and you see whether it's prefers
+this other or not and it stops
+preferring it okay
+there is 30 years or more of research 40
+Years of research on on this showing
+that the worms forget after two hours
+the reason I went to study C Elegance is
+that I wanted to understand memory okay
+because such a simple nervous system you
+say maybe I have the potential to
+actually understand how it works but
+this is slightly disappointing because
+they forget after two hours so what is
+it exactly okay
+my idea was and I tried to convince
+students to do it for 10 years is to
+take the worms teach them this
+Association to dislike the odor that
+they innately like and then just put the
+worms in -80 and freeze them
+freeze them completely thaw them and see
+whether they still remember after their
+thought the Han Solo expressed and I
+didn't want to do it because of kryoc
+reservation or something like this I
+wanted to do it because as you know
+better than me many theories about
+memory say that you need electrical
+activity to maintain the memory you need
+to reverberate it in the brain during
+dreams or replay of the thing or
+whatever and even memories will
+nevertheless be kept even though the
+worms
+were frozen in -80 it would mean
+that it was kept in the absence of of
+electricity because there's no
+electricity in minus 80 degrees this was
+the idea I asked many students no one
+wanted to do it because of it's not so
+easy and also a little crazy well and
+when the pi the principal investigator
+lab has a pet experiment no one wants to
+do that experience
+so I and then then I agreed to do a Dana
+land shift I was very happy only later
+to find out that she ignored me
+completely and did a different
+experiment
+the experiment the data did in instead
+is to just take the worms teach them the
+association and place them on ice
+she wanted to see how the kinetics of
+memories were getting changed
+in low temperature because maybe
+whatever memory is
+the breakdown of the memory is affected
+by the temperature
+a very simple idea different experiment
+a different experiment yeah but I could
+experiment very cool and what she found
+is that when you place the worms on ice
+after you teach them they just don't
+forget if there even 10 times longer
+than control worms at that point after
+24 hours if no one wants to forget after
+two hours after 24 hours the worms will
+become sick so normally we do shorter
+experiments okay but for two hours the
+ones don't forget
+this is cool but it was only the
+beginning
+because
+the Boeing explanation is just what I
+just said everything slows down in low
+temperatures so the breakdown of memory
+again we don't know what it is but
+whatever it is happens slower in low
+temperatures
+but this is not the case it's not merely
+the physical it's the response it's the
+changing of the internal state of the
+worms which affects the memory kinetics
+how do we know this there's a beautiful
+work over the last one years on cold
+tolerance in C Elegance nematodes
+if you take the worms and you place them
+on ice
+like she did but longer for 48 hours
+they all die
+however if you take the worms
+acclimate them to lower temperatures for
+a few hours
+five hours is the minimum and then place
+them on Ice they all survive they become
+cold tolerant and people who study this
+show that this involves changes in lipid
+metabolism and many things
+so Dana took the worms acclimated them
+to slightly lower temperatures made them
+cold resistant and then taught them the
+association
+and place them on ice and now they
+forgot immediately
+which means that when they change their
+internal state to become tolerant they
+no longer extend memories on that which
+means it's not only the temperature
+because the temperature is anyway low
+now they don't remember we took this as
+a starting point to understand what
+which genes change when the worms are
+becoming call tolerant on and off eyes
+and we found genes that when you mutate
+them the worms just remember longer
+always even when they're off eyes
+because these are the genes that
+normally change when they are surprised
+on the eyes
+and these genes are expressed just in
+one pair of neurons just two out of the
+302 . notice he said 302 not 300. and we
+can manipulate the activities of these
+genes in these neurons
+to extend memory
+and then the punch line of everything
+that happened is that we found out that
+this this nylon where these genes
+function this one pair of neuron is the
+only known in Silicon which is sensitive
+to lithium
+and lithium is a drug that is being
+given to bipolar disorder patients for
+decades although it's not entirely clear
+how it works it's very very interesting
+it is also interesting there's an
+episode of course in your podcast about
+this you know more about this than me a
+lot but it's also interesting because
+it's just an atom created with a big
+bank yet it works on our brains in such
+a fundamental way and we wanted to see
+whether it works on also on the world
+because this neuron was tied to this
+memo extension phenotype that we found
+so Dana grew the worms on lithium remove
+them from lithium
+called them the association and found
+out that they learned a lot they
+remember a lot longer than control ones
+not only that if you first make the
+worms called tolerant
+and then lithium doesn't work on them so
+lithium switches this forgetfulness
+mechanism on and off amazing and it's it
+all and it's all connected to cold
+tolerance
+amazing and amazing for a number of
+reasons and so at risk of being
+long-winded in my response I just wanted
+to highlight something
+um that I think will be of relevance to
+most people which is when uh at some
+point we did a few episodes on memory
+um and I highlighted a review that was
+written by the great James McGaw one of
+the great mammalian memory researchers
+who's worked a lot on humans and mice
+and I was
+um shocked uh pun intended and uh amused
+to learn that in medieval times if
+people wanted children to remember
+lessons they could be religious lessons
+or School Doctrine or whatever it was
+mathematics whether they would take
+children teach them and then throw them
+into cold water to introduce a memory
+instilling event and we now know that
+the memory instilling event is the
+release of adrenaline in the body which
+makes perfect sense if you think about
+traumatic events but it also this whole
+General mechanism also applies to the
+learning of other types of information
+and so if I understand correctly about
+the role of lithium and the role of cold
+in the experiments that you just
+described there's some General State
+switch some internal State switch that
+says what happened in the minutes or
+hours preceding this was important it
+acts as sort of like a highlighter pen
+in the book of experiences
+um and I'm
+absolutely curious to know whether or
+not this is an RNA dependent mechanism
+in some way so is this literally like
+the highlighter in the Ikea instruction
+book this we don't know this we don't
+know and as I said this is not even a
+finished work it's not peer-reviewed
+it's just the state that I told you
+about but uh but it's very exciting for
+for me to to go into this new feeling
+you know once it's out I'll be happy to
+to talk more about it uh and think about
+the implications and the connections to
+other things and more about the
+mechanisms yeah well thank you for uh
+sharing with us despite the fact that
+it's not finished with
+um people now know that it's also not
+finished and I love a good Cliffhanger
+so we we await the folk the full
+conclusion and interpretation of these
+results
+today you've taken us on an amazing
+journey through the genome RNA uh short
+interfering rnas um a ton of history of
+Prior experiments some of which ended
+tragically many of which unfortunately
+did not they were true triumphs and um
+in particular the work in your
+laboratory which is just incredible and
+also this introduction of model
+organisms so and I only mentioned a
+short handful of the things that you've
+taught us about today so first I want to
+extend thanks for the incredible
+teaching I also want to say thank you
+for something equally important which is
+uh that absolutely came through but is
+what initially
+um brought me to explore you and your
+work more although I had certainly heard
+of you which is that your spirit and
+kind of approach to biology
+um is an is an extremely unique and
+intoxicating one it's uh it's even I
+venture to call it seductive it's you
+know there's a I do believe that whether
+or not it's music or poetry or science
+or or mathematics that the spirit behind
+something dictates the amount of
+intelligence and and precision with
+which that thing is is carried out and
+um it absolutely comes through so if I'm
+making you feel on the spot about this
+and I've succeeded thank you thank you
+very much but I know that the listeners
+can can feel it it's it's a felt thing
+so thank you there there are many
+scientists out there fewer with this
+phenotype and even fewer that
+um you know I think they can communicate
+with such uh articulate Precision so
+thank you so much thank you it's been a
+real pleasure pleasure was all mine
+thanks a lot great well we'll do it
+again and we'll learn about all the
+incredible things you're doing trying to
+transform science as it were at the
+level of publishing at the level of
+social media because there's a whole
+other discussion there meanwhile we will
+of course Point people in the direction
+of you and um to learn more about your
+work and um I look forward to hearing
+the conclusion of Dana's studies
+thanks a lot it's been a real pleasure
+thank you for joining me today for my
+discussion with Dr ODed rakhavi about
+genetics inheritance the epigenome and
+transgenerational passage of traits if
+you're learning from and are enjoying
+the podcast please subscribe to our
+YouTube channel that's a terrific zero
+cost way to support us in addition
+please subscribe to the podcast on
+Spotify and apple and on both Spotify
+and apple you can leave us up to a
+five-star review if you have questions
+for us or comments or suggestions about
+topics you'd like us to cover or guess
+you'd like me to include on the huberman
+Lab podcast please put those in the
+comments section on YouTube I do read
+all the comments in addition please
+check out the sponsors mentioned the
+beginning and throughout today's episode
+that's the best way to support this
+podcast not so much on today's episode
+but on many previous episodes of The
+huberman Lab podcast we discuss
+supplements while supplements aren't
+necessary for everybody many people
+derive tremendous benefit from them for
+things like improving sleep improving
+focus and for hormone support the
+huberman Lab podcast is proud to partner
+with momentous supplements we've done
+that for several reasons first of all
+momentous supplements are the very
+highest quality also they tend to focus
+on single ingredient formulations which
+makes it very straightforward to build
+the most cost effective and biologically
+effective supplement regimen for you
+we've also partnered with momentous
+because we realize that many listeners
+of this podcast reside outside of the
+United States and fortunately momentous
+ships internationally if you'd like to
+learn more about the supplements
+discussed on the huberman Lab podcast
+you can go to live momentous spelled ous
+so that's livemomentis.com huberman if
+you're not already following us on
+social media please feel free to do so
+we are huberman lab on Instagram Twitter
+Facebook and Linkedin and at all those
+places I cover information some of which
+overlaps with the content of the uberman
+Lab podcast but much of which is
+distinct from content on the huberman
+Lab podcast so again it's huberman lab
+on all social media channels the
+huberman Lab podcast also has a
+so-called neural network newsletter this
+is a zero cost monthly newsletter that
+consists of podcast summaries and
+so-called tool kits and those tool kits
+range from things like a toolkit for
+sleep for Focus for controlling dopamine
+deliberate cold exposure for increasing
+focus and much much more if you want to
+sign up for that newsletter you can go
+to hubermanlab.com go to the menu scroll
+down to newsletter you simply provide
+your email and I assure you we do not
+share your email with anybody and again
+it's a completely zero cost newsletter
+find it at hubermanlab.com thank you
+once again for joining me for today's
+discussion with Dr ODed rachavi and last
+but certainly not least thank you for
+your interest in science
+[Music]

@@ -1,0 +1,4368 @@
+welcome to the huberman Lab podcast
+where we discuss science and
+science-based tools for everyday life
+I'm Andrew huberman and I'm a professor
+of neurobiology and Ophthalmology at
+Stanford school of medicine today my
+guest is Dr Sachin Panda Dr Sachin panda
+is a professor and director of the
+regulatory biology laboratory at the
+Salk Institute of biological studies
+his laboratory has made numerous
+important contributions that impact
+mental health physical health and human
+performance for instance his laboratory
+discovered the neurons in the eye and
+neurons within the brain that regulate
+our so-called circadian rhythm circadian
+rhythms are 24-hour rhythms and
+everything from gene expression to the
+overall functioning of tissues our
+levels of mood and alertness our ability
+to sleep appetite and much much more in
+addition over the last decade Dr Panda's
+laboratory has made critical discoveries
+in terms of how our patterns of eating
+over time impact our biology and our
+health in particular his laboratory
+Pioneer discoveries related to so-called
+intermittent fasting also sometimes
+referred to as time restricted feeding
+today Dr Panda and I discuss how our
+circadian behaviors everything from when
+we wake up to when we view light to when
+we avoid viewing light to when we eat
+and what we eat and when we socialize
+and how we socialize impacts our biology
+and our psychology energy and how all of
+that has a strong impact on our health
+during today's discussion you will learn
+how restricting your feeding to specific
+periods within each 24 hour cycle or
+perhaps even exploring longer patterns
+of fasting and eating Cycles can impact
+everything from the health of your liver
+to your gut to your brain and how all of
+that impacts things like mood and your
+ability to perform cognitive work indeed
+today's discussion goes deep into all
+aspects of intermittent fasting AKA time
+restricted feeding we talk about the
+basic science as well as the recent
+clinical trials that have explored
+time-restricted feeding in a diverse
+range of people including men women
+children people with diabetes people who
+are otherwise healthy and much much more
+I'm quite aware that intermittent
+fasting is a topic of much debate these
+days we go deep into that debate and by
+the end of today's discussion you can be
+certain that you will have learned all
+the latest and all the details all all
+made very clear to you thanks to the
+incredible expertise Discovery and clear
+communication of Dr Panda as some of you
+may already know Dr Panda has authored
+several important books on the topic of
+intermittent fasting and how it can
+benefit various aspects of Health those
+books include the Circadian code and a
+more recent book the Circadian diabetes
+code both of which we've provided links
+to in the show note captions in addition
+if any of you are interested in learning
+more about Dr Panda's work including
+seeing his Publications and reading
+those Publications we're supporting his
+laboratory you can do that by going to
+his laboratory website which we have
+also linked in the show note captions
+before we begin I'd like to emphasize
+that this podcast is separate from my
+teaching and research roles at Stanford
+it is however part of my desire and
+effort to bring zero cost to Consumer
+information about science and science
+related tools to the general public in
+keeping with that theme I'd like to
+thank the sponsors of today's podcast
+our first sponsor is hvmn Ketone IQ hvmn
+Ketone IQ is a supplement that increases
+blood ketones I want to be clear that I
+am not following a ketogenic diet most
+people fall into this category they are
+not following a ketogenic diet they are
+omnivores and they do eat carbohydrates
+so their standard fuel source for the
+brain and body is not ketones however I
+found that by taking Ketone IQ which we
+know increases blood ketones I can
+achieve much better focus for longer
+periods of time for any kind of
+cognitive work and much greater energy
+levels for exercise especially if I'm
+going into that exercise fasted and find
+myself a little bit hungry when I start
+that exercise this is no surprise we
+know that ketones are the brains and
+body's preferred fuel source even if
+you're not following a ketogenic diet so
+in other words I and many other people
+are now starting to leverage endogenous
+ketones as a fuel source for the brain
+and body and yet we are not following a
+ketogenic diet and of course if you are
+following a ketogenic diet Ketone IQ
+will further allow you to increase your
+blood ketones as a source of brain and
+body fuel if you'd like to try Ketone IQ
+you can go to hvmn.com huberman to save
+20 off your order again that's hvmn.com
+huberman today's episode is also brought
+To Us by eight sleep eight sleep makes
+Smart mattress covers with cooling
+Heating and sleep tracking capacity
+as I've talked about before on the
+huberman Lab podcast there is a critical
+relationship between sleep and body
+temperature that is in order to fall
+asleep and stay deeply asleep your body
+temperature needs to drop by about one
+to three degrees and in order to wake up
+in the morning and feel alert your body
+temperature needs to increase by about
+one to three degrees the problem with
+most people's sleeping environment is
+that even if you make the room cool the
+actual environment that you sleep on
+that is your mattress and underneath
+your covers is hard to regulate in terms
+of temperature with eight sleep
+regulating the temperature of that
+sleeping environment becomes incredibly
+easy in fact you can change the
+temperature of that environment across
+the night making it a little bit cool at
+the beginning of the night even cooler
+still a few hours into your sleep which
+really helps getting into very deep
+sleep and then warming it as you
+approach warnings so that you wake up
+feeling most alert I've been sleeping on
+an eight-sleep mattress cover for over a
+year now and it is completely
+transformed my sleep if you'd like to
+try eight sleep you can go to
+eightsleep.com huberman to to save up to
+150 off their pod 3 cover eight sleep
+currently ships in the USA Canada UK
+select countries in the EU and Australia
+again that's eightsleep.com huberman
+today's episode is also brought To Us by
+thesis thesis makes custom nootropics
+now I am not a fan of the word
+nootropics because it translates to
+Smart drugs and as a neuroscientist what
+I can tell you is that you have circuits
+in your brain that allow you to focus
+you have circuits in your brain that
+allow you to be creative you have
+circuits in your brain that allow you to
+task switch and on and on in other words
+there is no specific brain circuit or
+even circuits for being quote unquote
+smart thesis understands this and has
+developed nootropics that are customized
+to different types of mental operations
+what do I mean by that well they have
+formulas that can put your brain into a
+state of increased Clarity or Focus or
+creativity or that can give you more
+overall energy for things like physical
+exercise I often take the thesis Clarity
+formula prior to law long bouts of
+cognitive work and I'll use their energy
+formula prior to doing any kind of
+really intense physical exercise if
+you'd like to try your own personalized
+nootropic starter kit go online to
+takethesis.com huberman you'll take a
+brief three-minute quiz and thesis will
+send you four different formulas to try
+in your first month again that's
+takethesis.com huberman and if you use
+the code Huber minute checkout you'll
+get 10 off your order the huberman Lab
+podcast is now partnered with momentous
+supplements to find the supplements we
+discussed on the huberman Lab podcast
+you can go to live momentous spelled ous
+live momentous.com huberman and I should
+just mention that the library of those
+supplements is constantly expanding
+again that's livemomentous.com huberman
+and now for my discussion with Dr Sachin
+Panda Sachin Dr Panda so good to see you
+again yeah good to see you we are
+colleagues still but we used to be right
+across the street from one another yeah
+yeah you remember those days yeah yeah
+so I'm delighted that you're here
+um I think we're going to talk about a
+number of things mainly
+intermittent fasting time restricted
+feeding and health but also the many
+other things that you're doing just
+before we started recording we were
+discussing your recent paper in nature
+uh that involved recordings from
+post-mortem Human retina so maybe if
+there's time at the end we can get back
+to uh your lab has shown that you can
+essentially maintain or resurrect
+neurons from
+uh dead people in order to potentially
+and eventually provide transplants to
+rescue Vision in the blind so that's
+extremely exciting but of course not the
+main focus of today's discussion so
+we'll have to uh split it up
+um the first question I have is how am I
+supposed to Define
+fasting and time restricted feeding in
+meaning when I go to sleep every night
+I'm not eating so in some sense
+everybody
+is doing time restricted feeding to some
+degree or another yeah at what point can
+we start thinking about a pattern of
+eating as time restricted feeding
+so-called intermittent fasting
+does it have to do with how regular one
+is about the start and stop times how do
+you think about defining intermittent
+fasting time restrictive feeding and
+maybe just to simplify the conversation
+is one term more correct than the other
+in terms of describing this incredible
+pattern of feeding
+well you know that intermittent fasting
+covers many types of fasting
+um so actually it started long time ago
+and it's embedded into the history of
+caloric restriction
+um almost 100 years ago people showed
+that if you reduce
+calorie intake in a rat then that rat
+can live for a long time
+and in those experiments the calories
+were reduced every single day
+and that led to the idea that if we cut
+down our calories by 20 percent say then
+we can potentially live longer by doing
+two things one is preventing is related
+disease or even if we follow fall sick
+maybe we can accelerate cure
+and keep the repair mechanism going so
+that we can live longer
+but it was very difficult to
+count calories every day and reduce
+maintain that
+um
+I must say that it's not that calorie
+restriction is impossible or we are not
+doing it in fact
+a lot of us we do
+um count calories in our subconscious
+mind means every time you took out it
+you took out we take out a soda bottle
+or something I'm looking at it okay or
+in 60 kilocalo or 30 kilocal or zero
+kilocal we are doing that so the point
+is it's it's we are doing subconsciously
+some kind of calorie
+counting but reducing calorie by Twenty
+thirty percent every single day is not
+possible for many people so then the
+idea came in mouse and rat experiment
+whether they can eat every other day
+um and in fact this every other day
+feeding
+um also led to very similar almost
+equivalent Health Improvement as
+continuous calorie restriction
+um so then the idea was well every other
+day is a little bit hard for humans but
+just imagine I would just get to eat
+only one day and then another day
+then the idea came well for humans can
+they eat less for one or two days in a
+week
+so that led to this pipe two diet where
+people can eat for five days and then
+two days they have to reduce calories so
+that's also
+intermittently people are fasting
+um then as you know Walter longer also
+came with this idea that periodic
+fasting maybe four or five days in every
+month or two months three months you can
+fast or reduce calorie
+and he also found many benefits of
+calorie restriction was there were those
+studies on humans many of the studies
+started it in mice but alternate day
+fasting five two and
+um Walters periodic fasting all of them
+have now been done in humans not for
+longevity of course because
+cannot do this for a long time but for
+weight maintenance for reducing some
+signs of aging or reversing those things
+have been done so all of them have been
+done in humans mostly healthy humans and
+in some cases people with pre-diabetes
+or some aspects of metabolic disease so
+that led to the idea that that all these
+forms of fasting in which
+the total caloric intake on any given
+day is reduced for one or more days in a
+week a month that became that umbrella
+term became intermittent fasting
+so if you
+look up the scientific literature most
+intermittent fasting involves
+intentionally reducing calories
+for at least one or two days in a week
+or
+um few days in a month
+so when we publish time restricted
+feeding
+um the initial Mouse experiments and
+even now most of the mouse experiments
+we want to test what is the impact of
+time restriction versus calorie
+restriction
+so in these experiments we don't reduce
+calorie on any day of mouse life so the
+mice is the same number of calories as
+the adlibitum FED mice
+but still they say health benefit so
+that's why we call it time restricted
+feeding
+but since it involves
+living without food for several hours
+for some people which is it can be very
+difficult the initial experiments was
+done they were done for eight hours of
+feeding and 16 hours of fasting that
+kind of became popular and so that
+that's why people use the same term as
+intermittent fasting and now if you
+say intermittent fasting and popular
+literature or popular media then people
+usually refer to time restricted eating
+so now coming back to
+how do you define time restricted
+fitting
+um so the way we have been trying to
+Define
+experimentally and also in literature is
+um
+trying to
+confine all your energy intake from
+solid and liquid food combined within a
+consistent window of 8 to 12 hours
+because that's something that doable of
+course people have done time restrictive
+trading with four hours six hours and
+some people even try to eat everything
+within two hours one meal a day
+um but the point is those are not
+feasible to maintain for very long time
+for a lot of people
+one question about the six hour versus
+eight hour versus 12 hour feeding window
+is it important that the feeding window
+begin and end at the same time more or
+less yeah and if so how much flexibility
+is there so for instance I'm somebody
+that
+I am not terribly hungry in the morning
+I like to drink water usually some
+caffeine and electrolytes yeah in the
+period before my first meal and my first
+meal always lands sometime between
+11 and 11 A.M and 12 noon there are
+exceptions yeah occasionally I'll have a
+breakfast a proper breakfast as it's
+called Uh I guess it would be improper
+if you're intermittent fasting for me
+um but typically 11 A.M or noon is when
+I first eat my last bite of food is
+typically around I don't know 39 PM
+that's what works for me yeah
+is that consistency affording me any
+benefit separate and let's just leave
+aside total caloric number
+macronutrients plant-based meat Etc but
+is there any benefit to shortening that
+feeding window that we are aware of or
+extending that feeding window or being
+even more rigid about the start and end
+of that feeding window
+yeah so the start of the fitting window
+um that's interesting because the
+concept of time history feeding when I
+describe animal studies it's feeding for
+humans it's eating so the concept
+actually came from the science of
+circadian rhythm so that means um
+our body has an internal timetable
+that's present in every cell in every
+organ
+that pre-programs many
+molecular aspects of the cells that
+leads to physiology and all that stuff
+so that essentially there is a
+predetermined timetable for every cell
+every organ to do certain things at
+certain time
+and
+the Circadian clocks as
+you and I know are more sensitive to
+light light is the most dominant
+um time Giver so for example when
+daylight saving time changes or when we
+travel from one time zone to another
+time zone we feel kind of crappy because
+our daily activities uh out of sync
+from our internal clock
+so that was known for a very long time
+but then around the year 2000 2002
+there was a famous experiment by Uli
+sibler from
+Switzerland what he did he just
+Fair demise at the wrong time mice are
+nocturnal their night feeders and when
+he fed the mice during their time and
+the liver clock instead of
+following its own routine liver clock
+actually started following food so that
+means by changing our feeding time we
+can change we can tune our liver plot
+and subsequently the same experiment has
+been repeated many times and when we
+repeated that in 2009
+and we figured out Yes actually outside
+this
+brand Center called Supra chiasmatic
+nucleus or scn which
+is considered the master circadian clock
+almost
+rest of the brain even
+follows when we eat and that came out
+from Pierre shambon's lab in Europe
+where they systematically looked at even
+places that are very close to the asean
+for those who are who node or some
+medial hypothalamus or paraventricular
+nucleus all of this
+within a couple of four or five
+millimeters of the scn but they were
+following food queue
+amazing so then
+um and now if we think about it so for
+example when the daylight saving time
+changes just one hour change
+um or one hour change in alignment
+between our internal time and external
+time leads to kind of feeling groggy and
+filling not out of Peak Performance for
+one or two days
+so the rule of thumb is when the time
+Giver
+changes by one hour then our internal
+clock takes at least a day to catch up
+so that means if you're flying from
+LA to New York uh you're moving through
+three time zones then on an average it
+will take three uh three days to catch
+up with the New York Times for some
+people it can be even slower and for
+some people it can be two days but the
+bottom line is yes there is a
+decentrality so then what does it mean
+for the body sorry one of the function
+of clock is to anticipate when you're
+going to wake up for example so the
+blood pressure slightly goes up our
+heart rate goes up our breathing goes up
+similarly for food
+almost every organ that is involved in
+feeding or eating digestion all of them
+have clocks
+so even from saliva production that's
+the first phase of digestion to
+secretion of all the digestive juice and
+the stomach and the absorption of
+nutrients and liver metabolism
+everything the whole village expects one
+you're supposed to eat and they're
+getting ready
+for you to eat the first meal after
+fasting for a long time so that's why
+it's breaking the fast of breakfast
+and when that time changes when you
+change it by two or three hours from one
+day to another then
+um sometimes they're like oh food didn't
+come or maybe
+um will come at a wrong time we were at
+the wrong time and then they will track
+the new eating time so suppose say one
+day you have been eating every day at
+eight a.m
+um I ate at 8am is that when you start
+yeah
+when do you when does your feeding
+Windows shut uh 6 p.m so I eat for
+around 10 hours okay
+um and then one day if I switch to 10 am
+then what happens is
+a clerk is thinking well the food didn't
+arrive at eight but it arrived at 10
+maybe tomorrow the food will arrive
+somewhere between eight and ten so we'll
+be ready around nine
+and next day if I come back and eat at
+eight o'clock then I may eat but my
+clock is not ready to digest that food
+so that's why this idea is you have to
+be consistent uh to take advantage of
+this anticipatory activity of our cloth
+in different systems to get the best out
+of it is there evidence that those
+anticipatory systems and as they relate
+to digestion help us better assimilate
+our food I would imagine so I mean if
+you have the gastric juices that are
+going to help digest the proteins fats
+and carbohydrates and uh already
+deployed at the time when you eat I
+could imagine that food will be better
+utilized than if you don't so in other
+words what is the advantage of having
+these anticipatory signals in terms of
+potential health benefits the
+anticipatory signal is really important
+from even even from working up
+um
+the reason why many people feel not
+ready completely when they'll wake up to
+an alarm clock because the alarm clock
+wakes you up but your body is not
+prepared so that slippiness after waking
+up to an alarm clock is due to our body
+is not prepared for that and then the
+best example is when the when
+uh the daylight saving time changes
+particularly when we have to wake up one
+hour early uh what happens people who
+have underlying heart condition
+um when they're waking up when the body
+is not ready your heart is not ready and
+all operations from the heart has to
+start pumping little bit harder then
+there is chance of heart attack and in
+fact people have looked at hospital
+records and that they find that on those
+days and there is a sharp rise in heart
+attacks in car accidents and car
+accidents too because your brain is not
+coordinated so you cannot make those
+fine decisions
+so that's a great example of
+anticipatory activity but coming back to
+digestion one thing is
+um
+and this is something that many people
+might have experienced
+there are many rhythms in our digestive
+system and one of the rhythms is our
+look our intestine has this peristaltic
+function so it kind of contracts and
+expands and that moves forward more food
+doesn't move due to gravity so it goes
+back and forth and that peristaltic axon
+actually slows down at night a few hours
+after our last meal and
+um so that's why when people eat late at
+night for example then that food doesn't
+get digested because there is not enough
+digestive juice first thing and second
+even if it gets digested in the stomach
+it doesn't move properly so then the
+next morning people get up and think
+um of course people consume some alcohol
+very often and then they think that this
+is Hangover but those who don't consume
+alcohol then they have the food hangover
+because it doesn't digest so that's one
+extreme example where food
+at the wrong time
+can
+um so healthy food at the wrong time can
+be crap or junk yeah I've um experienced
+that where if I've worked late or I
+couldn't eat dinner or something and
+then I get home I always debate whether
+or not to try and sleep yeah but if I'm
+too hungry oftentimes it's challenging
+and so for me sometimes consuming
+something that at least seems easily
+digestible like yogurt or something in a
+liquid form
+um is better for me than if I eat a meal
+I've made the mistake of going to the
+refrigerator being super hungry and
+eating a bunch of food at 10 or 11 p.m
+and then falling asleep and indeed the
+sleep
+if I'm tired enough can be quite deep
+but the next morning I feel just
+completely physically and and
+cognitively weighed down so I think what
+you just described makes a lot of sense
+so is it so if someone were to select a
+feeding window regardless of whether or
+not it falls into classic intermittent
+fasting time restricted feeding sounds
+like eating your first bite of food and
+eating your last bite of food at more or
+less the same time each day yeah has
+benefits
+I have this question you mentioned
+feeding versus eating and I think it's
+actually not just a grammatical uh
+semantic issue
+um and here's why
+we tend to think about when you take
+your first bite of food and then when
+you take your last bite of food but of
+course Foods digest at different rates
+more fat in there is going to digest
+make carbohydrates digest slower Etc I
+mean there's all these adjustments to
+the glycemic index and so forth with
+Foods in combination
+I is it better to think about not eating
+but your fed State and blood sugar so
+for instance I often get asked on social
+media does blank break a fast so uh and
+so I like to think about it
+scientifically like okay is does plain
+water break a fast no does air break a
+fast no
+um does one grain of sugar
+of sucrose break a fast well probably
+not but does one teaspoon of sugar break
+a fast well you could say yes but
+transiently like so I mean when we're
+talking about breaking a fast are we
+talking about a rise in blood glucose or
+are there molecular signals Downstream
+of of a rise in blood glucose that
+um cannot be reversed in other words if
+I'm gonna eat my first meal every day at
+noon and I'm gonna eat my last bite of
+food at 8 00 pm and at 9 00 a.m for
+whatever reason I have coffee with one
+teaspoon of sugar in it
+I suppose in the strictest sense I've
+broken my fast but maybe by if I went
+for a hard run that morning maybe by 9
+30 a.m I'm back in a quote unquote
+fasted state so what is the fasted State
+really because when I'm eating at 8 pm
+just to give another example
+I'm start fasting at 801 perhaps yeah
+but I have my blood glucose is elevated
+so I'm not really fasted I'm fed yeah
+it's just that I'm not eating the verb
+right okay so
+um so again I I don't want to get overly
+detailed just for sake of getting detail
+but I think a lot of the confusion out
+there about what breaks a fast yeah is
+related specifically to this issue yeah
+which is if I eat a whole pizza after
+sitting around all day it's very
+different than if I eat a whole pizza
+after having run a 26 mile marathon that
+yeah very different yeah
+um metabolically speaking so how should
+people think about fasted versus fed can
+we be mildly fasted versus severe fasted
+can we be
+um fed-ish versus very fed anyway I'll
+I'll uh stop asking questions now
+because they all relate to the same
+theme yeah no these are um very
+interesting question and then
+unfortunately as you can as you have you
+might have seen in life the most obvious
+questions are often unanswered because
+it's so hard to do these damn
+experiments because if you really want
+to address this in humans you have to
+bring humans put them in isolation
+just like you said I can now imagine
+planning five or six different
+experiments each experiment should
+involve eight or ten volunteers it's
+gender sex
+and then do it so it's difficult so now
+let's go back to see
+how do we let's dissect it in terms of
+say indirect calorimetry so for example
+indirect calorimetry is based on this
+principle that whatever oxygen we
+breathe in and carbon dioxide we breathe
+out if we can measure these two then we
+can figure out whether our body
+in total we are not saying whether it's
+the liver gut or fat or muscle in total
+whether it's consuming glucose or fat as
+energy source
+the idea is when we fast when we are
+without food for several hours
+then
+ideally our body will tap onto glycogen
+first and then do a little bit of fat
+and then when the body is mostly running
+on fat then that ratio of CO2 to oxygen
+will come to 0.7
+[Music]
+um
+but what is interesting is we can do
+these experiments in mice so we can go
+to mice and ask okay so what happens in
+mice so
+and mice mice are a little bit very
+different because mice are not simply
+little people they are the metabolism is
+different they
+store relatively less glycogen than
+humans do in terms of total metabolism
+so they
+overnight within 12 to 14 hours the rer
+respiratory exchange ratio or this ratio
+will go from one when the consuming
+mostly glucose or carbohydrate as energy
+source it will slow down slowly go to
+0.7.75
+it's after 12 to 14 hours they're kind
+of mostly running on fat
+so now as we give them food
+um within 10 or 15 minutes they are not
+actually consuming couple of grams of
+food they might have consumed say 100 or
+200 milligram of that child so which is
+less than say five percent of the food
+and then the rer will immediately begin
+to rise as if
+that small amount of food stopped that
+fat burning process and cranked up the
+carbohydrate burning process when you
+say fat burning process you mean body
+fat stores being burned right not
+dietary fat correct yeah so it's all
+body fat means that that's why I said um
+we don't know where that fat is being
+burned because we are just measuring how
+how much mice is breathing in and out
+um so for example it can be from the
+Skin So subcutaneous fat or belly fat
+but not dietary fat no by that time the
+dietary fat is already absorbed and
+digested and hopefully it's sitting in
+the liver or adipose tissue somewhere
+but it's the fattest body fat yes thank
+you yeah the reason I ask is that
+nowadays I think more than half of the
+battles about nutrition that I see
+online relate to this issue where I
+won't name names but someone will come
+along and say low carbohydrate diet
+allows you to burn more fat
+and the more nuanced people out there
+will will say well that's true but
+you're also talking about dietary fat
+you know the word fat can confuse people
+I realize you're not doing that you are
+certainly not one of the people guilty
+of doing this but indeed you eat more
+fat you'll burn more fat but that
+doesn't mean you'll burn more body fat
+in fact I think the day does say that
+under conditions of caloric restriction
+you'll actually burn less I hope I don't
+I'll probably get I'll probably get um
+pitchforks uh through the mail toward me
+on on that one but but I think that's
+true whereas you know people who consume
+carbohydrate can still burn body fat
+even though the majority of the fuel
+they're burning is from carbohydrates so
+yeah so here in this case for example
+from mice we know that as soon as they
+start eating
+um the area goes up
+coming back to your question what would
+be ideal for us to do the experiment
+would be okay so we'll go back to that
+and then give the mouse maybe 100
+milligram of food
+and Mouse runs around in the case and
+then we'll continue to measure to see
+how long it takes for the mouse to come
+back and then
+so that's one husband so now let's say
+um
+let's stay on this and then I'll come
+back and talk about non-caloric food and
+whether that is considered
+I'd like to take a quick break and
+acknowledge one of our sponsors athletic
+greens athletic greens now called ag-1
+is a vitamin mineral probiotic drink
+that covers all of your foundational
+nutritional needs I've been taking
+athletic green since 2012 so I'm
+delighted that they're sponsoring the
+podcast the reason I started taking
+athletic greens and the reason I still
+take athletic greens once are usually
+twice a day is that it gets to be the
+probiotics that I need for gut health
+our gut is very important it's populated
+by gut microbiota that communicate with
+the brain the immune system and
+basically all the biological systems of
+our body to strongly impact our
+immediate and long-term health
+and those probiotics and athletic greens
+are optimal and vital for microbiotic
+health in addition athletic greens
+contains a number of adaptogens vitamins
+and minerals that make sure that all of
+my foundational nutritional needs are
+met and it tastes great if you'd like to
+try athletic greens you can go to
+athleticgreens.com huberman and they'll
+give you five free travel packs that
+make it really easy to mix up athletic
+greens while you're on the road in the
+car on the plane Etc and they'll give
+you a year's supply of vitamin d3k2
+again that's athleticgreens.com huberman
+to get the five free travel packs and
+the year supply of vitamin D3 K2
+so there is a famous experiment that was
+published last year by jotakahasi Islam
+and it came out in science
+and that relates to caloric restriction
+and
+we kind of started with this idea we
+started to discuss on that the rat
+experiments were done with caloric
+restriction and researchers get reduced
+calorie consumption by 20 or 30 percent
+and get that food the rats and then
+subsequently mice and they all lived
+longer
+what is interesting is
+in all those experiments the researchers
+came and gave this bolus of food at one
+time whereas the adlibitum FED mice or
+rats they had access to food all the
+time so they're eating all the time and
+then these rats were given 20 percent
+less
+and what happens is this mice or rats
+then I'm going to take that less food
+which is restaurant now and just eat
+little bit of lunch and then snack after
+three hours or snack after three hours
+they double up all that food within two
+to three hours maximum four hours food
+is gone so they're sort of on the omad
+diet the one meal a day yeah they're
+almost like in one meal a day three to
+four hours food is gone
+or you can sit there on
+four hours eating or feeding and 20
+hours fasting
+um so then the question became well
+the benefit of caloric restriction as we
+know is it due to reduced calorie
+or
+time restricted feeling or timing there
+is a timing component to it that they
+are eating all of that within three to
+four hours and then there is a long
+fasting and this is a difficult question
+to answer because now
+you have to ask this poor grad students
+or technicians to come and split that
+food into eight or ten or fifteen
+different small portions and then give
+them to mice in every two hours
+who actually published the first paper
+in 2017 showing that most caloric
+restrictions I mean he used the protocol
+that was used by Kelly restriction field
+it actually creates a condition of time
+restriction
+so he saw that and then he went back and
+worked with Engineers to come up with
+the smart kids where
+he could actually tell he could program
+how much food is given to mice at what
+time of the day or night completely
+programmed
+so then he took this uh for example
+suppose say the adlibitum FED mice it's
+five grams of ciao in a day
+and if you want to reduce calories by uh
+20 percent and the CR Mouse should get
+four grams of food
+and it divided this into
+9 or 10 meals and then give them in
+every 90 minutes so in this case they're
+eating small
+meals
+throughout day and night so there is no
+fasting so you can say that well this
+mouse actually is not getting into
+fasting because in every few hours is
+getting some food
+and then he measured how long the mouse
+is going to live
+um and he used
+um accountments this is a very standard
+protocol people count how many mice have
+dying on which day and then examine them
+to see whether they've died because they
+there was an accident or they actually
+there was a natural cause
+and then they calculate at the end what
+is the half life so 50 survival because
+that's on an average that's a good
+indicator because if there is an outlier
+that will live for a long time then that
+can skew
+so what was interesting was the limit
+unfair mice of course they live certain
+number of days and then this
+caloric restricted mice
+that never got into Super fasting but
+kind of eating snacking throughout day
+and night that also lift 10 percent
+extra 10 percent longer so that means
+caloric restriction extended lifespan by
+10 percent I've wondered about this
+because recently
+you know there's been there were a bunch
+of news headlines about intermittent
+fasting and and frankly I was frustrated
+if you looked at one major news outlet
+they would say time restricted feeding
+affords no additional benefit Beyond
+caloric restriction for weight loss yeah
+then another
+popular press venue let's call it that
+same study described as time restricted
+feeding
+doesn't work yeah right and then another
+one maybe someplace
+um even more extreme you know time
+restricted feeding
+um only beneficial because of caloric
+restriction or something like that so
+what you've essentially got are three
+different interpretations of the same
+data all of which are well two of which
+are true one of which is false in my
+opinion but what I think people take
+away from that is oh time restricted
+feeding isn't valuable which is not the
+case it I think for many people it's a
+convenient way to eat because at least
+for people like me it's simpler to
+designate between portions of my day
+when I'm eating and portions of day my
+day when I'm not eating as opposed to
+eating portion control for other people
+portion control can work but all of that
+is related to either maintenance or loss
+of weight none of it deals with the
+potential health benefits independent of
+weight loss yeah right so um and so I I
+think that um if we can segment those
+out
+um obviously in humans it's hard to know
+if a given treatment or experiment is
+extending life because you don't really
+know how long people would live anyway
+yeah right whereas with mice you have
+some sense of when the mortality was
+likely to occur so what can we say about
+time restricted feeding and longevity in
+terms of biomarkers or in terms of any
+other indication that people who start
+and stop their feeding window at a
+consistent time somewhere between 8 and
+12 hours per 24 hour cycle are
+tilting the scales towards living longer
+as opposed to living shorter this
+example of this news article that you
+mentioned is really interesting because
+that relates to Joe's Joe takas's study
+because I described that if you split
+calories and eat throughout the day
+throughout day and night then the mice
+lived 10 percent extra
+but if you now give Mouse the same
+caloric restricted diet
+and fit them during day time
+whether within 12 hours or two hours
+then the mice lived 10 percent extra
+beyond that yes so twenty percent so
+okay so let me make sure I understand so
+that uh so that I make sure I understand
+if you take a certain number of calories
+and you distribute them throughout the
+24-hour cycle yeah
+it's caloric restriction the mice will
+live ten percent longer yeah if you
+however restrict that to the active
+cycle of the so for humans the daytime
+then
+20 then they live 20 percent long twenty
+percent so it's not just total caloric
+intake yeah meaning it's not just
+important to be sub maintenance and
+calories for sacral longevity it also is
+important as to when in the 24 hour
+cycle yeah you eat those calories do I
+have that right so now
+that's still the story is not over
+because this mice were fed during
+daytime and they're not supposed to eat
+that's right so for us it will be the
+equivalent of being on the night shift
+and only eating at night but a sub color
+sub maintenance calorie diet I guess is
+the right way to say it but when he fed
+mice during night time when they're
+supposed to eat and they're seeing this
+getting the same number of calories
+within 12 hours or two hours
+then the mice left 35 percent longer
+than they control 35 longer so scale to
+human lifespan which you know we don't
+know but but a 35 longer would mean that
+um and again no one knows but um humans
+now what is the average mortality in the
+United States
+yeah so it's around 80 it used to be 18
+hours slow uh reduce little bit because
+of covet but let's take 80 okay so
+people are then now living somewhere
+between 25 and 35 years longer but I'm
+putting some error bars on yeah yeah so
+that was um really profound but now you
+pointed out um biomarker and other stuff
+so now
+if you look at any given time within
+that experiment and actually Joe went
+back and
+um had a separate cohort of mice very
+similar and so that he could take tissue
+samples and of course in this case you
+have to sacrifice the mouse
+and he looked for
+um he did a lot of molecular analysis
+with non markers for example hemoglobin
+A1c equivalent or glucose control
+cholesterol all this stuff
+he could not find anything
+[Music]
+that predicted the benefit of caloric
+restriction so that means in this
+experiment whatever we know so far the
+predictor of longevity none of them
+could predict whether this
+um
+CR only Mouse which throughout day and
+night
+that Mouse is going to live less than
+the night fed mouse that was going to
+live 35 25 extra does that mean that
+there are biomarkers related to
+longevity that we just haven't
+discovered yet yeah so that's exactly so
+that means whatever we know so far about
+biomarkers those
+he could not use to predict maybe there
+was a lot of noise maybe he wanted he
+had to use more number of mice to get
+that because you know biomarkers
+are not going to predict in every
+instance so there is some error
+what is also very interesting is if you
+look at the body weight and body
+composition of all these mice there is
+no difference in body weight and body
+composition
+across all these differences all these
+groups so it doesn't matter when they
+ate yeah provided they were submit sub
+maintenance calorie intake so less
+fewer calories than is required to
+maintain their weight didn't matter what
+pattern of eating they were the same way
+yeah so that in many ways seems to mimic
+the human studies where they say look it
+doesn't really matter whether or not you
+use caloric restriction or or you start
+your feeding window in the morning or
+start your feeding window in the evening
+or you
+um or you portion control for sake of
+weight contr weight loss because you're
+taking a snapshot of that and then
+another thing with the human study that
+we are referring to here
+um that in that human study
+people are actually already eating
+within 10 hours window
+habitually when they selected these
+people to have them enroll in the study
+so they were already eating for 10 hours
+and fasting for 14 hours
+all participants had to reduce that
+caloric intake and they reduced by
+almost 25 percent
+the CR group continued with 10 hour
+sitting window
+and the CR plus time restricted group
+had to eat the same number of calories
+within eight hours so it's just a two
+hour difference it's just a two hours
+difference okay so that people I just
+want to make sure people can understand
+so in this human study which is the one
+that I felt that the popular press
+venues all except one venue
+um got either semi-rung or badly wrong
+in terms of their conclusion that was my
+interpretation anyway was that
+either people came into the study eating
+basically in a 10 hour feeding window
+which goes back to my first question
+which is that most people are not eating
+in the middle of the night yeah or if
+they're on shift work and they are then
+they're sleeping during the day anyway
+so they're eating in a 10 to 12 hour
+feeding window anyway so you're saying
+they either did caloric restriction
+portion control within the 10-hour
+window or another group within the study
+eight sub maintenance calories so
+caloric restriction CR as we're calling
+it the acronym CR but restricted to that
+to an eight hour feeding window and they
+didn't see any difference in terms of
+weight loss yeah but but it's not all
+that surprising right I mean if it's
+just a two-hour difference yeah exactly
+so we have done that experiment in mice
+and we don't see
+um difference in not only weight loss
+many other markers and I was telling you
+about this um paper where I told you
+that he allowed this mice to eat within
+two hours or 12 hours
+sub calories diet 2 or 12 2 or 12. yeah
+that's dramatic but still he did not see
+change in longevity even within those
+two so that means
+um when you do caloric restriction and
+then at least for months and you are
+within 12 hours window
+um that's that is giving the mice the
+best benefit the optimum benefit and
+um two three or five or twelve per Mouse
+doesn't matter at least for longevity
+can we conclude for humans that whether
+or not a feeding window is
+four hours six hours eight hours or 12
+doesn't matter provided that calories
+are are similar or same well I won't go
+to that extent because we don't know
+many of this particularly we don't know
+how this sort of eating window will
+affect both success because you know we
+always think many of this mouse
+experiments even that I told you about
+those are done only in Mel mice but that
+should be changing right because the NIH
+I know this because I'm on study section
+which is just a bunch of people who
+record who review grants is that every
+Grant now has to include sex as a
+biological variable it's hard to get
+away with
+um or rather I should say it the way it
+should be said which is people are
+required
+and should want to look at these
+phenomena in male and female mice yes
+especially if there are differences so
+in this case
+um there are many I mean there is also
+another paper
+um in time history repeating that also
+came out a big paper showing that they
+um thermogenesis was accounting for loss
+in fat mass and time just to referred
+mice that was also done only in male
+mice
+um so this is um we are paying attention
+to it so we are now doing all of our
+studies in male and female and we do see
+big differences between male and female
+coming back to humans
+what typically happens is when you're
+trying to do four hours or six hours of
+time restricting people will
+inadvertently reduce their caloric
+intake yeah just because of gut volume I
+tried one meal per day and and I felt
+like I was eating so much at that one
+sitting yeah that it led to a lot of
+gastric distress and I got tired after
+the meal and part of the reason I like
+to do time restricted feeding is I have
+more energy yeah and certainly in the
+fasted State I feel more energized
+especially if I'm ingesting a little
+caffeine or something like that
+um so people will reduce
+um
+energy intake and then
+some people who are more active they can
+actually
+unconsciously they may be spending more
+energy in their physical activity and
+basal metabolic rate all of this
+combined than homozy eating
+and that can have a very adverse effect
+in long term because we know that this
+energy deficit and in fact there is a
+scientific term for that it's called red
+s relative energy deficit in sports
+energy deficit in sports okay yeah it's
+because nearly 40 percent of athletes
+um not the NFL guys but you know a lot
+of people who do track and field
+um and nearly 40 percent of athletes
+actually experience this Reds red S
+without knowing can male and female
+athletes both men remains Reds so it's
+Reds Reds relative energy relative
+energy deficit in sports interesting is
+the first I've heard this acronym we
+have a new acronym folks this is good to
+add to it a list of other acronyms but I
+so males and females can experience it
+so in females I've heard that
+um Reds
+um can lead to uh eminaria so loss of of
+men's of the menstrual cycle yeah so
+that's uh so common that uh so prevalent
+that in fact many women many female
+athletes they take it for granted that
+yes if they are more active then they
+will lose their menstrual cycle which is
+which may be common but it's not normal
+or Optimum per health
+and even if they don't want to get
+pregnant yeah yeah yeah yeah we had an
+expert on female hormones come on and
+say the very same thing that regular
+cycling is a is very important of
+ovulatory menstrual cycle is is
+important to try and
+um maintain yeah yeah so that's one but
+then what is really concerning is
+um it does affect bone health
+and
+um in this state people actually over a
+long period of time the loose bone mass
+and the bone also becomes more prone to
+injury micro fracture and fractures
+um so again it's a risk means if some
+people are trying to eat within very
+short time and they're Physically Active
+that happens and it also has impact on
+means the reason why
+these women are losing menstrual cycle
+is the
+hpg axis is disrupted hypothalamus
+pituitary
+gonadal axis
+and it starts it may start again
+Upstream at hypothalamus or pituitary so
+that means that HPA axis hypothalamus
+pituitary and adrenal axis may also get
+disrupted one of the symptoms of Reds is
+also depression anxiety bipolar like
+symptoms and we know that many
+um many athletes experience that we
+think that well this this may be just
+peer pressure that always trying to
+compete and we know that I'm
+unfortunately there are few authors who
+just can't cope it and there are many
+attempted suicide or suicide so this is
+a serious issue and
+there's also another new topic in the
+lab to come up with a mouse model of
+Reds and then study it but this is one
+risk why we should not reduce our eating
+interval to two such to one meal or very
+short time because it can have adverse
+side effects that we don't know now
+um maybe in future we'll figure out when
+we systematically study them
+there are studies that are published
+showing four hours and six hours time
+restricted eating has benefits on weight
+loss but those are on healthy
+individuals and they were in the studies
+so the um you know the study team took a
+uh well already monitoring the mature
+that there was no sudden weight loss or
+weight loss below
+um some safety level uh so those are
+very different from regular people who
+are who maybe even normal weight or even
+with uh within the healthy range if they
+do then they can potentially so that's
+why
+what we think is eight to ten hours
+maybe the ideal spot to begin with and
+um once you are physically active and
+you are also spending a lot of energy in
+physical activity or Sports you can even
+go up to 12 hours because in mice we
+have done that experiment
+um after 12 hours they do get a lot of
+benefits not all but so this is 12 hours
+of 12 hours of feeding 12 hours of
+fasting yeah
+um in humans
+um again nobody has done systematically
+12 hours but there is one study in
+Europe
+um from tin High Colette lab and Tin
+high and I we collaborate so they used
+our my security and clock app this is a
+research app we developed just to this
+is mostly used in time restricted eating
+studies
+and he had nearly I think he started
+with 200 Swiss participants but then at
+the end he selected and took very small
+number of groups people who are very
+um meticulous about recording all their
+food and divided them into usual feeling
+whatever they wanted to eat whenever
+they wanted to eat and they were given
+the advice of Swiss nutrition advice
+that's given to improved health and
+reduce blood glucose almost like
+diabetes prevention program in the U.S
+and then the other group was given
+advice to eat within 12 hours
+this is very early on in time
+restorating and we thought that the mice
+were getting some benefit let's try with
+the 12 hours has any benefit
+the bottom line is
+at the end of three months and six
+months what he reported is both groups
+lost same amount of body weight
+and then there's not too much
+significant difference between groups
+but both groups actually improved their
+health so the bottom line is the Swiss
+nutritional advice that he was giving
+Which is the standard of care there it
+achieved the same amount of weight loss
+as just giving people this advice that
+eat within 12 hours so one way to look
+at it look at the result is like this
+and
+then he went to more extent and actually
+looked at every single meal these people
+consumed so they're close to I think
+close to 60 or 70 000 meal records and
+pictures he went through and then
+classified them to say whether these are
+good quality food so they call it the
+Nova classification one two three four
+one is the food that you can almost eat
+raw fruits vegetables
+um yogurt and dairy products that you
+can almost without any preparation
+and then second Nova 2 is kind of home
+home cooked food that most people will
+prepare in few minutes and then three
+and then fourth one is the food that you
+can never prepare at home
+so for example
+biscuit or cookies that we usually
+purchase and few other things
+and usually the Nova 4 are unhealthy
+Ultra processed food so which we should
+not be eating so the advice is to reduce
+Novak for
+and what I found was people who got all
+this advice
+um to improve their nutrition quality
+they actually improve their nutrition
+quality they reduce their Nova for food
+and people who were in time frustrating
+the eight within 12 hours they did not
+change the nutrition quality
+but what is interesting is they both got
+the same modest weight loss so that begs
+the question that in the maybe tin high
+will do this experiment again to combine
+nutrition advice with time restriction
+and maybe reduce the time to 10 hours
+and that might help
+um so
+12 hours is something that I say
+anyone from five-year-old to 100 year
+old can do and if you are trying to
+maintain weight that might be a good way
+and combine that with exercise it'll be
+great and and people can more easily
+avoid Reds in that way women and for
+non-athletes or recreational exercises
+sounds like women
+if they distribute their calories across
+12 hours are less likely to lose their
+menstrual cycle yeah so again this is
+something that we have to look carefully
+they have to be because
+we do have the my security and clock app
+that many people download and
+self-monitor and they share the data for
+researchers we won't provide a link to
+that by the way it's a great it's a
+great tool yeah but once in a while we
+do get this input from some women saying
+oh I started doing your Timeless routing
+and I I'm seeing all these problems and
+then I ask them okay so what else are
+you doing they're typically improve the
+nutrition quality so they're eating only
+salad and few and they're trying to
+increase the fiber intake and it's
+really hard to eat so much of uncooked
+food because cooking helps to absorb
+more nutrient and then at the same time
+they're running five miles every day and
+of course all of this combinedly can
+lead to Reds like symptom so that's why
+12 I think is a good point if you're
+combining physical exercise and better
+nutrition quality because in mice also
+we have seen that if mice are eating
+healthy food and they're eating within
+10 to 12 hours then they also live
+longer than mice that writing healthy
+food but Distributing that calorie over
+a long period of time and this is um
+Rafa di cabbage
+finding from NIH he has systematically
+done this study with two different types
+of diet and in mice and he finds the
+same thing that even mice that are
+eating within 12 hours they do live
+longer than mice that eat randomly even
+healthy food
+I I recall a recent study I think it was
+either published in cell reports or cell
+reports medicine forgive me for not
+remembering which we'll both of course
+cell press journals excellent journals
+which explored time-restricted feeding
+in the context of low carbohydrate or
+non-low carbohydrate diet so it was low
+carbohydrate versus low carbohydrate and
+time restricted yeah so these all
+caloric matched right between groups and
+then non low carbohydrate diets those
+are more standard uh I think it was
+somewhere in the neighborhood of 60 of
+calories from complex carbohydrates and
+and as I recall the um the greatest
+weight loss
+remember same calories across groups
+folks
+um was achieved with low carbohydrate
+plus caloric restriction yeah
+um and I wondered why all the popular
+news venues didn't cover that study um
+but that's why I'm bringing it up now I
+thought this is really interesting and
+um and I'm somebody who's cycled low
+carbohydrate diet
+um before I find it hard to sleep after
+about three or four days of being on a
+low starch yeah diet just personally I
+so I like to eat some starches yeah
+especially if exercising intensely or
+working intensely that's just a little
+editorial there that
+um but look I know many people who do
+just feel better on a low carbohydrate
+diet but what do you think of those data
+because it speaks to the idea that okay
+it's not just the total number of
+calories it's not just the quality of
+those calories
+it's the timing of those calories and
+maybe carbohydrate restriction in
+conjunction with
+time restricted feeding might be the
+best path for people who are looking to
+lose weight
+no I I totally agree that when it comes
+to nutrition quality quantity and timing
+all these three matter nearly 40 percent
+of people who maintain healthy body
+weight because sixty percent are
+overweight and rupees 40 percent of
+maintaining healthy body weight and out
+of those 40 I would say nearly majority
+of them
+are very aware about how much dieting
+and what quality of food they're eating
+so you're really an optimist you're
+looking at the 40 of the glass that's uh
+or should we say not full
+there was a pun intended but the um no
+it's a very interesting way of looking
+at rather than saying you know why or 60
+of Americans obese uh saying why are 40
+not obese that's a very interesting way
+to look at it yeah I mean um
+subconsciously we're always making the
+decision inside no means I'm sure that
+you are not going and eating um
+cheeseburger every day because
+um you want to improve yeah right no
+yeah exactly I wouldn't feel good yeah I
+enjoy a cheeseburger now and again but I
+um no not certainly not this stage or
+any stage of my life I think that
+um
+I think people
+actually you think the pandemic had a
+lot to do with this I think that people
+started to take a look at what they were
+doing to support or not support their
+health generally yeah I know people
+gained a lot of weight during the
+pandemic other people got really into
+fitness I've seen some colleagues but
+you've always maintained
+um you've always been in good shape
+actually the first time I've seen you in
+a while you've seem to have aged
+backwards so you are a poster uh for
+your own um ideas and hypotheses about
+time restricted feeding but but I um I
+noticed that during the pandemic a
+number of people emerged from the
+pandemic in better shape other people in
+much worse shape it seemed like it was a
+it was like a bimodal distribution there
+yeah
+um
+so yeah I get the sense that starting
+and stopping eating at more or less the
+same time each day even if caloric
+restriction is not the main focus yeah
+has additional benefits
+um
+can we talk about some of those benefits
+as they relate to the other things that
+impact health so for instance if you're
+starting and stopping eating at more or
+less the same times each day are you
+sleeping better are you getting more
+predictable
+uh shifts in alertness and sleepiness
+like can you predict when you'll feel
+good enough to exercise yeah maybe we
+could talk about that because you of
+course
+um are well known for time restricted
+feeding and the science around that but
+also other things as well
+um not the least of which is circadian
+biology generally so I always think of
+the main timekeepers for our system
+being feeding light
+activity and social connection did I
+miss maybe temp and temperature yeah
+yeah so how do these combine with one
+another and using timing that we begin
+and stop feeding is kind of an anchor
+Point can we explore that a little bit
+yeah so you know we got into this
+um beginning and end and then we
+you asked for the calorie how much
+calorie will break the fast
+um
+one thing that I want the listeners and
+viewers to
+bring back to this timing of when wait
+when you're breaking the fast because we
+equate Health with weight body weight
+and
+that's when you know we are talking
+about nutrition quality and quantity
+because both of them have impact
+so now let's think about mental health
+because a lot of people
+do struggle with mental health they have
+anxiety or depression
+and also
+um it's a gut health because there are a
+lot of people who also have acid reflux
+or heartburn
+and we know that acid reflux or
+heartburn can be exacerbated by caffeine
+intake in empty stomach
+those who have acid reflux of heartburn
+they're prone to that then having black
+coffee in the morning
+before any food
+um Can upset their stomach so that's why
+in those cases it's very clearly that
+caffeine for them becomes the trigger
+and that's something the food is
+supposed to come and then the stomach is
+not seeing the food so it's overreacting
+producing excess acid and that comes up
+to the esophagus and that's what they're
+experiencing
+so if people have that kind of condition
+then maybe they should consider when
+they drink their first coffee is
+breaking their
+overall fast or kind of putting them
+putting their health at risk for acid
+reflux
+the other thing is people who have
+anxiety panic attack we know that
+caffeine can judge you up especially on
+an empty stomach especially on an empty
+stomach so for them again
+caffeine can be a trigger so that's why
+I want to kind of differentiate that
+there is this mental health and other
+aspects of health and these are two
+clear examples where anxiety panic
+attack related to brain health
+or acid reflux related to our gut health
+in those cases
+when we consume that caffeine in the
+morning can affect so do you avoid
+caffeine in the morning no actually here
+is the interesting history about
+caffeine and this is something I did not
+know and I was once invited to this
+history of nighttime activity and maybe
+we can take a little bit of detour and
+talk about night time activity because
+that fascinates me as a circadian
+biologist
+because over the last 200 000 years
+means we assume that humans Homo sapiens
+evolved 200 000 years ago so we have
+been as a species we have been living on
+this planet for 200 000 years
+and only in the last
+you can say a couple of thousand or five
+thousand years when we came to control
+fire or maybe you can even go back to
+100 000 years there is some debate
+um so then the question is well
+when you control fire and we light it up
+the fire
+and we could light up whenever we wanted
+we can add Fuel and we can stop the fire
+when we don't want it
+that's the key
+ability in humans that differentiates
+them from all the other spaces
+no other species we can always say yes
+there are signs of this intelligent
+decision making for example we know many
+crows can make decisions many many
+animals they kind of figure out
+strategize how to get food but
+controlled use of fire is something very
+specific to Human
+and when we started
+um controlling fire fire did not
+essentially extend the day
+because fire created a evening that is
+very different from what people did
+during the day
+and what people used to do during day
+they worked a lot means Gathering food
+was almost everything that we did
+and so in the evening after the after
+the after we brought food mostly tubers
+or maybe lentils to cook or once in a
+while animals so that we can we could
+barbecue
+um all of these things happen around
+Fire and Fire was so expensive that it
+was mostly communal fire so if you go
+back to for example Maasai and all this
+and such sorry
+populations that have no access to
+electricity and are still living kind of
+that historical life
+fire is a communal event and they sat
+around the cooked food and then what
+happened
+they did not talk about work they talked
+about
+um culture they told the sang the danced
+they strategize
+um that's how politics started
+philosophy started science started all
+of this things that are very unique to
+human civilization started around
+fireside chat
+so
+um in that way if we think about it we
+are still doing fireside chat the only
+thing is we have the microwave and the
+television or social media so now we
+chat with our thumbs right so it's still
+so we are hooked to that evening
+activity because that's when
+we are completely free from the pressure
+of the work and we want to express
+ourselves that's our independent kind so
+that's why
+most people find it very difficult to do
+time resulting and stop eating at six
+o'clock because it's in Grand in our in
+our even DNA that we want to eat and
+socialize in the evening
+so now let's fast forward and see what
+is the roll of coffee in this and if you
+look at Coffee consumption particularly
+Cafe where people can come and have
+little bit of coffee and socialize it
+also started as an evening activity and
+this is an
+um now we can go back to Istanbul
+because that's one place where Coffee
+Cafe is started in mid 16th century so
+we are talking about 15 40 to 1570
+um and that's when uh
+I'm sorry I'm forgetting the name of
+historians who actually invited me and
+uh okay his name is
+I must be butchering the name but I'll
+try to provide the spelling and the
+wonderful thing about social media is
+somebody will tell us on YouTube the
+proper pronunciation so it's a great
+opportunity if you know the proper
+pronunciation please put it in the
+comments on YouTube I'm actually I'm
+even checking right now in my endnote
+library it's not picking up that that's
+right we'll provide a link yeah so what
+happened was
+um so coffee was introduced and
+um people came and drank coffee and
+talked about politics at night at night
+at evening and it actually started with
+with Sufi branch of Islam because they
+are the ones who uh consumed coffee in
+the evening and this is the branch of
+Islam where they actually sing and dance
+and all that happened in the evening
+so singing dancing
+by the stupid and then here in Istanbul
+people started congregating and having
+um talk about politics
+but then around the same time
+um some you know
+in Turkey there was a good sizable
+number of Muslims who have to do five
+prayers a day number of prayers at set
+time the first prayer is very early in
+the morning
+and then they figured out that if they
+wake up and immediately have coffee then
+they can stay awake for the first prayer
+and in that way they felt pretty good
+and they woke up I said that's how it
+started as a morning drink to stay awake
+and kind of get get on with the day
+but what happened was I don't know
+whether you have ever tried Turkish
+coffee it's very thick
+yeah a few years ago right before the
+pandemic 2019 I traveled to Turkey is
+first of all the food is amazing the
+coffee is indeed very very thick yeah
+and
+I have a pretty high caffeine tolerance
+yeah
+um from drinking so much coffee in yerba
+mate over the years and still do I
+really enjoy it but um yeah it's it's
+very intense and so what you're saying
+is that
+um
+coffee intake started as a way to extend
+into the night the ability to extend
+into the night at all was because of the
+ability to harness fire and then coffee
+stimulatory properties were
+leverage toward morning
+which is essentially like the way I
+think about it we did an episode on
+caffeine and some uh someone else
+Michael Paul and not I described it this
+way that you're sort of taking a loan
+out on your energy bank account with
+coffee you're suppressing the adenosine
+system the density makes you sleepy but
+that adenosine system will kick in later
+so you're you're it's a credit card of
+sorts with an interest right right and
+the interest being
+um an energetic lag that you're going to
+experience in the afternoon yeah but
+what happened was with the strong coffee
+um that gave heartburn and acid reflux
+to a lot of people
+so then
+they started eating something with
+coffee and that's how the culture of
+breakfast started in Turkey ah so coffee
+actually led to the development of
+breakfast not the other way around and
+that uh yeah so that's very heartening
+uh no again no pun intended uh for the
+uh the caffeine lovers Among Us uh which
+I count myself one of those so
+essentially the food before coffee
+became breakfast so you kind of
+give something to your to your stomach
+so it's busy digesting that and then
+when the coffee comes in it's not
+reacting to coffee and creating
+um acid reflux so it wasn't this
+fascinating so it wasn't that breakfast
+is necessary on its own it was
+essentially a buffer against the gastric
+distress caused by caffeine at least in
+that culture when in that context
+um we cannot say that whether the same
+thing happened in all over the world
+where coffee is not consumed but still
+people eat something in the morning you
+said you start your um first meal uh of
+the day at around eight what time do you
+wake up I wake up around six if I
+started to six what time do you have
+your first caffeine no actually I have
+so that's why I brought up this story
+because I have coffee after my breakfast
+fantastic I'm a big proponent of
+delaying caffeine intake for a few hours
+after waking for other reasons that my
+listeners have heard me talk about
+endlessly so I won't bother with that
+now but I think um
+allowing the suffice to say that
+allowing some of the natural waking up
+signals to occur and using light to kind
+of clear away and adenosine to further
+extend an activity is better than using
+a stimulant but until a few hours later
+this is fascinating because I've never
+thought about the link between extension
+into the night socialization or
+socializing rather feeding and caffeine
+I'd like to take a brief break and thank
+our sponsor inside tracker inside
+tracker is a personalized nutrition
+platform that analyzes data from your
+blood and DNA to help you better
+understand your body and help you reach
+your health goals I've long been a
+believer in getting regular blood work
+done for the simple reason that many of
+the factors that impact your immediate
+and long-term Health can only be
+analyzed from a quality blood test the
+problem with a lot of blood and DNA
+tests out there however is that you get
+data back about metabolic factors lipids
+and hormones and so forth but you don't
+know what to do with those data inside
+tracker solves that problem and makes it
+very easy for you to understand what
+sorts of nutritional behavioral maybe
+even supplementation based interventions
+you might want to take on in order to
+adjust the numbers of those metabolic
+factors hormones lipids and other things
+that impact your immediate and long-term
+Health to bring those numbers into the
+ranges that are appropriate and indeed
+optimal for you if you'd like to try
+inside tracker go to insidetracker.com
+huberman they have a special promotion
+right now through Pi Day March 14th
+where you can get 31 off their ultimate
+plan this is their biggest promotion of
+the Year again if you go to
+insidetracker.com huberman you can get
+31 off their ultimate plan now actually
+I'm kind of
+um speaking what many other researchers
+have found and this this particularly
+this fireside chat I'm forgetting again
+the name of the scientist I think is
+from University of Washington Seattle
+she went to Africa and kind of recorded
+what people are talking of course you
+could not understand what they were
+talking Twitter and whether or not
+Tesla's stock is going up of course no
+no just just kidding folks and then came
+back and tried to translate and then
+figured out that what they're talking
+during daytime and in the evening were
+very different so
+um so so
+uh what are they talking about at night
+so exactly so this is like they're
+talking about matchmaking and talking
+about politics and strategizing to
+gather food or or
+even singing and dancing uh so this is
+um if you think if we think about it how
+we manage
+sunset
+to our bedtime
+what we do between Sunset and bedtime
+affects most of our health
+I'm going to think about that for a
+moment I totally agree
+um and by the way I'm a huge
+believer and and I'm in living in great
+hope for the idea that
+right now I do think that scientists
+understand a lot more about the
+different stages of sleep slow wave
+sleep REM sleep Etc then we do active
+waking States like we talk about being
+focused or being alert but that's not
+those aren't scientific terms as we know
+but I do
+believe and I've noticed a distinct
+difference between the first
+eight hours of the day in terms of
+cognition and we know that the
+catecholamines are at much higher levels
+plus court is also dopamine cortisol
+epinephrine all of that is really at
+much higher levels than in the later
+evening
+and so this evening time it all it's
+certainly in the context of mental
+health we know that morning and evening
+we are basically different creatures
+yeah yeah
+so that's why I think in the evening if
+you think about it um
+again this is uh again another set of
+research from
+um my good friend Horacio who the
+Iglesias yeah oh yeah yeah I'm a big fan
+of horacio's another he's a fellow
+Argentine so occasionally we riff about
+things related to that but he's a
+wonderful biologist are you guys
+collaborating yeah his kind of uh I say
+he's very humble and it's a low profile
+but he does amazing amazing research
+totally agree he does research that um
+we want to know but nobody is ready to
+do it because field research is very
+difficult to go to the Wilderness or go
+to the places where there is no
+electricity and then record
+um when these people are eating sleeping
+or in this case activity exposure to
+light that's what Horacio has done and
+uh it was this active watch which is
+kind of a modern
+activity tracker
+um but it's a little bit more refined
+because it also collects light
+information
+what I found was most of these
+Argentinian Towers who have no access to
+electricity
+they consistently go to bed somewhere
+between three to three and a half hours
+after Sunset so this is very important
+because we always think that
+um our ancestors when they didn't have
+electricity as soon as the sun went down
+they just went to sleep no
+the fire extended the evening so they
+were staying awake for three to four
+hours
+kind of
+um you know
+decompressing themselves that we say and
+then doing all these activities cooking
+sharing meals and then they would go to
+sleep
+and if you look at the slip onset
+variability it was very small like
+they're going to bed almost within 15 to
+30 minutes standard deviation so no
+night owls versus morning people exactly
+so we'll get to that none of this this
+uh I get attacked by for many reasons it
+just goes with the business I'm in of
+being public facing these days but every
+time I talk about viewing sunrise or low
+angle sunlight you know getting some
+sunlight earlier someone says well I'm a
+night owl and they just it's almost like
+a a protest of trying to protect
+identity it's become this ideological I
+I identity related thing I'm a night owl
+I'm a morning person and I'm not but
+you're telling me that in these cultures
+where there is intellectricity but there
+is fire people are going to sleep within
+all of them within about 15 minutes of
+one another yeah so there is no such
+thing as a night owl or a morning person
+in the context I still actually I asked
+him pointedly because uh uh and then he
+said no he has not sinned and says
+dragged hundreds of people and if we ask
+there are many many sleep researchers or
+at least the public facing sleep
+Physicians or experts they will say yeah
+we can say one third of people a night
+hour one third of morning and then one
+third are in between but yeah they call
+them like Bears wolves and you know and
+I'm not being disparaging of that idea I
+think people really do feel as it as if
+they Orient towards one pattern or
+another when I was an undergrad student
+I never went to bed before midnight and
+actually midnight was my going to
+bedtime exactly like 11 45 I'll try to
+get ready to hit build and then by 12
+I'm in bed and I used to get up at six
+six fifteen that's a pretty short sleep
+with an alarm of course and but then day
+time I used to take 45 minutes to one
+hour nap and that was regular
+like even if uh whenever I got time of
+course in college you know you don't
+have the whole debt unlike in high
+school you don't have opportunity to nap
+but in college you can I might have been
+one of those kids with this hoodie on
+napping on the desk but they come around
+and they wake you up yeah but in this
+case just come back to the dorm and
+um after lunch usually I used to take a
+nap
+so
+um then in grad school
+I remember I rarely went to bed before 2
+am and I could have clearly said that
+I'm a night owl and actually I was a
+night owl
+it was very comfortable staying up so
+late I was very productive doing
+experiments writing all this um
+manuscripts mostly and
+but then afterwards when I looked back
+in postdoc when I had when we had our
+daughter
+um then things started changing because
+you have to
+put the baby to sleep
+and then after the baby sleeps it's
+almost when you have a baby your life
+revolves around the baby so then we have
+to dim down the light
+there is no caffeine and alcohol
+drinking or any other things after the
+baby sleeps because we cannot do too
+much noise and others so then I realized
+that no I'm actually not a night owl and
+I became kind of more normal because I
+could go to sleep between 10 and 11.
+and
+um that's how I thought well maybe this
+was very unique to me
+but what is interesting is
+I have another colleague good friend Ken
+Wright Jr Colorado at Colorado and he
+also had grad students and
+um and postdocs like me who strongly
+believed that there were night owls
+um just like everybody else
+and he took Ken took the whole Lab for
+camping and when they were camping of
+course there is less light and a lot of
+physical activity hiking during the day
+and they all went to bed between 9 and
+10 30 p.m I love that study yeah what
+Sachin just described was a study I
+think there were two studies uh there
+were two yeah and um what's interesting
+as I recall is that after going camping
+for a weekend where people awake with
+this more or less with the sunrise yeah
+and go to sleep a few hours after Sunset
+yeah their melatonin rhythms and
+cortisol rhythms and sleep wake rhythms
+persisted on that schedule for several
+weeks despite returning to environments
+where there was a lot of artificial
+lighting which I find amazing that just
+a weekend of consistent rising and um
+going to bed with the sunrise and sunset
+yeah more or less
+allowed a reset that was very long
+lasting yeah
+so
+um actually even in Horatio study he
+found that almost all the tobas they
+wake up around sunrise time and it's
+amazing when I look at the standard
+deviation it's like so tight
+so take that night owl so-called night
+owls I also in graduate school I would
+work until 2 A.M I loved it I'd blast
+music in the lab everyone was at home
+pretty much not everyone but there were
+the the night crew and then I'd get in
+sometime around
+get up or sometime around 9 30 10 and
+then get in around 11 and it was no
+problem because I was going to stay so
+very late and then over time I noticed
+I've become more locked to a standard
+schedule so I think what we're saying is
+that the clock can our internal clocks
+can shift yeah but this idea that we are
+genetically
+biased towards one schedule or another
+may need revisiting that's what that's
+the conclusion I'm taking from this a
+couple of aspects one is um you know
+some people are genetically so
+pre-programmed because the other flip
+side is what is called technically
+familial Urban sleep Fest syndrome so
+these people
+um you can give them caffeine or
+whatever but they will fall asleep say
+at eight o'clock they cannot stay awake
+till nine or ten
+and since it's a very strong phenotype
+in sleep and circadian rhythm field they
+are very well studied so in fact Louis
+potashek and ingwifu they were the first
+one to track one family like this and
+then they figured out there was a
+mutation in one of the clock genes
+period two that clocked in and that
+mutation
+um allowed the clock to run in a way
+that these people went to bed very early
+I guess historically
+given these Fireside Chats those people
+were probably not contributing much to
+their political discussion whatever that
+was decided after they went to sleep is
+what they woke up into that reminds me
+because as you were describing the
+difference between nighttime discussions
+versus morning discussions is there any
+theme to what is discussed in the
+morning versus in the nighttime where
+people just sipping their eating and
+sipping their caffeine and just waking
+up
+um but is there are there any ideas
+about what morning discussions really
+consistent morning discussions or
+daytime discussions are mostly about
+um work and like hunting Gathering or
+farming all that stuff and even these
+days that's what we do we you know you
+go to I go to work and it's mostly one
+meeting after another and we're talking
+about how means if you're in different
+communities and we're solving problems
+or your students come with questions you
+have your TA or the office hours all
+these things work related we're not
+talking I mean serious philosophy of
+unless you are in a philosophy
+department and you are talking about
+political science
+and also we are not singing and dancing
+so that's why the evening activity even
+these days are very different and
+typically the evening activities uh
+where we express ourselves
+we express who we are we feel like we
+are free and
+um you know you and I we have this
+academic intellectual Freedom we can
+talk about our work just like we are
+talking now there are a lot of people
+who work for even in tech industry they
+may be working for Google and all these
+big tech companies
+they cannot talk about their work to
+anybody else it's all secret it's all
+secret so just imagine that staying so
+they're spending
+more than half of the wake-up time at
+work
+thinking and doing work but they cannot
+talk about that work even sometimes to
+their own family members
+so then what happens for them
+a lot of people also do the same thing
+like um the person who is going and
+baking in a restaurant or cooking or the
+person who is taking trust and driving
+or nurses and doctors can't talk about
+their patients reality yeah yeah and
+some people just don't want to talk
+about it it's so stressful they don't
+want to bring that stress home
+so that's why I always say that from
+Sunset until we go to bed during that
+time we try to find time for ourselves
+people say this is me time the me time
+is essentially we want to truly Express
+who we are or we want to entertain
+ourselves because on the Fireside chart
+it's not that everybody was a performer
+there are also some audience so we
+always switch our roles sometimes we are
+performing and sometimes we are
+observing so that's what happens with me
+time I love this so um maybe social
+media time should be restricted to just
+maybe a small portion of that evening
+time because I would hope that people
+would also interact socially within in
+the room maybe in a constructive way or
+maybe you use that for connect with your
+family members whom you love or you can
+have some productive discussion or
+something so it's it's kind of
+interesting I think it's extremely
+interesting because I think again this
+this conversation about time restricted
+feeding is really conversation about
+circadian rhythm and sleep wake activity
+and human evolution right
+um so that's why let's go back to this
+um uh Night Owl because uh we we kind of
+made a comment that maybe it's not
+genetic but this is where I'm still
+wrapping my head around because you know
+these days
+there's some J-1 studies where they're
+trying to look at night owls to see
+whether there are some genetic Lincolns
+and you know sometimes we always think
+yeah if you take half a million people
+of course you'll find some low side
+but going back to this idea that are
+some people more sensitive to light
+so that it's likely that the same level
+of light even in the same household
+may make some people stay awake late
+into the night whereas other people are
+more resistant to light so that they can
+go to bed early and since light has
+become so prevalent these days and this
+tobus story that we are talking about or
+people going on camping that is we have
+removed that light
+um so there is some
+um evidence that People's Light
+sensitivity particularly the iprgc or
+this intrinsically photosensitive
+retinal ganglion cell or the simple
+speakers the blue light sensors in our
+eyes
+um there seems to be even one log unit
+change in sensitivity as measured by
+pupil constriction so for some people a
+small amount of artificial light at
+night could really shift their circadian
+clock yeah wake them up essentially and
+then for some it manner yeah I'm very
+sensitive to light at night yeah
+exquisitely sensitive to it oh so then
+you are like a teenager yes in many ways
+um I've been told this thank you
+um yeah I think
+um I have actually switched to using a
+red night light but I should be clear
+not a fancy high cost red light for sake
+of any kind of infrared simulation but a
+red party light type light and I find
+that was based on reading one study that
+we covered in an episode on jet lag and
+shift work which was that it seems to
+reduce the cortisol
+releasing properties of light at night
+to use redshifted light yeah so I just
+use a red light bulb I actually travel
+with one if I go to an Airbnb or a hotel
+and I switch to red light and I find
+that I fall asleep and stay asleep
+throughout the night much more
+consistently especially in when I'm in
+New environments which always makes it
+disruptive to sleep
+um it's made an enormous difference in
+the depth and duration of my sleep and
+um because oftentimes Hotel lights you
+know in the bathroom you'll turn them on
+you're just you're just getting beam and
+you're right some people don't seem to
+to be bothered by that I I really
+struggle with that yeah and in fact in
+Tina's uh right after puberty
+um there seems to be a I think that's
+when the teenagers become more sensitive
+sensitive to light uh and it's very it's
+well known that the teenage boys and
+girls they tend to stay awake late into
+the night and they can stay up to 12 mid
+past midnight
+although they can stay of that lid that
+doesn't mean that their sleep schedule
+is reduced their body still needs the
+same amount of sleep as other teenagers
+so that's why they are more likely not
+to wake up at 6 30 or 7 when we expect
+them to wake up and go to school
+um I have a question and I ask every
+circadian related biologists that can
+come into contact with this and no one
+has been able to give me an answer one
+way or the other but I grew up hearing
+that every hour of sleep before midnight
+was of more value or potency than the
+hours after midnight and indeed I find
+that if I go to sleep at 9 30 or 10 P.M
+I can wake up at three or four a.m
+feeling pretty fantastic and ready to
+lean into the day but if I get the
+equivalent number of hours of sleep
+starting at midnight I feel like
+complete garbage when I wake up after
+five six hours so um is there any truth
+to the idea that going to sleep Within
+three hours of sunset is somehow better
+for our circadian timing mechanisms
+well um there are a few things one you
+said that you are very sensitive to
+light so I assume that you also avoid
+bright light in the evening as best I
+can yeah as best as you could can and
+then what is happening is with a sense
+of that bright light your melatonin
+levels begin to rise so you are prepared
+for Sleep
+um of course this is something that we
+cannot measure because measuring
+melatonin in every one hour or 30
+minutes
+um is very difficult and there is no
+consumer fishing product yet
+so it's likely that your your body is
+preparing very well under this dim light
+to fall asleep and when he was trying to
+stay awake and go
+sleep at midnight then maybe from
+Midnight for the first three or four
+hours you are sleeping well but then
+after that your melatonin level might be
+beginning to fall and it's not only
+melatonin in your core body temperature
+and then your heart rate and everything
+is changing to make you awake but the
+Sleep debt that you have accumulated is
+pushing you to be in bed so there is
+this
+tension between the Circadian aspect and
+your sleep depth and unfortunately you
+cannot have good night of restorative
+sleep for the second half of the sleep
+because of the tension that makes good
+sense yeah so that's why
+um you know you are not the only one
+means there are many people who who
+experience that and in fact a lot of
+people think that well this may be the
+way I sleep maybe I'm not um I am not
+designed to sleep restoratively until
+you know I sleep one day just like the
+camping trip
+and then they realize what it feels like
+what you're missing yeah absolutely
+um I want to make sure that we talk
+about the other aspect of fire which is
+uh you had a paper that came out
+recently very interesting paper studying
+firefighters and time restricted feeding
+and firefighters would you share with us
+the the general contour and maybe even
+some of the specifics of that study
+because I think it's very interesting
+for for sake of shift workers but for
+everybody really to understand these
+results yeah so let's go back to shift
+workers because
+um this also relates to all of us
+because
+I always say that each of us is a
+shipped worker or has lived the life of
+a shift worker
+um and we have experienced how terrible
+difficult it is
+um and now let's start with what is the
+definition of a shift worker or
+um shipped work like lifestyle there is
+no Universal definition unfortunately
+but there are many European countries
+and particularly if you go to
+International level organization
+um then you'll find some references
+different European countries have
+slightly different definition which
+essentially points to
+if you stay awake for two or more hours
+during your habitual sleep time and when
+they say habitual sleep time they assume
+that we are just like you said we are
+kind of programmed to slave somewhere
+between say 10
+pm and then stay in bed and kind of wake
+up after 5am
+so the idea is if you stay if you're
+staying awake for two or more hours
+between 10 pm and 5 am
+and you are engaged in some activity
+whether it's physical activity or
+intellectual activity you are not lying
+in bed and wondering worrying about
+something but actually working so that
+defines that's defined as shift work and
+you don't have to do it every single day
+even if you do it once a week
+for 50 weeks
+then that itself is enough to disrupt
+your physiology and Metabolism Behavior
+brain function like a shift worker the
+reason is as you discussed
+when you change
+our external timing queue so in this
+case when you travel jet lag or or
+traveling across three days
+three hours of jet lag will take three
+days to reset
+similarly if you're staying awake for
+two hours extra or if you're waking up
+two hours before your habitual wake-up
+time then we just don't get wake up and
+then be engaged in some activity in the
+dark most of us unmends unless you are
+wearing a infrared goggles
+we turn on light and light resets our
+clock so in that way
+every time we stay up for two or more
+hours even for one night then for the
+next two nights our clock is kind of
+trying to catch up
+so in that way for three days
+the day of the disruption and then two
+days following the disruption
+um a clock is trying to catch up with
+the outside time so clock our body is
+not on time without clock
+so that means almost for half of the
+week or half of the Year our clock is
+trying to catch up so that's the
+definition of shift work so now let's
+come back to
+Department of Labor Statistics um U.S
+government
+um they have not been tracking what
+percentage of people are doing shift
+work accurately because there are many
+difficulties in tracking too
+but it's generally accepted that one in
+five working adults is a card carrying
+shift worker card carrying shift workers
+means they are nurses
+doctors
+firefighters
+um
+and Bakers
+um truck drivers
+and many in the service industry
+so that's one in five so twenty percent
+of working adults
+then if we think about
+all the college students just like I was
+doing and you must have done
+um they're also deadlines grants granted
+lines then we are also experiencing
+experiencing the lifestyle of a shift
+worker because we are delaying sleep
+even if you're delaying sleep by two
+hours for most of the college students
+for five days and then the weekend you
+are trying to catch up that's kind of a
+security and disruption going on
+then you take 1.5 or 1.6 million new
+months
+um in the US every year so when the
+child is born and that mother is a shift
+worker and actually that mother is worse
+than a shift worker because
+um you know you don't know what time of
+the night the baby will wake up and how
+many times and there is no weekend
+in motherhood
+so they're also living the life of a
+ship worker
+um we don't count many food delivery and
+Uber drivers Lyft drivers are shift
+workers but they many of them we know
+that they live so in that way
+we think the actual number of people who
+are experiencing the life of a shift
+worker is somewhere around 50 percent of
+the adults population at any given time
+so that's why it's also another point
+that you might have heard from people
+that will say oh I cannot do time
+restricting
+because my schedule is messed up or I
+work in a different way and
+um that comes into play
+so that's why we thought
+um okay so we should try something on
+shift worker
+another point is although one in five
+people are shipped workers they carry
+disproportionately heavier burden of
+disease because almost all age-related
+disease that we can think of whether
+it's high blood pressure usually high
+blood pressure starts in 40s or 50s
+high cholesterol
+um gastrointestinal problem in digestion
+um chronic
+inflammation of the colon and then even
+colon cancer in many cases
+and then of course diabetes all of these
+are disproportionately more prevalent
+among ship workers
+but then when you think about clinical
+trials whether it's a drug
+or a lifestyle
+often one of the top 10 exclusion Factor
+criteria is shift work so people who are
+doing shift work we exclude them from
+many of these trials one thing is
+most Physicians and most scientists even
+people who do shift work they know that
+they are their body and mind is so
+messed up
+that often time even medications may not
+help them
+and so that's why we don't try new
+medication why to take the risk when we
+know it may not help them
+and then when it comes to Lifestyle
+intervention whether it's sleep
+extension for example we cannot do
+because they are supposed to stay awake
+and do their job we cannot ask them to
+stay asleep at night
+and then physical activity and exercise
+some people can do but some people are
+so tired after all night that they don't
+have the energy to do physical activity
+and then nutrition again most nutrition
+studies involved
+the participants to come to the clinic
+and get
+um one-on-one or one or attend group
+sessions
+and they cannot come
+and they cannot even sometimes come to
+the clinic visit
+um when people have to take draw blood
+and in fact there is another caveat that
+just
+if suppose I am healthy
+perfectly normal blood pressure blood
+glucose cholesterol everything is normal
+and I live the life of a shift worker
+just for five nights that means I'm
+sleeping less maybe four or five hours
+and even if I don't eat at night time
+of course many shift workers also feel
+hungry and just for um to keep their
+work they eat
+um just after five days my blood glucose
+level will read almost like I'm
+pre-diabetic wow I actually saw a study
+in publishing procedures in the National
+Academy that showed that even a hundred
+Lux dim Light present in the room while
+people are sleeping with eyes closed can
+lead to disruptions in morning uh blood
+glucose levels in directions that are
+not good yeah um one night so the the
+faint clock in the corner or even a a
+night light that's too bright yeah could
+be problematic
+um by the way folks these effects are
+reversible so I whenever I say these
+things I we get a lot of comments about
+oh my goodness what have I been doing
+for years but you know kids with Night
+Lights this is an issue yeah um but what
+I'm hearing is that one in five people
+are
+truly shift workers in the classic sense
+their jobs require they work at night or
+into the night and sleep into the day
+but far more people are shift workers by
+virtue of the fact that they're Tweeting
+or working or watching movies at night
+even though it's not work in that
+they're not being paid for that time
+they are essentially operating like
+shift workers if we add those two groups
+together would we say it's what uh a
+third of Americans I would say half of
+America half of America yeah if you take
+teenagers because you know high school
+students and college students because
+again going back to horacio's uh study
+because Horatio also collected
+activity data from high school students
+and college students and we have
+replicated that with high school
+students and college students in San
+Diego so that's Seattle and San Diego
+and this study now there are many sleep
+researchers that have been collecting
+this data
+and what we find is
+um typically the high school students
+they are going to beds around midnight
+and college students at least the UCSD
+students we found maybe one out of 100
+who went to bed before midnight that um
+reminds me that Horacio Iglesias just
+published this really nice paper
+um showing that counter to what we
+believe students now this is the
+University of Washington in Seattle I
+should mention where it's very dark in
+the winter
+young people see other people in their
+20s are staying up later in the winter
+months compared to the summer months
+yeah which is you know totally
+counter-intuitive you think everyone
+stays up late in the summer and goes to
+bed early in the winter but because of
+artificial lighting it's the exact
+opposite yeah so and another um it's um
+I don't know whether Horacio monitored
+it but my other suspicion I'm not saying
+whether it's true in Winter we are more
+likely to consume more coffee hot
+chocolate in the evening and that might
+also be delaying
+slip onset that makes sense so in that
+way again here is another thing which
+can be related to policy or practice at
+Educational Institute so what happened
+during uh kovid was everybody went to
+remote learning
+um the assignments became digital and
+assignments submission became digital
+and there are many systems online
+systems that came into play
+and by default the assignment submission
+deadline became midnight
+so then now what is happening is I don't
+know about Stanford in maybe when you
+are giving assignment um one is the
+deadline in line typically midnight yeah
+so then most of us most students they
+will try to cram as much as possible try
+to solve as much as possible and submit
+at midnight
+and it'll be really cool to go back to
+your system administrator to see is
+there so many frequency plot of
+frequency distribution of what time
+people are submitting the
+um assignment because we know means when
+we submit our grant yeah so I mean you
+know you hear about the Obesity crisis
+the crisis of metabolic disorders not
+just in the US but everywhere in the
+world I mean it's really striking I
+remember going to a keystone meeting
+scientific meeting in the early 2000s
+and there was a map of the United States
+and it showed where the Obesity rates
+were over 30 percent in adults and the
+entire country basically was lighting up
+like crazy now it would be the entire
+country but there were these kind of
+zones in the middle
+um that were almost devoid of of uh
+obesity Colorado namely Idaho at that
+time those are now also Fallen Under the
+Umbrella of rampant obesity and you and
+everyone is speculating okay is it uh
+you know is it seed oils is it
+um is it this is it that is it highly
+processed foods I'm guessing it's all of
+those things including lack of activity
+but one has to wonder given everything
+we're talking about in terms of
+metabolic dysfunction late shifted
+eating all these issues with late
+shifted eating and staying up late with
+artificial lighting whether or not that
+could be one of the major factors in the
+so-called obesity crisis it's likely you
+know we always say Freshman 15 that's
+right because this is a gaining 15
+pounds in their freshman year in college
+and
+um this is where I think as executor
+professors um it'll be interesting to go
+back and see what can we do because
+another thing that's also becoming more
+and more common for example I I give a
+security under the class means I just
+give two lectures and I remember when I
+started 15 17 years ago that lecture
+used to be around 1 30 p.m or 2 p.m in
+the afternoon and it's a two and a half
+hour lecture so it's done by five
+and for the last um before the pandemic
+I realized that they changed the timing
+now the lecture was starting at 7 pm so
+I was finishing by 9 9 30 pm and these
+kids they had to go and eat after 9 30.
+studies socialize find aside chat
+fireside chat and then to express
+themselves like to feel free from
+assignments what are they going to do
+that after they submit the assignment
+then they're going to do that
+so that's why we have to go back and
+revisit this issue say okay so for
+adults for most of us who are working a
+day job
+our deadline is 5 PM in most cases
+right men's at least an University
+system the person who is submitting the
+grant or who is doing taking care of my
+IRB or I cook they are all living at
+five o'clock so for me everything has to
+end by five I think for most people out
+there so this the race is a kind of
+macroscopic question which is maybe it's
+not so much about restricting the
+feeding window but maybe it's about
+feeding mostly in and being active
+mostly in the early part of the day I
+mean you know I could imagine a Time
+three four years from now when it's
+about when waking up early and going to
+bed within three hours of sunset is the
+protocol which harnesses all other
+protocols right you're going to exercise
+you're going to do it in that time
+you're going to eat you're going to do
+it in that time you're going to
+socialize you're going to do it in that
+time and in doing so you're also
+avoiding a lot of the issues related to
+disrupted sleep so that's why all these
+things I just said Timeless repeating is
+just one aspect of the security and
+health and these are all interconnected
+and going back to the comment about
+um within three hours of sunset yes um
+that's good but then what happens in say
+Toronto or Vancouver in winter time I
+guess they're going to bed very very
+early but also waking up very very early
+yeah you know one of the things that I
+hear all the time because I'm always
+beating on the drum of getting morning
+sunlight even if through Cloud covers
+people say there's no sun here this time
+of year and I I forgive me but there is
+Sun unless you live in a cave their son
+is just coming through cloud cover no
+matter where you live in the world their
+son yeah unless you live in a cave of
+course so um I want to make sure that uh
+we didn't Overlook what was the major
+conclusion of the firefighters
+so the reason why we did this study was
+as I said there are a lot of us who are
+living the lifestyle of firefighters or
+shipped workers and shipped workers are
+excluded from studies so that means
+whatever we are learning about a
+lifestyle or even medications that may
+be beneficial for people who actually
+have a normal schedule
+um but not for people who have a
+disrupted schedule and if you look up
+um clinicaltrial.gov there are more than
+400 000 studies listed and if you search
+how many studies are on shift workers
+it's less than a thousand
+and then if you ask most of them are to
+see what is wrong with shipped workers
+like that's how we know that shift work
+increases our risk for metabolic disease
+cancer and even some aspects of dementia
+but if you ask how many studies are done
+to improve the health of shift work
+alone and that's less than 50 means I
+mean so I have to go back and check the
+actual number but it's less than 50. wow
+so that's why
+um we got super excited we thought
+um from circadian rhythm perspective
+that's something to address
+so this study
+again this kind of study is only
+possible because I'm at Salk and we are
+affiliated with UCSD and
+um I can work with UCSD Physicians to do
+this study so I collaborate with Dr Pam
+tobb who is the director of cardiac
+rehab center in UCSD and Pam has many
+firefighters as her patients and we both
+know that the number one cause for death
+and disability on work for firefighters
+is not fighting fire but just getting
+heart attack and stroke uh so they have
+a very high incidence of heart attack
+and stroke and they're also highly prone
+to different kinds of cancer and it may
+be difficult to ascribe cancer to
+disruption security and disruption
+because they're also exposed to a lot of
+toxins anytime Fire Burns that smell of
+fire is essentially smell of
+carcinogens and they're breathing even
+if they have the
+um hood on and respirator they're still
+good so the idea was very simple we know
+that firefighters nearly
+70 percent of firefighters in the U.S
+full-time firefighters because there are
+volunteer firefighters and then
+full-time firefighters the full-time
+firefighters 70 of them work 24 hours
+shift
+so for example in San Diego they come in
+at their shift is from 8 AM to 8 am the
+next day and they do at least in San
+Diego they do one day on one day off on
+off four cycles and then four days off
+and but in some fire departments they
+actually do 48-hour shift so they come
+for two days two days off two days two
+days off and then four or five days
+thank you firefighters yeah I mean
+um so then the idea was okay so we'll
+screen firefighters and then find
+firefighters who are
+metabolically unhealthy and then we'll
+see whether they can actually follow 10
+hours time restricted eating because
+the point is if firefighters can follow
+it then everybody else will pay for us
+with all that stress if they can
+and this is again where I should also
+acknowledge the San Diego fire and
+rescue Department because without their
+health we could not have even submitted
+the grant and at that time David picon
+who is the health and wellness battalion
+chief he's the one who actually
+approached us
+um because he is very careful he knew
+that the job that they do
+makes them weaker and long term and can
+kill them in long term
+so he was always looking for new
+Solutions so he approached us and then
+we said this is the idea he said well I
+love this idea because
+we are not asking them to sleep more or
+we are not going to cut down their over
+time or shift or change the work
+schedule the only thing we'll be doing
+is ask them to eat within 10 hours
+and hopefully we can do this so
+consistently between the days that
+they're working and not working yes so
+that means if they're from 8 A.M to 8
+A.M working then the next day then they
+go home then they're going to eat on the
+same schedule they did when they were at
+the fire Firehouse yeah but while at
+home so they're not allowing themselves
+to to deviate from that yeah so we we
+thought whether they can do it or not
+because the number one goal or the
+primary outcome in this clinical trial
+was feasibility can they do it
+and then second was if they do it then
+what happens to their blood sugar and
+weight and all this other stuff
+and then we started the study and we hit
+the next hurdle and that is
+um
+you know firefighters are very very
+tight-knit community and they want to
+make sure that you understand their
+culture and the best way to understand
+their culture is to live the life of a
+firefighter
+so Emily Manoogian who is the first
+author see and then we had Adina
+jadurian who is now in med school she
+was a research coordinator at that time
+they volunteered they said okay we'll go
+to the
+busiest fire station in San Diego
+and will live the life of a firefighter
+and the San Diego fire and rescue and
+the city they all agreed they reported
+for duty at 7 30 in the morning they
+were assigned a
+bed in the station because all fire
+stations do have some beds for
+firefighters to rest and they have a
+sign bed so they've assigned a bet
+um yeah so every time a 911 call chem
+and if that fire station in that fire
+station that fire engine was called then
+just like other firefighters they had to
+run get into the gears just issues and
+um a jacket and a helmet and getting the
+seat and attend the call of course they
+won't go to this side they just get out
+of the truck wait there
+then come back
+so in that 24 hours MLA got 10 calls at
+night that she had to run to but there
+are more than 10 times the
+um they got the nine one every time the
+911 call came then there is a bit that
+goes out
+all firefighters were sleeping or
+resting they would get up or if they're
+doing something they'll look up to see
+which engine is called and interesting
+so it's not just the ones that go out
+it's everyone gets woken up everyone
+gets woken up so that means in a night
+typical night they're waking up
+um 10 15 20 times sometimes so they're
+almost like
+um you know new months are like
+firefighters because they don't have any
+idea what time the baby will cry and for
+what reason also they don't know so
+similarly it's five so that's what Emily
+did and then next morning once you came
+back she was like no it's practical seem
+easy
+yeah so so then we did the study and we
+essentially assigned uh all the
+firefighters we recruited 155 Fighters
+we assigned half of them to
+Mediterranean diet because you cannot do
+any harm you have to give them something
+good so that's another thing they said
+no we want something that we know works
+for firefighters and there was a
+Mediterranean diet study so
+everybody was supposed to follow
+Mediterranean diet and then have nearly
+75 of them were supposed to eat within
+10 hours
+we did not fix the 10 hours because we
+said
+um you pick your own 10 hours that you
+can stick to but it has to be consistent
+from day to day so if you start eating
+at 9am you finish it not at uh you know
+at seven PM pm and then try to be yeah
+okay try to try to be consistent because
+we said yes we understand that there
+will be some things and you can take
+maybe half an hour here and there and
+we'll see how many times you can do it
+and
+um
+what is interesting about although they
+were all doing 24 hour shift
+more or less chose to begin eating
+somewhere between 8 AM and 11 am
+and they
+did not skip any meal they had their
+first meal or what we call breakfast but
+it was several hours after waking up
+because they are waking up at five or
+six and the driving to come to work at 7
+30 or 8 and they're eating the first
+meal say between 8 and 11. and then the
+finished meal 10 hours later
+and what we found is more or less
+most of them could stick to doing this
+at least five days out of seven days
+um and then at the end of the study when
+we look at their health parameters
+one thing as I said
+we recruited everybody who can so that
+means nearly
+one in three firefighters were
+completely healthy they had no sign of
+any
+um any illness no high blood pressure
+high blood sugar or high cholesterol
+depression or anything
+so since we have one third of the
+population who are already healthy and
+then everybody has slightly different
+conditions some have high blood pressure
+but they don't have high blood glucose
+somebody has high blood glucose but not
+high blood pressure
+so it was kind of heterogeneous so
+we did not see big difference in weight
+loss or any wet change between these two
+groups another thing is firefighters
+actually run almost eight to nine miles
+when they're at the job because that's
+part of their
+exercise routine
+but then one thing that changed
+significantly in the time restorating
+group was what we call bldl particle
+size and particle number because this is
+something that we know this very low
+density lipoprotein these are
+atherogenic and if we can manage them
+much better and we reduce the risk for
+atherosclerosis so that's one parameter
+that changed in the time restricting
+group even when you combine all healthy
+unhealthy everybody
+now if we take firefighters who are
+beginning with high blood pressure
+then we saw a significant reduction in
+that systolic as well as diastolic blood
+pressure
+and the change in blood pressure of
+course we don't claim that in the
+manuscript but when we talk about it
+some physician would get up and say wow
+that looks like almost there on a blood
+pressure lowering drug so the extent of
+blood pressure lowering is equivalent to
+somebody taking a antihypertensive drug
+amazing yeah and then those who started
+with high blood sugar of course we
+didn't have too many type 2 diabetic but
+there were a few few pre-diabetic and
+they could better manage their blood
+glucose and this is interesting because
+once
+shift workers
+become pre-diabetic or diabetic they
+have more difficulty managing their
+blood sugar than non-shipped workers
+because the work schedule itself will
+mess them up too much even if they're on
+many medications they have difficulty
+that's fascinating and I I'm really glad
+that you explained the study in such
+detail because I would have thought you
+know from reading the abstract and I did
+look at the data but if someone were to
+look at the abstract they'd say oh
+firefighters so they're waking up in the
+middle of the night and they're you know
+throwing on their gear and going out to
+calls and doing but if I understand
+correctly all firefighters are being
+woken up by the signal which makes the
+firefighter population a bit more
+similar to the more standard population
+who's waking up in the middle of the
+night to use the bathroom getting on
+social media for a couple of minutes or
+flipping on the lights I mean it's maybe
+not as severe as what firefighters are
+doing
+um but we know there are blood sugar
+regulation issues related to those
+multiple middle of the night wakings
+especially if people are then staring at
+screens yeah
+um so I think it's really important that
+people were able to hear about the the
+deeper Contours of the study uh I mean
+this result of regulating blood sugar
+better is really powerful I get asked
+all the time you know I've got a new kid
+or I'm a shift worker how can I do this
+morning sunlight viewing
+um what I'm hearing is that keeping a
+regular meal schedule every day
+at least five five out of seven or as
+close to every day it's sort of like
+sleep I always say try and get a really
+great night's sleep 80 or more of the
+nights of your life and on the other 20
+hopefully it's for fun reasons a great
+party or something like that or a
+celebration of some sort
+um
+that seems to me a great Anchor Point
+when one can't reliably control their
+sleep wake cycle does that mean that if
+somebody is coming off of shift work and
+they're very very tired that they would
+be better off staying awake and eating
+than sleeping well it's uh yeah so this
+is where we get into nuances so here the
+firefighters are 24-hour shipped workers
+so that means and they have been working
+this shift for a very long time so they
+have figured out and one thing is yes
+firefighters are different from nurses
+and healthcare workers who have to work
+throughout the night and they're staying
+awake throughout the night whereas
+firefighters they get opportunity to
+sleep then even with their
+pen calls they actually have opportunity
+to come back and go to sleep and in fact
+when Emily and Adina they were in the
+fastest and what they observed was
+firefighters after they after attending
+a call they are not coming back and
+playing cards or trying to watch the
+news or get the score they know they
+will just go back and lie in the bed and
+switch off the light so whenever they
+got any opportunity to sleep they would
+try to sleep so in that way
+their sleep debt and sleep pressure
+during day time is not as strong as a
+night shift nurse
+or a truck driver who is driving all
+night because they have they're staying
+awake throughout the night so when
+people say yes you found this and can
+you extend it to other shift workers my
+answer is no we have to go back and
+figure out that's why we went to this
+station and figured out what would work
+for them
+if I have to go and do this for some
+nurses maybe even I will go or our staff
+will go and figure out what is the work
+schedule what happens do they have
+opportunity to eat do they have
+opportunity to even take five minutes
+break what do they do during break and
+all of these things come into play but
+here another thing is um
+I always said that in other time receipt
+reading paper we see change in nutrition
+quality and quantity but here we also
+saw that somehow both groups
+inadvertently the
+improve the nutrition quality because
+everybody was told to eat Mediterranean
+diet they increase their fruits and
+vegetables and olive oil and text
+slightly
+and when they had to stop eating early
+they also reduced the alcohol intake
+and this is very significant because
+many shift workers just to cope with the
+shift work that tend to depend on
+alcohol at night and caffeine in the
+morning so they begin their day with
+caffeine and end with alcohol
+and now we can relate that many normal
+people who are not doing shift work we
+also more or less begin our day with
+caffeine and many of us and with alcohol
+and then when they reduce that 18 to 10
+hours and then we saw a significant
+reduction in alcohol intake in the time
+restrating group but not in the standard
+of care or Mediterranean diet group I
+certainly support that we did an episode
+on alcohol and I was
+shocked when I researched that to learn
+that zero to two drinks per week is
+essentially the threshold Beyond which
+you start seeing health
+deficits in particular Cancers and
+metabolic disruption sleep disruption
+and increased anxiety when people aren't
+under the influence of alcohol I mean
+it's a pretty incredible how alcohol has
+kind of escaped as the the opposite of
+caffeine and therefore
+um not a health hazard it's and here I'm
+somebody I have a drink every once in a
+while no big deal for me I can have it
+or not have it but it's just striking
+how
+um alcohol despite extensive data that
+it can really disrupt Health even at
+three drinks per week yeah is um is just
+avidly consumed as if it was kind of
+like food or caffeine it's really
+incredible
+um I I want to make sure that I Circle
+back to something you mentioned earlier
+because I know they're going to be a
+number of people that asked this if I
+recall you said that provided that the
+feeding window is not shorter than eight
+hours that men women and children can
+use time restricted feeding
+um yeah so what I say is um
+12 hours 12 excuse me 12 hours thank you
+for that clarifying um because we did a
+study that was published in 2015 and
+again
+um behind many of our studies there is a
+story
+so we are publishing all these Mouse
+stories and then I would go to
+conferences and and of course the
+um some some people would give me a look
+saying well you must be doing something
+wrong we
+this just breaks the
+X law of thermodynamics because how come
+they're eating the same number of
+calories and not getting wet and of
+course by that time we figured out that
+at least in Mouse
+Timeless repeating also changes the gut
+microbiome in a way that the mice may be
+popping out a little bit more fat than
+sugar than absorbing them so one thing
+that happens in time restricting at
+least in mice is the liver cholesterol
+metabolism to bile acid and bile acids
+excretion in the gut changes because
+they gut microbiome changes so this is a
+very nice study when Amir jarinpar was
+in the lab now he has his own lab in
+UCSD and he meticulously did that and we
+we even did bomb calorimetry from the
+poop and metabolomics from the poop and
+then we figured out that they excrete
+some some calories and then that brown
+fat activity goes up so there may be
+burning some of these extra calories so
+they're more thermogenic more
+thermogenic but anyway so you know one
+nice thing awesome thing about Salk is
+if they say that your science is going
+well then they will find ways to help
+you and this is terrific yeah and um
+this is when
+Bill Brody was our president he was the
+president of um
+um Hopkins for 12 years and then he was
+president
+and
+um that time he had started this
+Innovation grant program which was
+funded by arvind Jacob uh Arun is the
+founder of Qualcomm it was also a
+faculty at UCSD so he understand there
+are very few
+Tech leaders who actually spent some
+time in Academia so he understood the
+pain of getting grant money when you
+have some interesting idea or test some
+ideas so yeah no knock on the NIH but
+I'll do it anyway because I sit on study
+section for the NIH I mean NIH wants to
+see proposals for things that are so
+certain to work that they're mostly done
+and so really groundbreaking work can
+happen and does happen with NIH funding
+but more often than not is it is the
+generosity of philanthropists like Irwin
+Jacobs and other people that allow the
+really pioneering
+um the new stuff the cool stuff yeah the
+groundbreaking stuff the stuff that
+really no I'm not gonna say really
+matters it all matters it's all
+important no it matters but uh you know
+it's high risk and
+um NIH when San is is not just
+government is not making money from thin
+air means it's taxpayers money so there
+is a little bit responsibility or
+conservative that okay so we should not
+waste tracks first money on buying this
+guy
+we're not talking about politically
+conservative we're talking about
+um scientifically conservative to be so
+careful what language nowadays pretty
+soon we're just gonna sit and stare at
+one another at the microphones to stay
+safe
+um so so that's interesting so they so
+that's why I started this and then what
+we did was we um I had an awesome grad
+student and we got this funding from
+Arwin and also there are some
+any philanthropy matters so actually the
+way we say is yes if you give me 50
+bucks then that 50 bucks towards goes
+towards buying the gloves and a friend
+of tubes for one postdoc for maybe seven
+days so it's so true I think a lot of
+people don't realize that 99 of
+laboratory scientists just they they
+don't make any money off their
+discoveries and even if there is a
+patentable discovery typically the The
+Divide between the institution and the
+company that will eventually put that to
+Market is so slim in favor of the the
+others involved that you know scientists
+really do this as a work of passion
+labor labor of love so so we we came up
+with this app my security and clock at
+that time and we took some
+um you know lessons from Tech leaders um
+particularly from Amazon one click
+checkout
+um because we thought most nutrition
+apps actually ask people to detailed
+describe or they add go to their food
+library and then person size they said
+okay so we'll just shortcut all of that
+I just ask people to take a picture of
+the food open the app one click take a
+picture second click and press save
+third click and when they said the
+picture actually came to our server did
+not stay on their phone
+and we asked 156 people who are not
+shipped workers just regular worker or
+Homemakers to be part of the study
+no student was allowed to be part of the
+study because we know that there's a
+lifestyle is like ship workers and we
+monitor for three weeks and
+so here is some nuances and I want
+people to understand
+when somebody is starting to eat at say
+7 A.M and
+since the recording everything we've
+we've got every single thing even if
+they ate half a cookie they had to take
+a picture and they actually took picture
+because it's not it becomes second
+nature after three or four days that
+every time they add something even if
+there is a glass of water they actually
+take a picture because we asked them
+take picture of everything we'll figure
+out what it is
+what is surprising what we found
+the median uh so the median number of
+times people eat within a day 24 hours a
+day is actually seven so it's not
+it's not that we are eating three times
+a day we actually snack a little bit
+seven times per day seven times and
+there are 10 percent of people the top
+decile was eating
+12 times a day wow
+um and it makes sense in retrospect
+sometimes maybe I'll fall into that
+seven or eight before
+um I did this study because you know
+getting up having coffee with cream and
+sugar is one and then I ate my breakfast
+that's two then I came to the love and I
+found that cookie that's three
+I went to a meeting and there was some
+cookie and something else that's another
+one and lunch and then afternoon
+somebody asked me to go out and have a
+meeting and so if you think about it
+it's very normal that we can go seven to
+eight times ten times
+but then
+if we look at what time say I start
+breakfast and as I said and we see that
+in many people they'll start at seven
+o'clock Monday then 7 30 another day
+then 8 15 another day or they go back to
+6 a.m because they had to get up early
+and go to work so we took all this food
+data from three weeks and then asked
+what is the time when your body's system
+is expecting it to eat because it's kind
+of averages Southeast kind of thinking
+okay
+maybe for you if you're eating breakfast
+at say somewhere between 6 AM 7 30 7 45
+I eat it maybe you are expecting food
+around seven o'clock let's forget about
+6 15 that's an outlier and then
+similarly at the end of the day
+if somebody is eating finishing the last
+bite or the night Gap whatever you call
+it
+say one day at 9 pm 9 30 p.m 10 11 12 30
+or 1. Let's ignore that 1 and 12 30 but
+still we got somewhere between seven to
+eleven thirty for that person over three
+weeks time so this is how we kind of
+figure out what is the likelihood that
+your body will encounter food
+so when we do that what we found was
+nearly 50 percent of our dogs in our
+study
+ate for 14 hours 45 minutes that window
+when your body is expecting food
+so it's easy to say that 50 of adults
+are eating within 15 hours or longer
+wow and and quite frequently throughout
+quite frequently too and then
+if we ask what fraction of our adults
+were actually eating the conventional
+within 12 hours three meals a day or
+something like that it was 10 percent
+so this snacking has gone up
+dramatically however you wanted to find
+snacking the frequency of food intake
+throughout the day and outside this
+breakfast lunch and dinner there are all
+these small snacks here and there and
+also for a lot of people the dinner is
+delayed and we went back and looked at
+okay so what kind of food people are
+eating late at night and all that stuff
+and what came out interesting which is
+very counterintuitive is people who
+prepare their own dinner
+they're more likely to eat later at
+night
+because they're coming home and then
+they're taking some time to prepare
+dinner and then they're sitting down and
+eating or maybe they're eating next to
+the computer whatever it is
+so it's kind of interesting that came
+out
+um but coming back to your point that's
+why I say that nearly 90 percent of
+adults
+are eating for more than 12 hours
+so that means a lot of people can
+there is scope or there is enough head
+space to reduce and eat within so as I
+said
+all of this are interrelated so when you
+think about children
+most sleep researchers agree that
+children and teenagers should sleep
+somewhere between 9 to 10 or 11 hours
+because young children even five to ten
+year old they should sleep nine to ten
+hours they're just pumping out growth
+hormone and growing growing and then the
+teenagers actually the recommendation is
+and they should be sleeping nine hours
+because
+if you take teenagers
+take out all the stimulatory inputs to
+them and then remove homework assignment
+and everything and then let them kind of
+equilibriate to their homeostasis what
+are likely how many hours they're likely
+to sleep
+that turns out to be somewhere between
+eight and a half to nine and a half
+hours
+which also means that going back to
+sleep
+nearly 90 percent of
+high school students in this country are
+chronically sleep deprived because most
+high school students don't get nine
+hours of sleep on a regular basis maybe
+in the weekend probably because of
+devices yeah on iPads and also as I said
+this new idea that midnight is your
+assignment submission time I'll come
+back to that again and again I'm hearing
+that again again so teachers take note
+it's an issue it's a very interesting
+idea as a way to kind of anchor Behavior
+earlier in the day yeah learning to in I
+mean Public Health
+uh is complicated because people are
+incentivized by fear but they you know
+you get more bees with honey as they say
+right you know there's uh incentivizing
+people to wake earlier not necessarily
+with the sunrise but wake earlier and go
+to sleep earlier and eat within an 8 to
+12 hour window
+um 12 if it's yeah so that's my children
+yeah it sounds to me like you know all
+these health benefits are what I think
+are going to incentivize people more
+than for instance this idea that well if
+you don't do this you're going to get
+Dementia or something right but like
+every day people will feel more healthy
+and more productive
+and so that's why I said that even if
+children are supposed to sleep for nine
+hours of course they're not eating
+during those nine hours
+and we're not uh feeding children and
+putting them down to slay because you
+know their core body temperature will be
+high they cannot fall asleep so at least
+they should have their last meal one or
+two hours before going to bed because
+typically
+parents feed them and maybe give them a
+shower or a butt and then they read the
+bedtime story so it's one to two hours
+before bedtime they're finishing food
+similarly on the other end after they
+wake up it's not that we're waking them
+up and then feeding them so hopefully
+we're not doing that so that's at 12
+hours seems to be
+Optimum and it's not only I'm saying
+that if we put all the health
+recommendations together from
+pediatrists and then it makes sense
+um fascinating I have a question about
+structuring meal intake or food intake
+um during the eating window
+um I have a good friend actually he's um
+he's the neurosurgeon at neurolink now
+but he came up through Stanford and um
+and he has a habit of eating of skipping
+one meal per day within a feeding window
+so it might be breakfast lunch skip
+dinner one day then it might be
+breakfast dinner the next day lunch and
+dinner the next one so it's not in
+keeping with the same start time always
+but the end time is either going to be
+earlier or there's a gate it's never
+later yeah it's never later
+um what do you think about that as a
+strategy
+um you know in many ways it feels like
+that fits with the way that a lot of
+people's lives run so sometimes for
+instance if I'm in a podcast I don't
+tend to eat much in the middle of the
+day because it makes me a little bit
+groggy the post perennial dip in energy
+so I'll do breakfast well but again at
+11 and that's a first that's when I
+break my fast 11ish and then dinner
+maybe a snack in the middle of the day
+but other days it's three meals so does
+it matter
+um overall as long as
+um one isn't allowing the start time and
+the ending time to drift out is it okay
+if you go from 12 hours to ten to eight
+eight ten four twelve as long as you
+don't exceed that the the brackets are
+you okay uh so this is where the
+Circadian aspect come in because if
+you're going
+um if you're moving that breakfast time
+or dinner time three four hours
+essentially
+causing maybe a metabolic jet lag you
+know in short term in weeks months or
+maybe even few years you may not see any
+change
+um at the same time we don't know what
+is the long term consequences one thing
+is we always think I'll come back to
+this point again and again we think that
+a body weight is a marker of Health
+or body composition is a marker of
+Health it's not always true because as I
+said issue drift locks
+um filling
+um you know having some Pang of
+depression or anxiety or LDL like high
+LDL a lot of thin people have or low
+body fat people have very high LDL yeah
+so those are the things that um we don't
+connect with our habit and since
+security under them and meal timing meal
+structure now is a very new
+um field
+um I think good studies will come out
+only in a few years because right now
+people are just going back and
+retrospectively looking at some Diet
+record one day of diet record and trying
+to glean too much out of it but I think
+hopefully things will improve where
+people will become it will become
+standard to at least look for one week
+of diet record meal time and what
+they're eating all that stuff because uh
+are now Mouse studies also showing what
+a front loading carbohydrate or front
+loading fat or protein has benefit over
+so I think this studies are starting so
+I should not comment whether that's good
+or bad no I think it's great to hold off
+until then we have you back on to
+discuss
+um I have a question about
+um fasting on the longer term
+um and there it's a near Infinite Space
+we could explore of two days of fasting
+one day I know people that every once in
+a while they just decide I'm fasting
+they've either been eating too much at
+parties or they're not feeling well or
+whatever they just decide I'm fasting
+for 24 hours and um they'll still
+consume water and caffeine but they'll
+just fast is there any health benefit or
+detriment
+um you mentioned the circadian clock
+shifting effects but if somebody wakes
+up on Sunday and they you know they ate
+too much or they feel they ate too much
+or they don't like the food they ate on
+Saturday they're not really feeling it
+and they're just going to fast into
+Monday is there any known benefit or
+um Health detriment to doing that kind
+of thing yeah there's a actually a rich
+literature on this complete fast
+um an impact in many religions people
+practiced complete fast as you were to
+cleanse their body and
+people have seen that there are benefits
+to that so in fact the every other day
+eating in Mouse model or even in humans
+are also initially some studies were
+done there are many health benefits
+and right now there are even fasting
+clinics in Germany where people check in
+and they're under strict supervision and
+then they do complete fast or maybe a
+small bowl of soup which has 100 200
+kilocal and that's all they get to eat
+sometimes
+two three days four days five days even
+they have gone up to three or four weeks
+for sake of weight loss is that why from
+many different things and
+um they come out pretty well healthy of
+course they're under supervision make
+sure that they're getting macro
+micronutrients sorry the micronutrients
+vitamins and electrolytes
+so those studies are pretty solid people
+have observed that and then in fact
+there are even idea that fasting this
+kind of fasting can have huge impact on
+brain and people may come out of
+treatment resistant depression or
+something but you know so those studies
+are very difficult to do they're only
+case of one here and there that we hear
+once in a while but hopefully in future
+we'll see
+um whether the depression anxiety the
+mental health aspect will benefit from
+fasting because now as there is more and
+more evidence that there's this gut
+brain axis and whether the presence of
+food or the microbiome changes in the
+gut if they can affect brain then maybe
+long-term fasting periodic fasting a few
+days of low calorie diet back to back
+will be interesting to see how it
+impacts brain health
+very interesting what are your thoughts
+on fat fasting where people try and
+limit their blood glucose by only eating
+mainly fats mainly healthy typically
+they'll eat healthier Fatso of avocados
+olive oils and nuts you know and some
+animal fats perhaps but
+um
+as a way to keep blood glucose low and
+also time restrict this goes back to the
+kind of low carbohydrate
+um thing what are your thoughts on that
+as as a general strategy for health I
+mean it combines sort of two general
+themes that are out there I think both
+of which are you know data are still
+incoming that restricting the feeding
+times it can be beneficial as well as
+keeping overall blood glucose lower can
+be beneficial
+yeah I think there is too much uh
+emphasis now on blood sugar spiking or
+um we don't know
+um this kind of eating pattern for
+example means we are essentially telling
+pancreas that okay it's or the eyelid
+cells that produce uh insulin and it's
+okay you can take
+um take a break go on vacation for you
+for a month or two or three months
+um my question is it will be interesting
+to see what happens to those eyelets
+because for example we know that if we
+this user unused our muscles that is
+muscle atrophy muscles will become
+weaker
+we don't know whether long-term
+consequences of this very low
+carbohydrate diet where you are not
+essentially engaging the
+eyelid cells periodically what is its
+impact so if there is no impact maybe
+it's okay maybe because
+as you know many people who actually
+work on ketogenic diet the researchers
+themselves they find it very difficult
+to stay in true ketogenic diet because
+the true ketogenic diet is consuming
+less than 10 percent of calories from
+carbohydrate and not very many from
+protein a lot of people think ketogenic
+diet allows them to eat massive amounts
+of meat and that's not necessarily the
+case just one clarification for people
+um uh Sachin was referring to islet
+cells of the pancreas which are the ones
+that manufacture insulin so the question
+is whether or not taking in low levels
+of blood glucose by way of a low
+carbohydrate diet those islet cells are
+going to shut off their production very
+interesting I mean the liver is a very
+plastic tissue I mean it tends to
+um react very dramatically to to
+Lifestyle Changes yeah so that's why it
+was interesting to see what happens
+means we know that even muscle issues
+for example people who become bedridden
+the loss of muscle mass but when they
+come back and exercise they gain it back
+so it'll be interesting to see what
+happens in these people who are going
+through long-term ketogenic diet and of
+course once in a while
+because of social pressure or something
+else if they don't have access to food
+or something happens they may consume
+some sugar some blood glucose will Spike
+but it's not that every spike is bad I
+mean the reason why we have insulin is
+for good reason to buffer that Spike to
+buffer that Spike and also you know
+people always say that well if you have
+insulin produced or insulin like growth
+factor those are really bad and it
+should avoid that and I think that's a
+little bit extreme and I mean that's the
+insulin growth factors involved in
+muscle protein synthesis tissue repair
+yeah maybe even cognition so yeah yeah
+and it also goes back to
+as a m tour activation and all that
+stuff people get really excited about
+how to reduce them to activation
+rapamycin and all that stuff so this is
+where
+um again from circadian point of view
+um I ask people to think okay so
+two very popular drug like molecules or
+drugs that people think will increase
+longevity or metformin which
+many people agree not all will come to a
+consensus that it activates
+MP kinase or the sensor and the cells
+that sense that your cells are fasting
+so metformin kind of activates it so
+that it kind of you can say although it
+may not be scientifically accurate uh
+the
+um you know fasting and appeal so it
+sort of mimics fasting yeah and the and
+the thing I'd lump in there with
+metformin is that berberine is kind of
+the Poor Man's metformin it's a tree
+bark extract that also dramatically
+lowers blood glucose yeah yeah and it
+mimics kind of that um fasting
+and then rapamycin
+um also kind of reduces Emptor
+activation
+and people have shown that
+rapamycin and Metformin
+can extend
+Mouse lifespan and in improve health
+okay
+so now let's go back to the calorie
+restriction study that I mentioned
+in calorie restriction people are giving
+food as a lump sum and they were
+essentially doing time restriction the
+mice were doing time restriction
+if we think about it
+during day time when experimenters are
+coming to the bivarium the mice should
+be sleeping and fasting
+and they should naturally have high
+level of MP kinase if they're truly
+fasting and they should also have low
+level of interactivity because M2
+responds to insulin and that should go
+off at night
+so my suspicion is
+um in many of these experiments where
+the mice were allowed to eat at Louis
+Vuitton even normal standard Char now we
+are
+we know that as mice get older they
+actually consume little bit more food
+during day time which is the equivalent
+of human night humans nighttime it is
+like nighttime eating we know is an
+issue I didn't realize that was more of
+an issue as people age but yeah so we
+don't know but at least in mice because
+you know we can put demise in
+calorimetry look at every single by
+dieting how much they're eating
+so I guess it was natural to see that
+researchers found that there is some
+mtor activity during day time when the
+mice were not supposed to have M3
+activity because they should be fasting
+and since they ate little bit they were
+snacking during day time amp kinase
+activity was not at its peak
+so
+giving metformin kind of
+mimic that fasting state
+and reducing M productivity by drug like
+rapamycin also kind of mimics some
+aspect of the fasting state
+so my suspicion is
+um since these studies were done always
+in mice
+who are supposed to be in the fasting
+State and both enter sorry rapamycin and
+mpkin is activated or metformin kind of
+are mimicking that fasting State that's
+why we have seen those benefits
+and it will be interesting to see
+if that experiment will be done in
+humans in the long term because many
+people are very excited about you know
+there is M total long-term metformin
+study and then a lot of people are
+actually consuming good amount of
+rapamycin off level they can get their
+own so that's my
+curiosity I'm not saying whether it's
+good or bad or whether there is science
+or not that's something that will be
+interesting to control for and see
+because recently I saw one of my again
+close friend and colleague at Scripps
+suited a very simple elegant study
+people should have done in metformin
+field so it took mice and then measured
+their blood glucose at different time of
+the day and in fact just like human
+blood Lookers our blood glucose
+fluctuates a little bit uh she saw that
+rhythm and then in every two hours or
+three hours
+um
+on different days of course so you have
+the same dose of Metformin to mice and
+what she found was a different time of
+the day
+metformin had very dramatic change in
+glucose reducing ability
+so which means that even if you take
+metformin and give a different time of
+the day for the mouse or even for humans
+in very long term of course in this mice
+this mice were not diabetic or anything
+they were healthy mice to begin with so
+in long term we might see
+um benefits that are very different so
+this brings to this idea that well maybe
+metformin say
+at the end of the day evening metformin
+May trigger that fasting State much
+earlier than end of digestion whereas
+metformin in the beginning of the day
+may not at least from longevity
+perspective I'm not talking about
+Diabetes Type 2 diabetes here
+so the same thing with Emptor
+um is mtor going to have much better
+impact if taken during evening morning
+before meal so
+um these are my thoughts that go along
+with all this fat um story that we
+talked about
+do you take Metformin or Burberry I know
+I haven't taken although you know um I
+have close uh friend and colleague um
+Ruben Shaw who is now the director of
+Cancer Center at salki extensively works
+on MP kinase and its mechanisms and
+um
+so it's always fun to talk to him he's a
+he's a fan yeah I've taken berberine
+before and I've had two different very
+distinct experiences with them first of
+all
+um berberine when ingested with
+carbohydrates in particular
+carbohydrates to have a lot of simple
+sugars definitely I know this because I
+measured my blood glucose I did the
+experiment allows you to flatten out
+your blood glucose response
+so you know in some sense if you're you
+know there is this idea if you're going
+to eat a particularly big meal or sugary
+meal and you don't want to get a massive
+blood glucose rise you take berberine or
+metformin metformin is yeah prescription
+that's I went with berberine because
+it's as far as I know it works as well
+yeah um at least for healthy people yeah
+for healthy people that's right
+um
+when I took berberine and did not ingest
+large amounts of simple sugars or
+carbohydrates along with it I
+experienced profound hypoglycemia I felt
+like complete garbage for about eight
+hours and I had one of the worst
+headaches of my life because which makes
+sense you just got a blood sugar crash
+so if you lower blood your blood sugar
+when you already have fairly low blood
+sugar and you're not ingesting
+carbohydrates you can really bottom out
+your your blood glucose so just say it's
+I say that as a for two reasons one is
+kind of a cautionary note and the other
+one that um when you think about the
+biology of these compounds it makes
+perfect sense and I think that
+um and I did not pay attention to
+circadian effects yeah yeah I mean you
+know when I joined Salk um
+is the kind of the
+um big liver and sick in metabolism and
+he works on nuclear hormone receptors um
+these are the master regulator of
+metabolism and normal cells cancer cells
+and many other
+and what was interesting was in the
+first few years Ron did a very simple
+experiment he just looked at what time
+of the day this nuclear hormone
+receptors are turned on at gene
+expression level and some are protein
+level and he found that almost all of
+them
+have a circadian pattern at least in
+some tissue
+so he went to that length to say even
+that circadian is metabolism and
+metabolism is circadian the reason why
+we have a circadian rhythm
+is to have a daily rhythms in food
+seeking behavior and eating
+and also go through a period of time
+when we should be fasting
+and then on the other hand
+all the metabolic Regulators also have
+to follow that rule and almost all
+metabolic Regulators everything that we
+can think of connected to
+metabolizing macronutrient protein carb
+and fat they should also have a
+circadian rhythm or diurnal cycle to
+align or misalign so for example fat
+oxidation should be in opposite phase
+with feeding and
+um
+you know in retrospect at that time it
+was kind of amazing to see Ron could
+foresee of course he's smart enough to
+foresee and predict that this is going
+to happen to circadian field because at
+that time we're thinking about the
+suprachiasmatic nucleus sleep quick
+cycle and we are not thinking too much
+about metabolism so that's the
+awesome thing about song being at Salt
+because we have 50 pis really crammed
+into two awesome buildings and with Open
+Lab structure so you bump onto each
+other and talk to you so and with an
+ocean view oh it's awesome view yes it's
+an amazing place I was lucky enough to
+have an adjunct position there when I
+when my lab was at UCSD and uh it is an
+amazing Place doing incredible
+groundbreaking work which of course
+includes yours listen uh Sachin I I'm
+clear now that um we have to have you
+back on for another uh series of
+discussions seriously speaking if if
+you'd be so so uh kind and willing to do
+that I want to thank you for several
+things first of all for your taking the
+time today to sit down and discuss these
+um incredibly interesting ideas in
+detail you know much of what we talk
+about on the podcast is uh obviously
+grounded in science and and often but
+not always as actionable and so much of
+what we talked about today
+is actionable in the sense that many
+people are already doing certain
+dimensions of these things some are not
+some are hearing about it and
+considering it you've given us dozens
+I've listed some out dozens of tools and
+considerations based on whether or not
+people are engaging in shift work or not
+I think a lot of people are going to
+realize that they are shift workers yeah
+even though they didn't think they were
+um because of the nature of their habits
+now to light and activity and so forth
+um I absolutely love the firefighter
+study because of its relevance to the
+general population
+also not another nod to fighter fighters
+and shift workers everywhere thank you
+and you know I think among the
+colleagues I've known for several
+decades now you really are one of a very
+small few who've managed to do both
+animal studies
+and human studies but also animal
+studies with a very clear eye and a
+pointer toward human health and um
+that's such a vital and rare thing
+especially in this day of
+um extremely competitive funding so I
+want to thank you for your time today
+for the knowledge you share the
+actionable aspects of that knowledge the
+science that you're doing in your
+laboratory we will provide links for
+people to learn more about you and of
+course to go to the app yeah um so
+people can um engage in some of the
+science directly and of course you have
+several wonderful books now that we will
+also link to both of which I've read and
+are wonderful in particular the book
+um the first book but also a book
+related to diabetes and um so for
+diabetics and people interested in
+metabolic and blood sugar regulation
+um there so yeah on behalf of myself and
+my team here at The huberman Lab podcast
+and all the listeners I just want to say
+thank you so much your time is valuable
+and the fact that you'd share it with us
+and educate so many people is really a
+gift yeah thank you and actually
+likewise there are very few scientists
+who have taken this leadership role that
+you have taken to uh come and
+communicate science to the public it's
+not easy because
+sometimes you have to distill it down to
+a simple sound bite to the point where
+the scientist and they'll say oh that
+may not be right but we always have to
+keep in mind that we are always living
+in the dark is of science because the
+reason why I say that this is not my
+quote actually this is from one of my
+scientific hero Paul simel from Scripps
+Yola says think about it 10 years ago
+what do you what you thought was right
+and the best has already changed but one
+thing is the Circadian rhythm and
+aligning it to our internal clock to our
+habit is very important and as you
+mentioned uh we have our my security and
+clock app which is research facing but
+we have also distilled all of this down
+to five or six timing component and we
+have a new app called on time health or
+get on time Health to people access that
+through the standard app stores yeah so
+now it's available in in app store uh
+sorry uh Apple App Store and we want to
+see uh how because people always think
+about fasting but as we discussed today
+feeding fasting or eating fasting and
+activity and sleep a kind of interlinked
+and we have to kind of balance both of
+these so that's that was the idea behind
+this on time health program and
+um thank you Andy because what you're
+doing is immensely necessary
+particularly these days when science is
+moving at a very past phase there are a
+lot of results coming out sometimes
+something can be very confusing and you
+spending your time
+to communicate science
+is exceptional so thank you well you're
+most welcome it's um
+days like today where I get to sit down
+and and talk to brilliant colleagues
+like you who are doing the important
+work that that really matters so much
+and so as you
+um mentioned a moment ago that there's
+uh a lot of darkness and confusion out
+there but uh thank you for being uh
+one of those whose Shining Light
+thank you thank you for joining me for
+today's discussion with Dr Sachin Panda
+all about circadian biology and time
+restricted feeding if you're learning
+from and are enjoying this podcast
+please subscribe to our YouTube channel
+that's a terrific zero cost way to
+support us in addition please subscribe
+to the podcast on both apple and Spotify
+and on both apple and Spotify you can
+also leave us up to a five-star review
+if you have questions for us or comments
+about the podcast or topics you'd like
+me to cover or guests that you'd like me
+to include on the huberman Lab podcast
+please put those in the comment section
+on YouTube I do read all the comments in
+addition please check out the sponsors
+mentioned at the beginning and
+throughout today's episode that's the
+best way to support this podcast on
+various episodes of The huberman Lab
+podcast we discuss supplements while
+supplements aren't necessary for
+everybody many people derive tremendous
+benefit from them for things like
+improving sleep supporting hormones
+improving focus and so on the huberman
+Lab podcast is proud to have partnered
+with momentous supplements we've done
+that for several reasons first of all
+momentous supplements are of the very
+highest quality and are used with
+various sports teams and various studies
+through the Department of Defense and so
+on and momentous supplements tend to be
+in single ingredient formulations single
+ingredient formulations are absolutely
+essential if you are going to develop
+the most cost effective and biologically
+effective supplement regimen for you
+because simply put they allow you to
+adjust the dosage of individual
+ingredients to alternate days that you
+take different ingredients to cycle them
+and so forth
+in addition momentous supplements are
+available internationally which many
+other supplements are not if you'd like
+to see the supplements discussed on the
+huberman Lab podcast you can go to live
+momentous spelled ous live momentous.com
+huberman if you're not already following
+me on social media it's huberman lab on
+Instagram Twitter Facebook and Linkedin
+and at all of those places I cover
+science and science-based tools some of
+which overlap with the contents of the
+huberman Lab podcast but much of which
+is distinct from the content covered on
+the huberman Lab podcast again it's
+hubervin lab on all social media
+platforms if you haven't already
+subscribed to the huberman Lab podcast
+neural network newsletter it's a monthly
+newsletter that includes free tool kits
+for things like toolkit for sleep how to
+enhance the quality and duration of your
+sleep toolkit for Focus toolkit for
+neuroplasticity toolkit for deliberate
+cold exposure heat exposure and
+summaries of podcast episodes all of
+those toolkits can be found by going to
+hubermanlab.com go to the menu scroll
+down to newsletter and simply give us
+your email we do not share your email
+with anybody and again the newsletters
+and toolkits are completely zero must
+end you will also find some PDF examples
+of previous toolkits again that's
+hubermanlab.com thank you once again for
+joining me for today's discussion with
+Dr Sachin Panda I hope you found the
+conversation to be as informative and
+actionable as I did and last but
+certainly not least thank you for your
+interest in science
+[Music]

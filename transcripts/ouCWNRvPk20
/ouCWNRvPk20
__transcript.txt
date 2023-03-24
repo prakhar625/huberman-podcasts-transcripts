@@ -1,0 +1,4614 @@
+- Welcome to The Huberman Lab Podcast,
+where we discuss science
+and science-based tools
+for everyday life.
+[upbeat music]
+I'm Andrew Huberman,
+and I'm a professor of
+neurobiology and ophthalmology
+at Stanford School of Medicine.
+Today my guest is Dr. Justin Sonnenburg.
+Dr. Sonnenburg is a
+professor of microbiology
+and immunology at Stanford
+School of Medicine,
+and one of the world's leading experts
+on the gut microbiome.
+The gut microbiome is the
+existence of trillions
+of little microorganisms
+throughout your gut,
+and by your gut, I don't
+just mean your stomach.
+I mean your entire digestive tract.
+Turns out we also have
+a microbiome that exists
+in our nose, in any other
+location in which our body
+interfaces with the outside world.
+In fact, there's a
+microbiome on your skin.
+And while it might seem kind of intrusive,
+or kind of disgusting to have
+all these little microorganisms,
+they can be immensely
+beneficial for our health,
+meaning our hormonal
+health, our brain health
+and our immune system function.
+Dr. Sonnenburg teaches us
+about the gut microbiome,
+how it's organized spatially,
+meaning which microbiota live where.
+He teaches us about
+these incredible things
+called crypts and niches,
+which are little caves
+within our digestive tract
+that certain microbiota take residence.
+And at that premier real estate,
+they're able to do incredible
+things to support our health.
+He also talks about the
+things that we can all do
+to support our microbiome
+in order for our microbiome
+to support our brain and body health.
+Dr. Sonnenburg co-runs his
+laboratory with his spouse,
+Dr. Erica Sonnenburg, and
+together they've also written
+a terrific and highly
+informative book called,
+"The Good Gut: Taking
+Control of your Weight,
+your Mood, and your Long Term Health."
+Even though that book was
+written a few years back,
+the information still
+holds up very nicely.
+And today he also builds
+on that information,
+informing us about recent
+studies, that for instance,
+point to the important
+role of fermented foods,
+and the role of fiber in supporting
+a healthy gut microbiome.
+So if you heard about the gut microbiome,
+or even if you haven't,
+today you're going to hear about it
+from one of the world's leading experts.
+He makes it immensely
+clear as to what it is,
+how it functions, and how to support it
+for your brain and body health.
+During today's discussion,
+we don't just talk about nutrition.
+We also talk about the impact
+of behaviors and the microbiome.
+Behaviors such as who
+you touch, who you kiss,
+who you hug, whether or
+not you interact with,
+or avoid animals,
+whether or not those
+animals belong to you,
+or whether or not they
+belong to somebody else.
+If all that sounds a little bit bizarre,
+you'll soon understand
+that your microbiome
+is constantly being modified
+by the behavioral interactions,
+the nutritional interactions,
+and indeed your mood
+and internal reactions
+to the outside world.
+This is an incredible
+system. Everyone has one.
+Everyone should know how it works,
+and everyone should
+know how to optimize it.
+And today you're going to learn
+all of that from Dr. Sonnenburg.
+I'm pleased to announce that I'm hosting
+two live events in May, 2022.
+The first live event will take place
+in Seattle, Washington on May 17th.
+The second event will take place
+in Portland, Oregon on May 18th.
+Both are part of a series called
+"The Brain-Body Contract."
+For this series, I will discuss science,
+so I will discuss the mechanistic science
+around things like sleep
+and focus and motivation,
+physical performance, mental
+health, physical health,
+a large number of topics that I believe
+many people are interested in,
+and that certainly are important
+for our health and
+wellbeing, and performance.
+In addition, I will of
+course describe tools
+and actionable items, most
+of which I have not discussed
+on The Huberman Lab
+Podcast, or anywhere else.
+Pre-sale tickets for these two events
+go live Tuesday, Match 8th
+at 10:00 a.m. Pacific Time.
+We've made these tickets
+exclusively available
+to the listeners of The
+Huberman Lab Podcast.
+So they are password protected.
+To find them, you can go
+to hubermanlab.com/tour
+and use the code Huberman.
+Before we begin, I'd like to
+emphasize that this podcast
+is separate from my teaching
+and research roles at Stanford.
+It is however, part of my desire effort
+to bring zero cost to consumer
+information about science
+and science-related tools
+to the general public.
+In keeping with that theme,
+I'd like to thank the
+sponsors of today's podcast.
+Our first sponsor is Athletic
+Greens, now called AG1.
+I've been taking AG1 since 2012,
+so I'm delighted that they're
+sponsoring the podcast.
+The reason I started taking AG1,
+and the reason still take
+AG1 once or twice a day
+is that it meets all my basic,
+foundational supplementation needs.
+What I mean by that is
+it covers any vitamin
+and nutritional deficiencies
+that I might have,
+'cause I'm trying to be good
+about my nutrition and diet,
+but I don't always manage to
+get everything that I need,
+and I'm sure that there
+are a lot of gaps in there.
+So it covers those gaps.
+It also has probiotics,
+and as you'll learn
+in today's episode, and
+I've talked about it
+on previous episodes,
+the probiotics are essential
+for a healthy gut microbiome.
+We need probiotics in order
+for our microbiome to thrive,
+and our microbiome supports
+things like gut-brain health,
+indeed things like
+metabolism, mood, hunger.
+It also that supports the immune system.
+As you'll learn today,
+your gut microbiome actually
+manufactures neurotransmitters,
+the very chemicals that impact
+mood and brain function.
+Athletic Greens primes your system
+for a healthy gut microbiome,
+something that can be achieved
+with food and lifestyle factors,
+but is often hard to achieve
+with just food and lifestyle factors.
+If you'd like to try out Athletic Greens,
+you can go to athleticgreens.com/huberman
+to claim a special offer.
+They give you five free travel packs
+that make it very easy
+to mix up Athletic Greens
+while you're on the road.
+And a year's supply of vitamin D3 K2.
+vitamin D3 has many important
+biological functions
+that support your media
+and long term health,
+and K2 as well is very
+important for things
+like cardiovascular health,
+calcium regulation and so on.
+Again, if you go to
+athleticgreens.com/huberman,
+you can claim the special offer
+of the five free travel packs
+and the vitamin D3 K2.
+Today's episode is also
+brought to us by ROKA.
+ROKA makes eyeglasses and
+sunglasses that I believe
+are of the very highest quality.
+I've spent my lifetime working
+on the biology of the visual system,
+and I can tell you that the
+biology of the visual system
+has a lot of mechanisms in there.
+So that for instance, if you
+move from a bright environment
+to a dim environment, your
+visual system needs to adapt.
+One issue with a lot of
+sunglasses and eyeglasses
+is you move from one
+environment to the next,
+you have to take sunglasses
+or eyeglasses off,
+you get a glare or you have to adjust
+because of the way that
+the lenses are designed.
+With ROKA, they've taken the
+biology of the visual system
+into account, and so you never
+have to take them off and on
+in order to move from one
+environment to the next.
+They are also designed for
+movement and athletics,
+or you can wear them for
+just things like work,
+and going out to dinner and so forth.
+They have a terrific aesthetic,
+they're extremely lightweight.
+In fact, I often forget that
+they're even on my face.
+I wear sunglasses when it's very bright
+and when I'm driving into
+sunlight, I wear readers at night.
+I hardly ever remember
+that they're on my face.
+They also won't slip off your face
+if you use them when running or cycling.
+The company was developed by two
+all-American swimmers from Stanford.
+So everything about these
+sunglasses and eyeglasses
+was developed with performance in mind,
+in a lot of different
+situations and scenarios.
+If you'd like to try ROKA,
+you can go to roka.com,
+that's R-O-K-A .com,
+and enter the code huberman to save 20%
+off your first order.
+Again, that's ROKA, roka.com,
+and enter the code huberman at checkout.
+Today's episode is also
+brought to us by Helix Sleep.
+Helix makes mattresses and pillows
+that are designed for your
+particular sleep needs.
+What I mean by that is you
+can go to the Helix site,
+you can take a very brief
+two or three minute quiz,
+ask questions like do
+you sleep on your side,
+your back, your stomach,
+do you tend to run hot or
+cold through the night?
+Maybe you don't know the
+answers to those questions.
+And then they match you to a mattress
+that's designed for your
+particular sleep needs.
+I matched to the Dusk, D-U-S-K, mattress.
+I like a mattress that's
+not too firm, not too soft.
+I tend to sleep on my side,
+or sort of in the
+crawling soldier position.
+Seems to be the the most
+common position I sleep in.
+And that really works
+terrifically well for me.
+But you need to take the quiz
+to see which mattress works best for you.
+So if you're interested in
+upgrading your mattress,
+go to helixsleep.com/huberman,
+take the two quiz and they'll match you
+to a customized mattress.
+You can figure out how to
+get your optimal sleep,
+which was talked about on this podcast
+so many times before.
+Sleep is the foundation of all
+mental and physical health,
+and performance in any aspect of life.
+Sleep is key, and the
+mattress you sleep on is key
+to the sleep you get.
+After matching you do
+a customized mattress,
+you can get up to $200
+off any mattress order
+and two free pillows.
+Again, if you're interested,
+you can go to heli sleep.com/huberman
+to get up to $200 off
+and two free pillows.
+And now for my discussion
+with Dr. Justin Sonnenburg.
+Justin, thanks so much for being here.
+- Great to be here.
+- Yeah.
+I am a true novice when it
+comes to the microbiome,
+so I'd like to start off
+with a really basic question,
+which is, what is the microbiome?
+I imagine lots of little
+bugs running around in my gut
+and I don't quite like the image of that,
+but I'm aware that our
+microbiome can be good for us,
+but we can also have an
+unhealthy microbiome.
+So if I were to look at
+the microbiome at the scale
+that I could see the meaningful things,
+what would it look like, and
+what's going on in there?
+- Yeah, I mean essentially you're correct.
+I mean, we have all of
+these little microorganisms
+running around in our gut.
+I think, just to start off
+with clarifying terminology,
+microbiome and microbiota
+quite often are referred to,
+or used to refer to our microbial
+community interchangeably,
+and I'll probably switch
+between those two terms today.
+The other important thing to
+realize is that these microbes
+are not just in our gut, but
+they're all over our body.
+They're in our nose,
+they're in our mouths,
+they're on our skin.
+And so basically anywhere that
+the environment can get to
+in our body, which includes
+inside our digestive tract,
+of course, is colonized with microbes.
+And the vast majority of these
+are in our distal gut and in our colon,
+and so this is the gut
+microbiota or gut microbiome.
+And the density of this
+community is astounding.
+I mean, it really is.
+If you get down to the
+scale of being able to see
+individual microbes, you start
+off with a zoomed out view
+and you see something that
+looks like fecal material
+that digest inside the
+gut, and you zoom in,
+and you start to get to
+the microscopic level
+and see the microbes.
+They are just packed
+side to side, end to end.
+It's a super dense bacterial community,
+almost like a biofilm,
+something that's just made up of microbes,
+to the point where it's
+thought that around 30%
+of fecal matter is microbes, 30 to 50%.
+So it's an incredibly
+dense microbial community,
+we're talking of trillions
+of microbial cells.
+And all those microbial cells,
+if you start to get to know
+them, and see who they are,
+break out in the gut probably to hundreds,
+to 1,000 species, depending upon
+how you define microbial species.
+And then most of these are bacteria,
+but there are a lot of
+other life forms there.
+There are archaea, which
+are little microbes
+that are bacterial-like,
+but they're different.
+There are eukaryotes.
+So we commonly think of
+eukaryotes in the gut
+as something like a parasite.
+But there are eukaryotes,
+there are fungi, there
+are also little viruses.
+There are these bacteriophages
+that infect bacterial cells.
+And those actually outnumber
+the bacteria, like 10 to one.
+So they're just everywhere
+there, they kill bacteria.
+And so there's these really interesting
+predator/prey interactions.
+But overall, it's just this really dense,
+complex, dynamic ecosystem.
+And so, we're talking about
+the human as a single species,
+but we're also thinking of
+the human as this complex,
+integrated ecosystem of hundreds
+to thousands of species,
+interacting concert to do
+all the fantastic things
+that we know happen in the human body.
+- Amazing. So we've got a lot of cargo.
+Or maybe we're the cargo.
+- Yeah.
+- Who knows?
+- Yeah, I mean,
+there have been people
+that have likened humans
+to just a really elaborate
+culturing flask for microbes,
+and that we've actually been designed
+over the course of evolution,
+designed to just efficiently propagate
+this microbial culture
+from person to person,
+from generation to generation.
+So it's a different way of
+thinking of the human body.
+- Interesting.
+I believe that our pH or the
+pH of our digestive system
+varies as you descend,
+as you go from mouth
+to throat and stomach.
+And you said that most of the microbiota
+are in the distal colon.
+Are there distinct forms
+of microbiota all along
+the length of the digestive tract,
+and within these other interfaces
+with the outside world?
+- Totally. Yeah.
+So it starts with our
+teeth and in our mouth,
+and saliva, there's a oral microbiota.
+These microbial species are very different
+than the ones that you find
+in the digestive tract.
+They're usually built to
+deal with oxygen very well.
+They're in an area that is
+exposed to a lot of oxygen,
+they of course see different
+nutrients than, for instance,
+the colonic bacteria would see.
+And they grow quite often
+in mats that live on teeth.
+So they're very structured in terms of...
+And not moving around a lot.
+So they're very, fairly stationary.
+As you move down the digestive tract,
+there are microbes in
+esophagus in our stomach,
+but those communities are not very dense,
+and actually not very well studied.
+We know of a very...
+There's a very famous stomach bacteria
+known as Helicobacter pylori,
+which can cause stomach ulcers
+and cause gastric cancer
+in some less frequent situations.
+But this is
+a very different set of
+microbes, they have to be adapted
+to a different environment,
+in the stomach especially,
+incredibly acidic environment.
+But also very different in terms
+of their ability to interact
+with other microbes,
+just because the
+communities are less dense,
+they're less dynamic, there's
+less nutrients that stay there
+and passage through the community.
+So a lot of times those communities
+are reliant upon nutrients
+derived from the host,
+as opposed to nutrients
+derived from our diet.
+As you move down out of the stomach,
+into the small intestine,
+you start to see these communities,
+which are the ones that are
+becoming more well-studied.
+Small intestine is still
+a bit of a black box,
+just because it's hard to access.
+And so there's some really
+cool technologies out there
+for using, for instance,
+capsules to do sampling
+as the capsule passes
+through the digestive tract,
+so that we have a better
+idea of what's going on
+in the small intestine.
+And then you get to the colon,
+and this is the community
+that's just so incredibly
+densely packed, doing a ton of...
+There's a ton of metabolic
+activity happening there,
+and a bunch of interaction with the host.
+And that's the community
+that's really the best studied.
+Part of the reason for
+that is because stool
+is so easy to obtain
+compared to, for instance,
+something in the stomach
+or small intestine.
+And that stool is fairly
+representative, we know,
+from studies that have been done
+using colonoscopies and so forth.
+Stool is fairly representative
+of what's happening in the colon.
+So dense, super exciting community,
+but also the best studied,
+just because it's the easiest to access
+in the lower digestive tract.
+- Very interesting.
+I imagine these microbiota
+have to get in there
+at some point, are
+microbiota seen in newborns?
+In other words, where do they come from?
+And dare I ask, what direction
+do they enter the body?
+Or is it from multiple directions?
+- Yeah, yeah. Great question.
+So one of the burning questions
+that we can come back to
+at the end of this, is where
+does our microbiota come from?
+Because it is this kind of
+existential question in the field,
+like where is this
+community assembling from?
+And the reason that it's
+such an interesting question
+is that, a fetus, when it's in the womb,
+that's actually a sterile environment.
+There have been some
+studies that have looked
+at whether there are microbes in the womb,
+and microbes colonizing
+the fetus at that point.
+There's some debate about this,
+but overall it looks like that's not a big
+part of the equation of
+microbial colonization.
+And so each time I'm an infant is born,
+it's this new ecosystem.
+It's like an island
+rising up out of the ocean
+that has no species on it,
+and suddenly there's this land rush
+for this open territory.
+And so we know that infants go through
+this really complex process
+of microbiota assembly
+over the first days, weeks,
+months, years of life.
+And then you get into
+switching to solid food,
+two to three years of age.
+There are some changes in
+childhood, adolescence,
+working into adulthood.
+But that first zero to one year
+is a super dynamic time
+with really kind of
+stereotypical developmental changes
+in the gut microbiota, that
+appear to have the possibility
+of going wrong and causing
+problems for infants
+in some instances.
+But if you step away
+from that extreme side
+of things going wrong,
+there also were a lot of
+different trajectories
+that developmental process can take,
+because our microbiota is
+so malleable and so plastic,
+and those trajectories can be affected
+by all sorts of factors in early life.
+So an example is whether an infant is born
+by C-section or born vaginally.
+We know from beautiful work
+that's been done in the field
+that infants that are born by C-section
+actually have a gut microbiota that looks
+more like human skin than it does
+like either the birth canal,
+the vagina microbiota,
+or the mother's stool microbiota.
+Babies that are born
+through the birth canal
+have initial colonization
+of vaginal microbes
+and of stool microbes from their mother.
+And so just these first days,
+whether you're born by C-section
+or through natural childbirth,
+your gut microbiota looks very different.
+And then compound on top of that,
+whether you're breast fed or formula fed,
+whether your family has a
+pet or doesn't have a pet,
+whether you're exposed to antibiotics,
+there are all these factors that really
+can change that developmental process,
+and really change your microbial identity,
+eventually in life.
+The reason that the field is
+paying really close attention
+to this and studying this right now
+is because we know from animal studies,
+that depending upon the microbes
+that you get early in life,
+you can send the immune
+system or metabolism
+of an organism or other
+parts of their biology
+in totally different
+developmental trajectories.
+So what microbes you're
+colonized with early in life
+can really change your biology,
+and we can come back to that later, but-
+- Yeah, we should.
+- Getting back to that original question
+of where do your microbes come from,
+you'd think because you're born
+through your mother's birth canal,
+or exposed to her skin microbes,
+that a lot of your microbes
+would come from your mother,
+but it actually turns out that,
+we can certainly detect that signal,
+we certainly see maternal
+microbes in the infant,
+but there are a lot of
+microbes that are coming
+from other places, surfaces, other people,
+perhaps other caregivers, but
+perhaps strangers as well.
+So we acquire our microbes
+from a variety of sources.
+The first ones are from our mom,
+or from our caregivers from the hospital,
+but then we add to that tremendously
+over the first year or so of life.
+- Incredible, you even said pets.
+So if there's a dog in the
+home or a parakeet in the home,
+clearly they have a microbiome also,
+and potentially the child
+is deriving microbiota
+species from those pets, correct?
+- Exactly, yeah.
+And so the best studies
+that have been done
+have just looked at pets in
+the household as a factor,
+and whether that changes
+the group of infants
+that have a pet to look slightly different
+than the group of infants
+that don't have a pet.
+And then the question is,
+what is the pet doing to
+change those microbes?
+And some of it is probably
+actually contributing,
+direct members of the microbiota.
+Actually, I have a dog,
+that dog occasionally
+will lick my mouth without
+me paying attention,
+and that's probably introducing microbes.
+We also know that pets
+are down in the dirt,
+they're outside, they're being exposed
+to a lot of environmental microbes.
+And so just pets serving as a conduit
+for a bunch of microbes
+that we wouldn't otherwise
+come in contact with is
+a possibility as well.
+- Well, we will return to pets,
+and in particular your dog,
+an amazing dog, by the way.
+I met your dog just the other day,
+and I had to force myself,
+I had to pry myself away from...
+It's a Havanese, right?
+- Havanese.
+- [Andrew Huberman] Incredible.
+What is your dog's name?
+- Louis. Louis Pasteur.
+- Louis Pasteur.
+- Yeah, yeah.
+- How appropriate.
+Amazing dog, what a personality
+on that dog.
+- Yeah.
+- The issue that I think
+a lot of people are probably wondering is,
+what is a healthy microbiome?
+What is it supporting?
+We hear that you need a healthy microbiome
+to support the immune
+system or metabolism,
+or even the gut-brain axis.
+How do we define a healthy,
+versus a unhealthy microbiome?
+Some people might know
+the unhealthy microbiome
+is dysbiosis is the word that
+I encounter in the literature.
+But given that there's so
+many species of microbiota,
+and given that I think we
+probably each have a signature
+pattern of microbiota,
+how do we define healthy
+versus unhealthy microbiota?
+Is there a test for this?
+Later we'll talk about technologies
+for testing microbiota.
+There are a lot of companies now,
+a lot of people sending
+stool samples in the mail.
+Never look at the Postal
+Service the same way again,
+but it's out there and
+it's getting analyzed.
+So how should I think about this?
+I can think about things like heart rate,
+heart rate variability, BMI,
+all sorts of metrics of health.
+How should I think about the microbiota?
+How do I know if my microbiome
+is healthy or unhealthy?
+- Yeah, it's a million
+dollar question right now
+in the field, and there's
+a lot of different ways
+of thinking about that, and I
+can talk about some of those.
+But I would say that there
+are sessions at conferences,
+there are review articles
+being commissioned.
+There are all sorts of thought
+pieces about this right now,
+like what is a healthy microbiota?
+What are the features that define it?
+And I think before diving into this,
+the important thing to realize
+is, it's a complex topic.
+Context matters a lot.
+What's healthy for one
+person or one population
+may not be healthy for
+another person or population.
+And the microbiota is malleable.
+It's plastic, it changes
+our human biology,
+which I think is, how we think
+about health quite often,
+BMI and longevity, reproductive success,
+however you want to define it.
+It certainly can accommodate a variety
+of configurations of gut
+microbiota, and we don't have...
+It's really hard to untangle
+all of the different factors
+of what could be very healthy,
+versus a little bit less healthy.
+So I will say that there's
+no single answer to this,
+but there's some really
+important considerations.
+And perhaps the best way
+to start talking about this
+is to go back to the inception
+of the Human Microbiome Project,
+which was this program that NIH started.
+They invested a lot of money in 2008, 2009
+for really propelling the field
+of gut microbiome research.
+It was becoming evident at that point
+that this was not just a
+curiosity of human biology,
+that it was probably really
+important for our health.
+And they had all this
+wonderful sequencing technology
+from the Human Genome Sequencing Project,
+and with the human genome
+completed that point,
+they started turning that technology
+to sequencing our gut microbes.
+And it's important to contextualize
+the amount of information that
+they're trying to document,
+the collective genome of our
+gut microbes is on the order
+of 100 to 500 times larger
+than our human genome.
+So it's just in terms
+of the number of genes.
+So it's just this vast number of genes,
+and then if you start getting into
+some of the fine variation,
+it's scales by 10 to a 100 fold.
+So really a huge amount information
+they're trying to document.
+And so it was a wonderful investment,
+and it continues to pay
+dividends to this day.
+But one of their goals of that
+project was to try to define
+what a healthy microbiome is,
+versus a diseased microbiome
+in different contexts.
+And so they started enrolling
+a bunch of healthy people
+and a bunch of people with, for instance,
+inflammatory bowel disease
+and other diseases.
+And the idea was, let's
+document those microbiomes.
+What microbes are there,
+what genes are there?
+And then we can start to get a sense of,
+what are the commonalities
+of the healthy people,
+and how can that go wrong in
+these different disease states?
+There were some answers from that,
+but through those studies,
+we really started to get the image
+that there is this
+tremendous individuality
+in the gut microbiome.
+And so it's really hard to
+start drawing conclusions
+after initial pass of that project,
+of what is a healthy microbiome?
+But the other thing that
+we started to realize
+at the same time, there
+were studies going on
+documenting the gut microbiome
+of traditional populations
+of humans, hunter-gatherers,
+rural agricultural populations.
+And those studies were really mind-blowing
+from the perspective of all
+these people are healthy,
+they're living very different lifestyles,
+and their microbiome doesn't look anything
+like a healthy American microbiome.
+- So does that mean that the
+healthy American microbiome
+is healthy, but only in
+the context of living
+in the United States and
+consuming what's consumed here?
+Or is it that there is a
+superior microbiome signature,
+somewhere in our history
+or currently in the world?
+- Yeah, I think that's kind
+of a big question right now.
+I think there's a great quote
+from Dobzhansky that says,
+"Nothing in biology makes sense,
+except in the light of evolution."
+And these traditional
+populations are all modern people
+living on the planet now,
+but their lifestyle does represent
+the closest approximation
+to how our ancestors, early humans lived.
+And so those microbiomes,
+and now we know from
+sequencing of paleofeces,
+the microbiome of these
+traditional populations
+is more representative of the microbiome
+that we evolved with,
+that potentially shaped
+our human genome.
+And so one possibility is
+that in industrialized world,
+we have a different microbiome
+from traditional populations,
+and that microbiome is well-adapted
+to our current lifestyle,
+and therefore healthy
+in the context of an
+industrialized society.
+And there probably are
+elements of that that are true.
+But another possibility is
+that this is a microbiome
+that's gone off the rails,
+that it is deteriorating in
+the face of antibiotic use,
+and all the problems associated
+with an industrialized diet, Western diet.
+And that even though the
+Human Microbiome Project
+documented the microbiome
+of healthy people,
+healthy Americans, that what they really
+may have been documenting
+there is a perturbed microbiota
+that's really predisposing
+people to a variety
+of inflammatory and metabolic diseases.
+- It reminds me, as a neurobiologist,
+was weaned in the landscape
+of so-called critical periods,
+where early life environment
+very strongly shapes the brain.
+And so many studies were
+done on animals raised
+in traditional cages with a
+water bottle and some food,
+maybe a few other animals
+of the same species.
+And then people came along and said, wait,
+normally these species in
+the wild would have things
+like things to climb over
+and things to go through,
+and you provide those very basic elements,
+and all of a sudden the
+architecture of neural circuits
+looks very different, and you realize
+that were studying a deprived condition.
+And earlier you actually referred to,
+if I understood correctly,
+to critical periods
+for gut microbiome development.
+Is it fair to say that
+there are critical periods?
+Meaning, if let's say my...
+Let's aim it at me.
+If my gut microbiome was dysbiotic,
+it was off early in
+life, can I rescue that
+through proper conditions and exercise?
+Or is there some sort of fixed pattern
+that's going to be hard
+for me to escape from?
+- Yeah, there's a big
+field that's emerging now
+that we refer to as kind of reprogramming
+the gut microbiome.
+And I think if we want
+to conceptualize humans
+as this aggregate human microbial biology,
+most people have heard of CRISPR,
+and the ability to potentially
+change our human genome
+in ways that correct genetic problems.
+That's a wonderful technology,
+and has kind of put
+on the table genetic
+engineering for cur disease,
+but it's much easier to change
+gut microbes for a problem,
+just because that community is malleable.
+The issue that I think
+we're seeing in the field
+is that microbiomes quite often,
+whether they're diseased or healthy,
+exist in stable states.
+They kind of tend towards this
+well that has gravity to it
+in a way, biological gravity,
+where it's really hard to dislodge
+that community from that state.
+So even individuals, for
+instance, that get antibiotics.
+You take oral antibiotics,
+the community takes this huge hit.
+We know that a bunch of microbes die,
+the composition changes.
+And that represents a
+period of vulnerability
+where pathogens can come in and
+take over and cause disease.
+But if that doesn't happen,
+the microbiota kind of works
+its way back to something
+that is not exactly like,
+but similar to the
+pre-antibiotic treatment.
+We know with dietary perturbations,
+quite often you'll see
+a really rapid change
+to the gut microbiome.
+And then it's almost like a
+memory where it snaps back
+to something that's very
+similar to the original state,
+even though the diet remains different.
+And so there's this incredible,
+what we refer to as resilience
+of the gut microbiome,
+and resistance to change,
+or at least resistance to
+establishing a new stable state.
+So that doesn't mean it's hopeless
+to change an unhealthy microbiome
+to a healthy microbiome,
+but it does mean that we
+need to think carefully
+about restructuring
+these communities in ways
+where we can achieve a new
+stable state that will resist
+the microbial community
+getting pulled back
+to that original state.
+And one of the really
+simplest and nicest examples
+of this an experiment that
+we performed with mice,
+where we were feeding
+mice a normal mouse diet,
+a lot of nutrients there
+for the gut microbiota,
+things like dietary fiber.
+And we switched those mice, half the mice,
+to a low fiber diet.
+And we were basically asking the question
+that if you switch to kind
+of a Western-like diet,
+a low fiber, higher fat diet,
+what happens to the gut microbiota?
+And we saw the microbiota
+change, it lost diversity.
+It was very similar to what
+we see in the difference
+between industrialized and
+traditional populations.
+But when we brought back a healthy diet,
+a lot of the microbes
+returned, it was fairly...
+There was this kind of
+memory where it went back
+to very similar to its original state.
+The difference is that
+when we put the mice
+on the low fiber, high fat diet,
+and then kept them on that
+for multiple generations,
+we saw this progressive deterioration
+over the course of generations
+whereby the fourth generation,
+the gut microbiome was a fraction
+of what it originally was.
+Let's say 30% of the species only remained
+something like 70% of the
+species had gone extinct,
+or appeared to have gone extinct.
+We then put those mice back
+onto a high fiber diet,
+and we didn't see recovery.
+So in that case, it's a situation
+where a new stable state
+has been achieved.
+In that case, it's
+probably because those mice
+don't actually have access
+to the microbes that they've lost.
+And we actually know that we
+did the control experiment
+of mice on a high fiber
+diet for four generations.
+They maintain all their microbes.
+If we take those fourth generation mice
+with all the diversity
+and do a fecal transplant
+into the mice that had
+lost their microbes,
+but had been returned
+to a high fiber diet,
+all of the diversity was reconstituted.
+So your question of like,
+how do we establish new stable states?
+How do we get back to a healthy microbiota
+if we have taken a lot of antibiotics,
+or have a deteriorated microbiota,
+it's probably a combination
+of having access
+to the right microbes.
+And we can talk about what
+that access looks like.
+It may look like
+therapeutics in the future.
+There are a lot of companies
+working on creating cocktails
+of healthy microbes.
+But it'll be a combination of
+access to the right microbes
+and nourishing those microbes
+with the proper diet.
+- Very interesting.
+This multi-generational
+study reminds me of something
+that I was told early in my training,
+which was that it takes a long
+time for a trait to evolve,
+but not a long time for traits to devolve.
+- Yeah, exactly.
+- Which generally is true
+of human behavior too,
+although it depends.
+We can all do better, nonetheless.
+- [Justin Sonnenburg] Very interesting.
+- So I have a puzzle
+or a bit of a conundrum
+around this notion of
+species of microbiota.
+So if the pH, if the acidity
+differs along the digestive tract,
+but is more or less fixed
+for a given location, right?
+I mean, unless something's really off,
+the pH of the stomach is
+within a particular range,
+and the intestines and so forth.
+And certain microbiota
+thrive at a given station,
+a given location along
+the digestive tract,
+and the pH is sort of fixed more or less.
+I'm trying to figure out,
+what is allowing certain microbiota
+to stay in a given location?
+Why don't they migrate up or down?
+So are they pH sensitive,
+and that's what they're
+selecting for along the tract?
+And I'm also trying to figure
+out how these changes in food
+so robustly change the microbiome.
+The way you describe it
+almost makes it sound
+like food is the variable
+that's going to dictate
+the quality of the microbiome,
+although I'm sure there
+are other factors as well.
+And then in the back of my mind,
+I don't know that I want
+to ask this question,
+but I really want to ask this question,
+which is, where are they in there exactly,
+and why don't they all get flushed out?
+Right?
+- Right.
+- If 30% of fecal matter is microbiota,
+then where are they living?
+Are they along the lining,
+and the little microvilli
+of the intestine, and
+what are they attaching to
+and interacting with?
+we know there are neurons in there,
+especially within the stomach,
+there's a lot of work now being done
+on the gut neurons and how they signal
+to the brain and so forth.
+But who are they talking to in terms
+of the host cells?
+- Yeah.
+- Because if it's just from food,
+I imagine that they're in
+there having their good time,
+or not, and then some are
+getting flushed out or not,
+but how do they actually stay in there?
+- Yeah.
+- Who are they attaching to?
+What are they talking about?
+What are they doing for fun?
+- Yeah.
+- And so forth.
+- Yeah, yeah. Super interesting.
+So I'll come back to
+the attachment question,
+and kind of why they don't get washed out,
+'cause this is a super
+fascinating question.
+And I think your initial point of like,
+the kind of regional
+differences in what's happening
+in terms of physiology, biochemistry
+along the length of the
+gut is really interesting.
+There certainly is a pH gradient
+along the length of the gut.
+There is actually
+bicarbonate that's secreted
+into the small intestine to
+try to neutralize stomach acid.
+There also is bile that's secreted.
+That creates a different
+chemical environment in there,
+bio-loving bacteria that kind of live
+in that region of the gut.
+And then there is a nutrient gradient,
+just because as food leaves the stomach,
+a lot of the simple
+nutrients are absorbed.
+And so you might see microbes
+in the small intestine,
+for instance, that are better
+at consuming simple sugars,
+but you won't find many
+microbes in the colon like that,
+because all the simple sugars
+have been depleted at that point.
+And then the immune system
+is a big factor as well.
+And the immune system is incredibly active
+in the small intestine.
+The small intestine is
+this really interesting
+challenge for the host, because
+it's a tissue that's been...
+Its purpose is mainly absorptive.
+And so there has to be
+flow of a lot of things,
+a lot of nutrients from
+the luminal contents
+into host cells.
+And so that means the barrier
+can't be as fortified.
+And so the immune system
+is incredibly active
+in the small intestine to
+make sure that microbes
+aren't getting so close, and
+if they are getting close,
+there's a response to
+them to put them back
+in their right location.
+And then along this whole kind
+of architecture of the gut,
+there's the longitudinal gradients,
+things like pH and so forth.
+And I should say that pH starts
+to drop again in the colon,
+because a lot of those
+microbes are fermenting things
+and producing acids.
+And so you actually end up
+with the pH starting to drop,
+not as low as the stomach,
+but starting to drop again
+if there's a lot of fermentation
+happening in the colon.
+In addition, you also have a gradient
+from the host surface epithelium
+out to the middle of the gut.
+And that is likely the key for
+what is retained in the gut
+and how the community isn't washed out.
+So lining the gut, we
+have epithelial cells.
+In the small intestine,
+they're largely absorbative.
+In the colon, there's a
+lot of mucus production.
+And we also see this
+in the small intestine,
+and this mucus lining is this
+substance that we secrete,
+largely made of carbohydrate actually.
+And the purpose of that
+is to keep microbes
+in the right spot and to allow nutrients
+and water to be absorbed
+in the small intestine
+and large intestine.
+And so it's this mesh
+work that is supposed
+to keep out large things
+like back to and lead,
+and small things like nutrients.
+That mucus layer is, it
+turns over more slowly
+than the luminal contents passing by.
+And so if a microbe learns to
+hold onto that mucus layer,
+it can actually resist the flow
+of the contents of the gut.
+And so there there's
+many microbes in the gut
+that are not just good
+at attaching to mucus,
+but also good at nibbling
+on it, at eating it.
+And there are these bacteria,
+like Akkermansia
+muciniphila, mucus-loving.
+One of its main things it
+does is actually eat mucus
+in the gut, that's its lifestyle.
+And so there's an incredible
+gradient of activity
+from the host tissue,
+working your way out to
+the middle of the gut.
+What's amazing is some microbes actually
+do penetrate past the mucus,
+and there are these invaginations
+in the intestine known as crypts,
+actually where the stem cells live
+that produce the epithelium,
+and there are microbial communities
+that can form in those crypts.
+And we don't know completely
+what their function is,
+but we've done some studies
+that appear to indicate
+that if you can localize to a crypt,
+you've hit the jackpot as a microbe
+for being able to maintain
+dominance in the gut.
+So if you sit in the crypt
+and something similar to you,
+another microbe that's similar
+to you, comes into the gut,
+you can actually exclude that microbe.
+And the thinking is that
+it can't find a spot
+to resist being washed out of the gut.
+So there probably are these little niches
+close to host tissue in the mucus
+that are absolutely essential
+for resisting getting washed out
+with the flow of all the contents.
+- Incredible.
+That raises a question about two things
+that are reasonably popular.
+One is this notion of cleanses,
+from either direction.
+People will consume things by mouth to try
+and cleanse their digestive tract.
+This there's a long history of this.
+I'm not recommending this.
+There's differing
+opinions on whether or not
+this is good or bad.
+And the other is fasting
+or time-restricted feeding.
+The reason I ask about
+time-restricted feeding,
+is my understanding is
+that after a prolonged
+period of fasting, there's
+some auto-absorption
+or digestion of one's own digestive tract,
+that then gets renewed.
+In other words, you're testing and stomach
+start eating its own lining to some extent
+in the absence of food.
+So what do we know about cleanses?
+Oh, and then I suppose there's cleanses
+from the other direction too, right?
+Which, less popular, but I've
+never run the statistics,
+but certainly exist out there.
+What's the idea about cleanses and fasting
+as it relates to the
+health or the dysbiosis
+of the microbiota?
+- Yeah, there hasn't been a
+lot of high quality science
+in this area, and so it's
+really hard to conclude
+whether these are good for
+health or bad for health.
+I think the fasting...
+We're in a really interesting situation
+in the industrialized world,
+because we have so many problems
+associated with our digestive tract,
+and that probably has to do
+with our highly processed diet
+and perhaps having a microbiota
+that's fairly perturbed as well.
+And so,
+whether doing things like
+this are good or bad,
+it's really hard to define,
+because we may be starting off
+in a fairly bad state anyway.
+There's so many diseases
+that we're dealing with,
+metabolic syndrome,
+inflammatory bowel disease,
+that just put a massive
+portion of the population
+in a very different category
+than people that are thinking
+about how do I maintain health,
+how do I live a long life,
+from starting off in what we consider
+a fairly healthy state.
+And so things like fasting
+and a lot of other therapies
+that have been developed in the field,
+I think ketogenic diet may
+be in this category as well.
+There can be tremendous benefits
+in terms of their impact
+in the context of metabolic syndrome,
+and for people that are battling
+eating a continual bad diet
+or something like that.
+- And adherence.
+I think one of the one of the
+reasons for the popularity
+of intermittent fasting,
+time-restricted feeding,
+and what do they call them now?
+Exclusion diets, where you
+entire entirely exclude meat,
+or you entirely exclude
+plants or whatever it is,
+is that adherence is sometimes
+easier in the all or none.
+As neurobiologists, we think
+of it as a go, no-go circuitry.
+It's harder to make decisions,
+nuanced decisions often,
+about food than it is
+to just eliminate entire
+categories of food.
+Not eating, for many people-
+- Yeah.
+- Is easier than eating smaller portions.
+- Yeah, yeah.
+Yeah, and-
+- Yeah.
+So some of it, I think,
+is neurobiological and psychological.
+- Absolutely.
+And we've had gastroenterology
+fellows in our lab
+that come in and we kind of...
+I think that to kind of
+slice through the nuance
+of all this, there's a very simple recipe
+and a really well
+accepted, broad definition
+of what a healthy diet is.
+kind of the Mediterranean
+diet, plant-based diet is...
+There's just a ton of data
+that particularly people
+of European ancestry, but
+there's a pretty broad acceptance
+that if you eat mostly
+plants, for most people,
+that's going to be very
+healthy, to the point where...
+A wonderful colleague of
+ours, Christopher Gardner,
+who's studied diet his whole life,
+trying to establish
+what a healthy diet is.
+And people was giving advice,
+I saw him giving advice
+to a dietician who is
+trying to get all the rules
+of what she should be
+recommending to people
+that she deals with that are
+interested in a healthy diet.
+And she said, so the number
+one, I'm going to say,
+plant-based fiber is
+probably super important,
+and that should be very high on the list.
+And she goes on to number
+two and he said, stop.
+He said, if people do number one well,
+you don't need to know any other rules.
+I mean, it's basically
+like if you can have
+a high fiber, plant-based diet,
+for most people, at least,
+talking about the bucket of people
+that are already in a healthy state,
+you don't really need to
+think about other things,
+because you can't eat too much meat,
+you can't eat too many sweets.
+You've already eaten a huge
+amount of plant-based fiber.
+Your gut is full, you're
+not going to be hungry.
+And it kind of takes care of worrying
+about what should I eat or
+what, what shouldn't I eat.
+Just eat a ton of whole
+grains, legumes, vegetables,
+fruit that's high fiber
+based, not high sugar.
+- Does it completely exclude
+meat, and fish and dairy?
+- And he was saying people can
+add their own spins on this.
+But I think that the main
+rule is just start off with...
+And it kind of gets back to,
+to Michael Pollan's mantra,
+eat food, not too much, mostly plants.
+I think if you stick
+with these simple rules,
+and don't overthink,
+like, should I have this?
+Can I eat eggs? Can I eat...
+Just kind of stick to these simple rules,
+it makes it very approachable.
+But I agree, so these
+gastroenterology fellows
+that we've had in our lab say that they...
+It's really hard.
+We kind of say to them,
+why won't you give this dietary advice
+that's really well-known.
+And they just said, well,
+it's, it's really hard
+to get people to change their diet,
+unless you're doing either
+a go, no-go sort of thing,
+or eliminating something.
+So if carrots are giving you
+problems, don't eat carrots.
+And that's a very simple,
+easy instruction to follow,
+but doesn't really deal
+with the root problem
+of why can't you eat carrots,
+because you should be able to eat carrots.
+Most people can eat carrots.
+And so I think that we...
+Yeah, when we're thinking
+about things like fasting,
+and all these different dietary regimes
+and cleanses that people do,
+we have to step back for
+a moment and say, okay,
+well, what are really the big,
+high level rules that we should take home?
+And then if you are experiencing problems,
+and you want to think about
+how to deal with them,
+it's good to go to an
+evidence-based method
+where there's actually data to back it up.
+The data in the field really
+shows that with like fasting,
+particularly if you go to
+animals that hibernate,
+or things like that, where
+there's really extended fasts,
+you actually have a microbiota come up
+that blooms in the absence
+of food coming in through diet
+that's really good at eating mucus.
+So you have bacteria
+that's that specialize
+in eating nutrients derived from the host,
+because there's no other
+nutrients to live on.
+Now, whether this is good
+or bad, we don't know.
+But it seems like the
+consumption of mucus in excess
+is a problem from the
+standpoint of microbes
+getting too close to host tissue
+and inciting inflammation,
+which is what we see in animal models
+when we deprive of dietary fiber.
+We see these mucus
+utilizers become abundant,
+and inflammatory markers start to come on.
+So fasting short term
+might be fine, probably.
+There's definitely benefits
+that are seen metabolically.
+In terms of what it means
+for long term health
+from the standpoint of the gut microbiota,
+I would say we don't have
+the answer to that yet.
+In terms of the cleanses and
+the flushes and all this,
+personally, I think it's a terrible idea.
+I mean, we know that if...
+In studies that are being
+done now to reprogram
+the gut microbiota to install
+a completely new microbial community,
+the first step is to wash away
+the resident microbial
+community that's there.
+So if you're in the process of acquiring
+a really good microbiota
+and you know how to do that,
+then flushing everything out is great.
+Otherwise, what is happening
+is you're kind of leaving
+rebuilding of the community
+to chance, like what is it?
+And so what microbes
+are going to colonize?
+Who's going to take up space
+after you do this flush or cleanse?
+And I think it's a little bit
+like playing Russian Roulette.
+You may end up with a
+good microbial community
+in there afterwards, you may not.
+You certainly want to pay close attention
+to what you're eating while you're doing
+the reconstitution of the community
+after you do something like that.
+- Yeah.
+Thank you for that.
+I know a lot of people are interested
+in these kinds of elimination diets.
+And intermittent fasting/
+time-restricted feeding
+seems to be getting
+some traction, in part,
+because at some level we are
+all doing this when we sleep.
+Most of us aren't eating
+while we sleep anyway,
+and adjusting the numbers
+seems more accessible
+for a lot of people.
+We have a lot of colleagues at Stanford
+who I know happen to of that regimen,
+or a time-restricted feeding regimen,
+but also who follow the more
+traditional meal spacing
+as well, of course.
+One of the things that I wonder about
+as we talk about primarily
+plant-based with some,
+what did you say the Pollan thing was?
+It was eat mostly plants
+and then maybe some meat,
+but not too much, or not
+too much...
+- Yeah, eat food,
+mostly plants, not too much.
+- Got it.
+- Or sorry, eat food, not
+too much, mostly plants.
+- Got it.
+I hear this again and again.
+I know there are a number of
+people who do seem to do well
+on a lower carbohydrate, and
+even some people who report
+feeling much better on a really strictly,
+almost meat, organ-only diet.
+And the only reason I raise is not...
+I don't participate in...
+I'm one of those omnivores that out there,
+I do eat some meat and
+I do eat plants as well.
+But the reason I raise
+this is that earlier
+you were talking about communities
+that may have microbiota
+that are healthier than ours,
+or at least different than ours.
+And there are communities in the world
+that subsist largely on animal products,
+or for which unprocessed animal products
+are considered the richest-nutrient foods
+in those communities.
+Protein is very scarce in...
+Ancestrally, protein was more scarce,
+so eggs and meat and things of that sort.
+So could there be a genetic component?
+In other words, if we
+fast forward 10 years
+and we actually can make sense
+of all this human genome stuff,
+are we going to find that someone
+who has Scandinavian roots,
+or somebody who has South American roots,
+or somebody had descended
+from a different tribe,
+will do better on one
+particular diet versus another,
+and thereby, or I should say,
+and in parallel with that,
+that their gut microbiome
+will have different signatures that are...
+So your microbiome might thrive on plants
+and mine might thrive on organ meats.
+And as I say this, I'm not a
+big consumer of organ meats.
+I'm just laying this
+out for sake of example.
+- Yeah.
+Yeah, great.
+So,
+a few notes, the first one
+has to do with carbohydrates
+and restriction of carbohydrates,
+and some people feeling healthier
+when they cut carbohydrates out.
+My guess is...
+This is my theory to be tested,
+that people feel better
+cutting carbohydrates out,
+because the diet that we
+eat in the United States
+and in industrialized countries,
+the carbohydrates are largely crap.
+- Processed.
+- They're processed.
+- Right.
+- It's like starch,
+simple sugar.
+It's things that contribute
+to glycemic index.
+It's these sugars that we eat.
+They make it to our small intestine,
+they get chopped up into simple sugars,
+absorbed into our bloodstream,
+and we have a ton of glucose then
+coursing through our
+veins, which we know is bad
+and can lead to things like diabetes.
+If the carbohydrates that were in our diet
+were complex carbohydrates, dietary fiber,
+and we like to refer to
+the subset of dietary fiber
+that the microbiota can actually access
+as microbiota-accessible carbohydrates.
+And the reason that we like that term
+is it has the word carbohydrate in it.
+And it's to point out that
+not all carbs are bad,
+it's just, there are bad carbs or carbs,
+or carbs that are bad if you consume them
+in too high quantity,
+things like table sugar
+and simple starches,
+but there are good carbs as well.
+And these microbiota-accessible
+carbohydrates
+are the complex ones that we can't digest,
+and fuel our got microbiota,
+our gut microbiota can ferment them.
+I think we probably
+all would be better off
+with less of the carbs that
+we're typically served,
+but most of us, and probably
+the vast majority of us
+would be better off by
+consuming a lot more carbs
+that were complex, that
+we're microbiotic-accessible.
+And I'll come back to why that's important
+in terms of our biology.
+There's some mechanisms
+that are known as to why
+those complex carbohydrates
+are so important
+for our health, for most of us.
+I think this aspect of human
+genetic adaptation to diet
+is super interesting.
+And then layer on top
+of that got microbiota
+adaptation to diet, which
+is another layer of this
+that is also fascinating.
+It's very clear that over
+very short periods of time,
+humans can adapt to
+differences in their diet,
+lactase persistence as kind of
+the classic example of this.
+Just over the past 10,000 years,
+certain groups of humans have adapted
+to being able to consume
+dairy by taking this enzyme,
+lactase, that normally is just expressed
+in most of the world's
+population early in life
+to be able to metabolize
+lactose in breast milk.
+By extending the expression
+of that throughout life,
+now you can consume milk
+for your whole life.
+And so that is an example
+of specific populations
+of human genome,
+genetically adapting to diet
+in a very short period of time.
+And there are other examples
+of this, and undoubtedly,
+this has happened throughout the world
+to various aspects of diets.
+So certainly it's important to remember
+that there will be different diets
+that are better for different groups,
+based on what genes you harbor and have
+in your human genome.
+The other aspect on top of that is that,
+there are good examples
+of the gut microbiome
+adapting to cultural differences in diet.
+And the classic example of this
+is the degradation of seaweed.
+So we know that most
+Americans, if you eat sushi,
+and there's nori there and
+you eat some of the seaweed,
+it has a dietary fiber
+in it known as porphyrin.
+That porphyrin will shoot
+through most of us untransformed.
+Inert substance.
+It'll do other things like retain water,
+and serve as kind of
+something like cellulose,
+not be fermented at a high level.
+If somebody from Southeast Asia
+that's always consumed seaweed,
+and is part of a culture
+that consumes seaweed,
+eats seaweed, they have a gut microbe
+that can now metabolize porphyrin.
+And so there are these very
+specific gene transfer events
+where the genes for
+breaking down porphyrin
+have been imported into the microbiome
+of many people in Southeast Asia to...
+We can think of it as
+helping digest porphyrin,
+but it's really just a
+microbe that's found a niche,
+found a way to make a living in the gut
+by consuming something that's
+common in the diet there.
+So there are these different layers,
+there are human genetic adaptations,
+and there are microbiome
+adaptations that are cultural,
+and based on people's geographic location.
+But there's no escaping the fact
+that for much of human evolution,
+the vast majority of people
+that are on this planet
+had ancestors that were
+hunter-gatherers, foraging,
+consuming huge quantities
+of plant material,
+just because that's what was there.
+And so one of the groups that we study,
+the Hadza hunter-gatherers in Africa,
+and I should take a moment
+just to say that our research,
+and research of many people
+in our field and other fields
+rely on study of indigenous communities.
+And it's really important to
+think of these communities,
+as our equals, they're
+modern people on the planet.
+They have interesting
+lifestyles that are informative
+with regard to certain
+aspects of human biology,
+but in many cases, they also are
+leading a vulnerable existence.
+And so we really take great
+care in our research program,
+and it's important for people to realize
+that these populations
+take part in our research,
+because they're wonderful
+research partners.
+And we need to be mindful
+of kind of thinking
+about how, yeah, both we talk
+about them and use our data
+that has been gained through
+their generous contribution
+to our research program.
+The Hadza hunter-gatherers,
+it's estimated,
+consume on the order 100 to 150 grams
+of dietary fiber per day,
+and that's in stark contrast
+to the typical American
+that consumes about 15 grams.
+So somewhere, a seven to tenfold decrease
+in the main nutrient that
+feeds are got microbiome
+in the American diet.
+The Hadza are one example.
+There are many different
+foraging populations,
+but the vast majority of these populations
+consume huge amounts of dietary fiber,
+because plants are the
+reliable, consistent source.
+If you, as a hunter-gatherer go on a hunt,
+usually that hunt is unsuccessful.
+I think the data that one out
+of 20 hunts are successful
+in landing actually
+big game for the Hadza.
+They have birds that they
+shoot and small animals,
+but quite often, day after day,
+they're relying upon berries,
+tubers, baobab fruit.
+They're relying on the
+plants in their environment.
+And actually if you go
+to the data and look
+at what their fruit food preferences are,
+their food preferences are
+actually meat and honey.
+So they don't eat a high fiber
+diet because they love fiber.
+They eat a high fiber diet,
+because that's what's
+available and consistent
+for them to survive.
+But our brains are wired
+for caloric density.
+And so if you took a Hadza
+and put them in a restaurant
+in the United States,
+they would make the same
+crappy decisions that we make,
+because we all want sugar
+and fat and calories.
+It's how our brain is wired.
+- And protein and fat
+for brain development,
+as far as we know, right?
+So it sounds like the Hadza,
+I hope I'm pronouncing that correctly,
+you said would prefer
+to eat meat and honey,
+but they happen to consume
+a lot of plant fiber
+as a consequence of what's available.
+One of the questions I have
+as it relates to all of this,
+is it sounds to me like
+there is no question
+from the pure vegan all the
+way to the extreme opposite,
+which would be pure meat diet,
+that avoiding processed
+foods is a good idea.
+- Yeah.
+- Or heavily processed foods,
+in general and I mean, not
+that the occasional consumption
+is necessarily bad.
+But whether or not one is thinking
+about one macronutrient
+profile or another,
+it sounds like consuming processed foods
+is just bad for the microbiome.
+Can we say that categorically?
+For sure, yeah, yeah.
+- Okay.
+- Absolutely.
+- So you're a low carb person,
+you're a zero carb person,
+you're extreme vegan, no meat.
+Whether or not you're
+all meat, organ meat.
+Sounds to me as if the number one thing,
+maybe even, dare I say above
+Chris's point about plants,
+although I'm not going to challenge
+Chris Gardner on nutrition,
+I would be way outside
+the lane lines to do that.
+But is it to avoiding processed foods?
+- Yeah.
+- Is paramount.
+- Yeah, and I think that's
+completely compatible
+with what Christopher was saying.
+He was saying, if you
+prioritize getting a huge amount
+of whole, plant-based food
+with a lot of fiber first,
+you're not going to have room
+for eating a lot of processed food.
+- [Andrew Huberman] Yeah, yeah.
+- So it's kind of the same
+as avoiding processed food.
+So I think that those are
+exactly the same rule,
+and I think that you're exactly right.
+And we can break down...
+There's a lot of data of
+why different components
+of processed food are so bad for us,
+and so bad for our microbiome.
+And I can talk about a
+few examples of that.
+But the flip side of this
+is this mechanism of...
+And again, thinking about the
+spectrum of a plant-based diet
+versus a meat-based diet.
+There's a lot of data to tell us
+that a meat or ketogenic, or high fat diet
+may have big benefits in terms
+of short term metabolic health.
+That's typically how people
+think about that diet.
+There's also a lot of heart disease
+that's linked with that as well.
+There's good literature for that,
+which is something for people
+to look at and be aware of.
+The plant-based diet, if you're
+eating a bunch of complex
+fibers that feed your gut microbiota,
+your gut microbiota
+produces these substances
+called short-chain fatty
+acids, things like butyrate.
+And it's known that these
+short-chain fatty acids
+play really essential components,
+both in terms of fueling
+colonocytes, enforcing the barrier,
+keeping inflammation low,
+regulating the immune system,
+regulating metabolism.
+And so a lot of people
+think of dietary fiber
+as this inert substance
+that passes through,
+makes this feel full
+maybe for a little bit,
+but we get hungry afterwards right away.
+If you're eating a lot of fiber
+that's feeding your gut microbiota,
+your gut microbiota is just
+producing this vast array
+of fermentation end products
+that then get absorbed
+into our bloodstream,
+and have all of these
+tremendous, cascading effects
+that appear to be largely
+beneficial on our biology.
+And so to think about that
+paradigm of simple carbs,
+versus complex carbs, in
+the case of simple carbs,
+you end up with high blood sugar,
+something that will spike your insulin,
+and have all kinds of
+weird, metabolic effects.
+In the case of complex carbohydrates,
+you'll end up with very low blood sugar,
+because most of those
+have low glycemic index
+and a bunch of short-chain fatty acids
+that are having regulatory roles.
+So just to round out that topic,
+I think there is a reason to think that,
+maybe not appropriate for
+absolutely everyone out there,
+but I think the vast majority of people,
+particularly given the statistics
+of what we know people eat
+in the United States and in
+industrialized countries,
+most people would reap
+tremendous health benefits
+from eating more whole,
+plant-based dietary fiber.
+Now, processed foods, I
+think, is this other dimension
+where you have all of
+these weird chemicals,
+artificial sweeteners, weird fats,
+a lot of refined, simple nutrients.
+The simple nutrients we've talked about,
+but we know that for instance,
+artificial sweeteners
+can have a massive negative
+impact on the gut microbiome
+and can lead us towards
+metabolic syndrome, actually.
+There's been beautiful work
+out of the Weizmann Institute on this.
+And then emulsifiers,
+these compounds that are
+put in processed foods
+to help them maintain shelf stability
+so things don't separate.
+And so all the the moisture content
+is retained appropriately.
+Many of these are known to
+disrupt the mucus layer,
+and as soon as you start
+disrupting that barrier,
+that can lead you in the
+direction of inflammation
+and in animal models,
+we know that can lead towards
+metabolic syndrome as well.
+So there's components of
+processed food, that are,
+when studied in isolation known to have
+a direct negative impact on
+gut biology in the microbiota.
+- Yeah, the mention of artificial
+sweeteners interesting.
+I confess it's a third rail on...
+Talking about artificial sweeteners,
+there are two camps it
+seems, or at least two camps.
+One that say artificial sweeteners
+are not detrimental at all.
+Another that says
+they're very detrimental,
+mainly based on the mouse studies.
+And then there are people
+in the middle that are...
+I put myself in that category.
+I drink the occasional diet soda,
+I don't consume them in large volume,
+but I'm sort of in the middle there.
+And so I just throw that out there,
+because I know immediately
+people are jumping on that,
+but I will just mention
+there's some recent data
+out of Diego Bohorquez's
+lab at Duke University
+that the neurons that
+live in the gut mucose
+of these neuro pod cells
+can actually distinguish
+between artificial and true sweet...
+Sugar versus artificial sweeteners.
+They send different
+patterns of neural signals
+up to the brain, and the brain circuitry
+seems strongly impacted.
+So I think that as the data emerge,
+we're hearing more and more of
+these artificial sweeteners.
+Either are problematic
+or at least are signaling
+different events in the gut.
+I do want to make sure that we distinguish
+artificial sweeteners
+from non-caloric plant-based sweeteners.
+- Yeah.
+- And this is based
+on a mistake that I've
+made over and over again
+on the podcast where
+I'll just kind of lump
+artificial sweeten into one big category,
+and then I'll mention stevia.
+So what about plant-based sweeteners
+that are not artificial,
+they weren't manufactured in a laboratory,
+like saccharin or sucralose, or aspartame?
+Do we know anything about plant-based,
+non caloric sweeteners or
+low caloric sweeteners?
+- Very little.
+A lot of those have a lot
+more bang for the buck.
+They're incredibly sweet,
+so it takes a really small amount for them
+to trigger a huge amount of sweetness.
+And so it's, depending upon
+the mechanism of action
+by which these sweeteners
+that are not sugar
+are impacting our biology.
+It may be that those are
+actually less negative
+or more healthy than the
+ones that are artificial,
+just because it requires
+less of them in the food
+for us to perceive that sweet taste.
+It may also be that because they're...
+I don't think that everything
+is that's natural is better,
+necessarily than things
+that are artificial,
+but it may be that because of
+kind of evolutionary exposure
+to these compounds in our diet,
+historically there are, I think,
+traditional populations that
+use these, for instance,
+to sweeten different foods,
+that our bodies just know
+how to deal with those compounds better
+than the ones that are synthetic.
+But I think the studies
+still need to be done.
+- Do you actively avoid
+artificial sweeteners?
+Sucralose, aspartame, saccharin?
+You personally.
+- Yeah.
+So I do, I avoid them, but I'm not...
+So I work closely with my
+wife, Erica, as you know.
+We were in the lab together
+and we wrote this book,
+"The Good Gut," where we
+kind of document our journey
+in changing our lifestyle,
+dietary habits, choices we make
+based on the research as
+we've gotten to know it
+in the gut microbiota
+over the past 15 years.
+And I think that one of the
+lessons that we've learned
+is that just doing things in moderation
+makes it a lot easier,
+and doing things slowly
+makes it a lot easier.
+So there are very few rules that I have
+that are hard and fast.
+I'm a pretty flexible eater.
+I don't believe that having a diet Coke
+will somehow cascade into
+some terrible disease
+or something like that.
+I try to avoid them, I don't
+really like the flavor of them.
+I'm super sensitive to
+the nuances of the flavor,
+even with the stevia and mogrosides
+from monk fruit and stuff like that.
+The off flavors are really
+hard for me to deal with.
+But also in this journey
+of changing our diet...
+Like when we started off
+in microbiome research,
+I was in the habit of in the
+afternoons having a sweet,
+a muffin or a cookie,
+or something like that.
+And when we started to realize
+that we should be eating
+less sweets and eating more dietary fiber,
+this was an incredibly
+difficult change for me to make.
+I was just wired to kind of crave this-
+- Classic scientist.
+Scientists love the pastry in
+the afternoon and the coffee.
+- Yeah, yeah.
+- And in the old days
+it used to be a cigarette too.
+- Right, exactly.
+- When I started my training,
+a lot of people still smoked
+- Yeah, right.
+- And it was only during
+my post-doctoral training
+that they eliminate smoking on campuses,
+and productivity took
+a trough for a while,
+until these people developed other tools
+to focus their attention.
+- Exactly, exactly.
+So there is this kind of need,
+and then once you have
+an ingrained behavior,
+and maybe things that are addictive,
+it becomes incredibly
+difficult to break that habit.
+And so I would say, gradually
+over the course of like,
+five or more years, we
+have migrated our diet
+away from sweet foods to
+things that are less sweet.
+And it's been a journey,
+it's been a slow process,
+but we've gotten to the point now
+where we've just retrained our pallets.
+And it's amazing how this happens now,
+where I'll have something
+that is something
+that I would've used to have like daily.
+And it's unpalatable.
+I just can't deal with
+the sweetness of it.
+And I certainly avoid
+artificial sweeteners,
+but I also avoid just
+sweet things in general
+that have sugar in them,
+just because they now,
+was originally, I was
+trying to be disciplined
+and trying to change my diet,
+but now they just don't taste good to me.
+- Yeah, likewise,
+I completely lost my appetite for sugar
+at the turn of the last year,
+and I don't know how to
+explain it, but the way I...
+Even though I don't have
+a mechanistic explanation,
+I say I like sweet people, I
+don't like sweet food anymore.
+I just don't.
+I have not lost my
+appetite for fatty foods.
+I love cheese and certain meats for me,
+I blame my Argentine lineage is,
+is I gravitate towards them.
+But in any case, avoiding processed foods,
+probably avoiding sugars, emulsifiers,
+these kinds of things.
+And for people listening or watching,
+we're not setting up strict guidelines.
+We're just bouncing around the carnival
+that is the microbiome and nutrition,
+because I think that we
+hear this everywhere,
+eat this, don't eat that, or
+this is best for microbiome,
+or worse for microbiome.
+But I'm hearing fiber again and again,
+so we're going to come back to fiber,
+but I want to make sure
+that we close the hatch
+on this issue of fasting and cleansing.
+Based on your answer
+earlier, it sounds to me like
+it is not necessary to
+do a cleanse or fast
+prior to an attempt to
+repopulate the microbiome.
+In other words, if I want to
+make my microbiome healthier,
+it sounds like I don't
+have to try and flush
+all the current microbiota
+out of there first,
+is that correct?
+- Yeah, it's a very good question,
+and I don't mean to
+suggest that those things
+are known to be terrible.
+Or I would just say, the
+studies haven't been done.
+And to me, wiping out
+this microbial community,
+unless it's done with some sort of...
+Unless it's done in an informed way,
+and we don't really have the information
+for how that would be done.
+It just seems like playing
+the lottery a little bit.
+- Okay.
+- And so I think...
+I don't want to say that those are...
+It may be that when the study is done,
+those are shown to be amazing,
+but I just don't think we have
+the data to know that yet.
+So it's somewhat of an arbitrary thing.
+If somebody out there feels
+way better when they do this,
+and are not experiencing problems with it,
+then maybe it's the right thing for them.
+But I certainly can't say that
+it's something great to do.
+I can't imagine a future
+where as the microbiome
+gets incorporated into
+this emerging paradigm
+of precision health, you go into a clinic,
+somebody types your microbiome and says,
+oh, there's this huge,
+massive misconfiguration.
+You have all these engrafted bacteria
+that are residents in your gut microbiome
+that are sending out molecules
+that are not good for your health.
+It would be good if we do
+a mass-reprogramming of it.
+The way that we do that
+is we flush your gut,
+and we actually give a
+light antibiotic treatment
+to try to kill everything that's there.
+And then we repopulate
+with this other consortium
+of microbes that we've
+studied and know are healthy,
+know are compatible
+with your human genome,
+and can be reinforced with a diet
+that we know is good for you.
+We'll install those microbes,
+we'll help you along
+in the diet so you know
+how to nourish those microbes,
+and that will be the way
+that will reconfigure
+your gut microbiome.
+So I can't imagine a future
+where that sort of flushing,
+or cleansing is part of something
+for repopulating the gut.
+But right now it seems a
+little half-baked to me.
+Yeah.
+- Great.
+I'd love to talk about
+fiber and fermented foods,
+because you and Chris had a really,
+what I think is a really
+interesting and exciting paper
+at the end of last year about
+comparing the inflammatome,
+so inflammatory markers of people who ate
+a certain amount of fiber,
+or a certain amount of
+these fermented foods.
+This study is amazing for several reasons,
+but almost as amazing as how diverse
+the interpretation of this
+study was in the media.
+If ever there was a study
+that was kind of hijacked
+by different priority schemes out there-
+- Yeah.
+- It's this study.
+So you performed the study with Chris,
+and your postdocs, and
+graduate students and staff.
+What are the major conclusions
+and what sorts of directives,
+if any, emerged from this study?
+And I'll just preface
+this again by saying,
+if I wasn't clear, some news report said,
+"Ah, this means fiber is not important."
+- Yeah.
+- And then others said,
+this means fermented foods
+and fiber are important.
+And others said, fermented
+foods are the thing,
+and the only thing.
+It was all over the place.
+- Yep.
+- And one of the reasons for
+doing this podcast at all
+is so that we can go straight
+to the people who perform the work.
+- Fantastic.
+- And even though
+I'm certainly not an expert in microbiome,
+to give you the opportunity
+to share with me,
+and me to ask the kinds
+of questions that have...
+I have zero agenda.
+I do like sauerkraut, I do
+drink the occasional kombucha.
+I do like low sugar, not so
+sweet forms of fermented foods.
+So I would be delighted if
+fermented foods are good for me,
+but I have no stake in the
+fermented and food industry.
+- Yeah, absolutely.
+- Yeah.
+- Yeah, yeah. Great.
+Yeah, wonderful, and
+an important note there
+is the one you pointed out,
+that this is an incredible collaboration
+with Christopher Gardner's lab,
+and a bunch of people.
+Erica Sonnenburg helped lead
+this study, and then tons of,
+like you were saying, postdoc staff
+and other people at Stanford,
+and then wonderful participants
+that were part of this study.
+So a huge team effort.
+Let me tell you, before
+I dive into that study,
+let me take a step back,
+because I think the reason
+that we did this study, and
+kind of Christopher's group,
+and our group has started
+to pursue this line
+of looking at dietary interventions
+and how they impact our microbiome,
+how they impact human biology,
+goes back to this kind of
+epiphany that we we had
+while studying the gut microbiome.
+Because I think when we started
+studying it at Stanford,
+we were thinking about it as this
+kind of newly appreciated
+aspect of our biology,
+almost like finding an organ
+that we didn't know was there,
+and starting to think about
+like all the drug targets
+that were there.
+Can we go in with small molecule drugs,
+and think of ways to
+manipulate this community
+to ameliorate disease?
+And this is largely the
+mindset of Western medicine,
+and largely born out of the
+era of infectious disease.
+You wait for an infection to
+start a bacterial infection,
+you treat with antibiotics,
+and that's the way medicine is practiced,
+and that's become less
+successful over time,
+as we've moved into this
+era of inflammatory,
+Western diseases, and with the exception
+of the current pandemic
+that's sweeping the world,
+largely moved out of the
+era of infectious diseases,
+at least infectious bacterial diseases,
+that this paradigm of waiting
+for diseases to appear,
+and come into the clinic is
+not really very effective
+in the context of
+inflammatory, Western diseases,
+autoimmune diseases, metabolic syndrome,
+heart diseases, and inflammatory disease.
+The list goes on and on.
+And so we started to
+think a lot about like,
+how can we get out in front of this?
+How can we think about preventative ways
+of dealing with this crisis of metabolic
+and inflammatory diseases?
+And this tremendous,
+beautiful body of literature
+started to come forward in
+the field about 10 years ago
+that showed that the gut
+microbiome is absolutely critical
+to modulating our immune status.
+So if you change the microbiome,
+you can fundamentally change
+how the immune system operates.
+And we know that the immune system
+is at the basis of a lot of these disease,
+inflammatory, chronic diseases.
+And so it brought up this
+possibility that maybe the fact
+that we're not nourishing
+this community well enough,
+maybe the fact that it's
+deteriorated over time
+due to all of the things that go along
+with an industrialized lifestyle,
+antibiotics and so forth.
+Maybe we have a microbiome right now
+in the industrialized
+world that is setting
+our immune system at a set
+point, simmering inflammation
+that's driving us towards
+these inflammatory diseases.
+And wouldn't it be wonderful
+if we could figure out how to
+use diet specifically, but
+just kind of learn the rules
+of how to reconfigure both the composition
+and function of our gut microbiome,
+so that inflammation was
+different in our bodies,
+so that each one of us was less likely
+to go on and to develop
+an inflammatory disease,
+leading to better longevity and health
+over the course of our life.
+And so we were studying this
+in actually in mouse models,
+and realizing that we really needed
+to start doing human studies.
+We needed to start studying
+microbiome in humans,
+and because we were studying diet,
+we knew that this was
+something we could go in
+and do right away.
+We didn't have to apply
+for FDA approval for a drug
+before we could do a human study,
+we could just start doing
+human dietary interventions,
+longitudinally monitoring
+the immune system,
+and the microbiome, and starting
+to put the pieces together
+of what is it in diet that can change
+our microbiome in a healthy way,
+help us define what a
+healthy microbiome is,
+and monitor the immune
+system in great detail.
+And so there were really two
+critical components of this,
+in addition to our microbiome expertise.
+One was Christopher Gardner's group.
+We wanted to do these human studies,
+but we're absolutely terrified of humans.
+We work with mice. Humans
+are terrifying in many ways.
+- But they house themselves,
+you don't have to pay-
+- That's true.
+- You don't have to pay
+for their housing.
+- That's true.
+- For those that can afford
+housing, of course, yeah.
+- Yeah, sadly, just for that
+portion of the population.
+So Christopher's group were,
+they were our masters at
+working with human populations.
+And then the other wonderful
+thing that we have at Stanford
+is this Human Immune Monitoring Center
+run by Mark Davis and Holden Maecker.
+They started this beautiful
+center for allowing people
+to do immunology in humans.
+Critical element, because
+a lot of the mouse studies
+don't translate well to humans.
+So if you can do the studies in humans,
+similar to how we were
+thinking about the microbiome,
+you learn something that you
+know is relevant to humans.
+And so having that immune
+profiling capability
+where we can monitor hundreds to thousands
+of different parameters
+in the immune system,
+longitudinally in people,
+from a blood draw,
+and not just know if CRP
+goes up or if interleukin-6
+goes up or down, but to be
+able to see all these facets
+of the immune system change in concert,
+as we're changing the microbiome with diet
+was really a key component of this.
+And so our flagship study,
+supported by wonderful donors.
+So this actually isn't
+funded by typical foundations
+and national institutes of health,
+it was funded by philanthropy.
+We wanted to understand if we put people
+on a high fiber diet,
+how would that affect their
+microbiome immune system?
+And if we put them on a high food diet,
+a diet rich in live microbes
+and all the metabolites
+that are present from
+fermentation and foods,
+how would that change
+microbiome in immune system?
+- Could you give us some examples
+of what those diets look like?
+And were you changing their basal diet,
+or were you just adding things on top
+of what they were already eating?
+'Cause it's hard to change people's diets.
+- It's very hard.
+- And then you have to trust
+that they actually do it and
+they're not sneaking, and-
+- Totally, yeah.
+We started this center for
+human microbiome studies
+at Stanford for doing
+a lot of these studies,
+and a portion of the studies,
+we do focus on supplements,
+probiotics, microbes
+delivered in pill form.
+Prebiotics, which are
+purified forms of fiber.
+And in those cases, we actually
+can have placebo groups,
+because it's more like a drug study,
+and we don't change people's diets.
+So we can just administer this
+on top of what they're doing.
+So in a way, they're
+a lot more controlled,
+but it's not food.
+When you start doing food studies,
+you can't do a placebo group,
+'cause people know what they're eating.
+And the other problem is that
+it's really hard to just change one thing,
+because as soon as you
+start adding something,
+people usually eliminate something else.
+So the idea was to
+basically give these people
+simple instructions for in the
+case of the high fiber diet,
+just increasing plant-based fiber.
+So can you eat more whole
+grains, more legumes,
+more vegetables, nuts, get
+the fiber up in the range of,
+from 15 to 20 grams per day,
+up to over 40 grams per day.
+So can you double or more the amount
+of fiber that you eat per day,
+knowing that that would
+have a tremendous impact
+on a lot of other facets of their diet.
+They eat less meat, animal-based protein,
+less animal-based fats
+as a product of this.
+I will say that getting
+back to Christopher's rule
+for a healthy diet, a lot of
+the macro nutrient changes
+that we saw in their diet were consistent
+with healthy changes in diet.
+Less saturated fat, less
+animal-based protein,
+more plant-based protein.
+So a lot of changes that are known
+to be beneficial came in concert
+with just telling people,
+eat a high fiber diet, high
+plant-based fiber diet.
+The people that were eating
+the high fermented food diet,
+they were instructed to basically eat
+foods that you could
+buy at a grocery store
+that were naturally fermented
+and contain live microbes.
+And so this largely
+consisted of yogurt, kefir,
+sauerkraut, kimchi, some
+fermented vegetables,
+brined, fermented vegetables.
+- Pickles.
+- Pickles, things like that.
+One of the things that
+I think is a pitfall
+in choosing fermented foods is,
+you can go down the canned food aisle
+and there's this huge section of pickles,
+and jars that are canned.
+Those are not fermented foods.
+Those are are cucumbers that
+they've put in a acidic acid
+and vinegar to reconstitute
+that fermented flavor,
+but there's no live
+microbes involved in that.
+And even sauerkrauts in
+the canned food aisle,
+even if they were naturally fermented,
+quite often they're not.
+Quite often they're
+just brined in vinegar.
+But even if they are naturally fermented,
+all the microbes are
+killed prior to canning
+or during the process of canning.
+So what we use for this study
+and if you want to have
+live fermented foods
+that contain live microbes,
+you need to buy those
+out of the refrigerated
+section, essentially.
+- And I'm really glad
+you pointed this out,
+because you can find sauerkraut
+on the non-refrigerated shelf,
+that is indeed non fermented.
+A lot of fermented that
+are available in the US
+can be high in sugar.
+So was there any instruction
+as to getting people
+to make sure that they
+were consuming yogurts
+that weren't loaded with sugar?
+- Yep.
+- Or did you let them just
+select for the stuff in the
+cold section that is fermented?
+- No, super important point.
+We instructed people to
+eat non-sweetened yogurts.
+I think a huge pitfall in this
+area is you can have a yogurt
+loaded with bacteria, kind of
+the base of what's healthy,
+and then a ton of like
+artificial flavoring
+and sugar loaded on top of that.
+Manufacturers put a ton
+of sugar in after the fact
+to kind of mask the sour
+taste fermented foods,
+which is hard for some people
+to become accustomed to.
+When we were switching
+to more fermented foods,
+our daughters were young at that point,
+we would take plain yogurt,
+which they didn't like just neat,
+we would mix in a little
+maple syrup or honey,
+just a little bit, and
+gradually we would reduced that
+over time to the point where
+they're pallet adjusted,
+and now they just really
+like plain yogurt.
+But it is, I think, getting
+used to that sour flavor
+is difficult, but people
+really should try to stay away
+from those fermented foods
+that are loaded with sugar.
+And that's what we instructed
+people in this study.
+- And beer was not included.
+- Right.
+- The number of people
+that asked, when I did a
+brief thing on social media
+about this study, and
+hopefully I got it right.
+I think I did.
+But people just ask about beer.
+I'm not a drinker, so for me,
+beer has no appeal anyway.
+But beer is fermented, correct?
+But were they instructed to
+avoid beer or to drink beer?
+- Just to go with their
+normal dietary habits,
+but that did not count
+as a fermented food.
+- And kombucha was, as I recall-
+- Kombucha was, and kombucha can have
+small amounts of alcohol in it.
+Yeah, kombucha actually
+was one of the major things
+that people drank during,
+or consumed during the
+fermented food phase.
+And the deal with beer
+is that there may be beneficial properties
+of the microbial communities
+in naturally fermented beer,
+but most of the beer that we buy, again,
+is canned and filtered, and
+there's no live microbes there.
+So very different than
+if you siphon it off
+of your home brew and drink it, probably,
+than if you buy it in a store.
+- I will get to the results of
+the study in just one moment.
+But I want to say, a
+lot of people shy away
+from the high quality fermented foods,
+because they can be quite costly.
+And I'll just refer people to a resource
+in Tim Ferriss's book, "The 4-Hour Chef,"
+he actually gives an excellent recipe
+for making your own sauerkraut,
+which basically involves
+cabbage and water and salt,
+but you have to do it properly,
+because you can grow some,
+not necessarily lethal,
+but some somewhat dangerous bacteria
+if you don't scrape off
+the top layer properly,
+but he gives beautiful instructions
+for how to do this in vats.
+We've started doing this
+at home now, actually,
+is we got a, just ceramic vat.
+And you can make large amounts
+of truly fermented sauerkraut
+just from cabbage water and salt,
+if you're willing to follow the protocol.
+And if you're interested in science,
+that protocol looks a
+lot like what you'll do
+for most of your graduate career,
+except maybe some sequencing too.
+So anyway, just to
+refer people to a source
+that's very low cost.
+- Yeah.
+- Compared to buying
+the high quality, fermented foods.
+Even kombuchas, for some
+people, it's like $5 a bottle-
+- Totally.
+- Only this much.
+And if you consume liquids
+the way I consume them,
+that's just the the start, so-
+- Yeah.
+But if you can get your hands on a SCOBY,
+kombucha is another one
+that's super simple.
+- You can grow your own.
+- You can just make your own,
+and it's super easy to do.
+I make it, I constantly have a batch
+of kombucha going at home.
+It's a SCOBY, a symbiotic
+community of bacteria and yeast.
+You brew tea, you add sugar to
+it, and you put the SCOBY in,
+and you wait a week or two,
+depending upon the temperature,
+and then you just move the
+SCOBY or over to a new batch,
+and you your old, what the
+SCOBY was in is kombucha,
+and it's wonderful.
+- I love it, I would love it
+if members of this audience
+would start to make their
+own kombucha and sauerkraut.
+I've been having so much fun.
+I don't do it, but it's done in our home.
+I don't go anywhere near
+the food production,
+and it's for everyone's benefit.
+So how much fermented
+food were they consuming?
+'Cause you mentioned the number
+of grams approximately of fiber,
+but was it in servings, ounces?
+How many times a day? Early day, late day?
+- Right, yeah.
+So we had a wonderful dietician
+instructing people for this,
+and her name's Dalia Perelman,
+and she really was the key and is the key
+for many of our studies
+for getting people to eat differently.
+And the general instructions
+were for people to eat
+as much fermented foods as
+possible, more is better.
+And the reason is that
+with this initial study,
+we really wanted to maximize our chance
+of seeing a signal if there was
+something biological going on,
+with the idea that if
+the dose was excessive
+and not easily achievable by
+a lot of people in the end,
+we can go back and and say, okay,
+this is the point at which we
+lose the biological signal.
+But people during the height
+of the intervention phase,
+the intervention phase was six weeks,
+during the height of that,
+were up over six servings, on average,
+per day of fermented foods.
+So kind of two servings at each meal.
+And the ounces or weight or size,
+it really depended on what
+the fermented food was.
+And we just told them to stick
+to what was a recommended
+dose on the package
+that they were buying,
+For kombucha, it'd be like
+a six to eight ounce glass.
+Sauerkraut like a half cup,
+or something like that,
+and same with yogurt.
+- Great. So what were the results?
+- Yeah, so the results
+astounded us in a way,
+but then thinking more deeply,
+and it'll be evident
+even after I explain it
+in the context of this conversation,
+likely why we saw the results we saw.
+The results were astounding
+because our hypothesis
+going into this was
+that the high fiber diet
+was going to give the massive signal.
+We know that this is the big
+deficiency in the Western diet.
+All the mouse studies have
+told us that high fiber
+really leads to a much
+healthier microbiota,
+it can lead to positive
+changes in the immune system.
+And in fact, even when we had a limited...
+We had wonderful donor support,
+but still a limited amount of money
+when we started this study.
+My lab was really very
+eager to do the high fiber
+part of this really well,
+and Christopher kind of
+had to twist our arms
+to do the fermented food side of it.
+And we thought it was
+kind of quirky and neat,
+live microbes should be
+exciting, let's try it.
+So we put that in and it turns out
+that we were very thankful
+that he twisted our arms,
+because it was that
+high fermented food arm
+that really gave us the big signal.
+Even though our hypothesis
+was that the high fiber
+was going to lead to more short-chain
+fatty acids produced in the
+gut, more diverse microbiota,
+less inflammation in the immune system,
+we didn't see that across the cohort.
+We actually saw very
+individualized responses
+to the dietary fiber,
+and I'll come back to
+what those responses were.
+The big signal really was
+in the fermented food group.
+We saw all the things
+that you would hope to see
+in a Western microbiota in western human.
+We saw this increase
+in microbiota diversity
+over the course of the six weeks
+while they were consuming
+the fermented foods.
+And we can't always say that
+higher diversity is better
+when it comes to our
+microbial communities.
+We know there are cases for
+instance, bacterial vaginosis,
+where higher diversity is actually
+indicative of a disease state,
+but we know in the context of the gut,
+and for people living in
+the industrialized world,
+higher diversity is generally better.
+We know that there's a
+spectrum of diversity.
+People with higher diversity
+generally are healthier.
+If you can push your diversity higher,
+you're in better shape.
+And so we saw that increase in diversity.
+And then the major question is,
+what happened to the immune system
+as these people were increasing
+their gut microbiota diversity
+through the fermented foods?
+So we did this massive immune profiling,
+and we see a couple dozen immune markers,
+inflammatory markers decrease
+over the course of the study.
+So we measured these
+at multiple time points
+throughout the course of the study,
+and there's kind of this
+set stepwise reduction
+in things like interleukin-6,
+and interleukin-12,
+a variety of famous
+inflammatory mediators.
+And then even if you go
+into the immune cells
+and you start looking at
+their signaling cascades,
+we see that those signaling
+cascades are less activated
+at the end of the study compared
+to the beginning of the study,
+indicating in attenuation of inflammation.
+So kind of exactly what
+we would hypothesize
+would lead to less propensity
+for inflammatory disease over time.
+That's a huge extension
+of a very short study and-
+- How long was this study again?
+- So the complete protocol
+I think was 14 to 17 weeks,
+or something like that.
+The actual intervention phase
+consisted of a four week ramp
+and then a six week maintenance period.
+So the intervention itself was 10 weeks,
+but there were six weeks
+of really kind of hardcore,
+high levels of fiber or fermented foods.
+- Yeah, and I'm glad
+you mentioned the ramp,
+'cause my experience with
+fermented foods is that you,
+it can be beneficial to give the system
+an opportunity to act acclimate.
+I mean, if you consume a
+giant bowl of sauerkraut,
+it's not going to be the worst
+day and night of your life,
+but you'll know you did.
+- Totally.
+- We'll just leave it at that.
+And so you want to kind
+of acclimate to it.
+- Absolutely.
+- I'm at the point now where,
+some people might think this is gross,
+but after I exercise,
+I've been sweating a lot,
+I like the saltiness of the...
+I actually drink the
+liquid that the sauerkraut
+has been stewing in, and I get,
+I like to think that I consume
+some fermentation that way,
+it's salty, it as kind of a
+post-training replenishment.
+But if I had done that six
+months ago, straight off,
+I think it would've been
+pretty rough on my system.
+I started taking little bits of it
+and then adding it each day.
+- Totally, and so both
+with the fermented foods
+and the fiber, it's well known
+that this kind of gradual ramping
+is a really important way
+of mitigating bloating,
+and other digestive
+discomfort that can happen
+when your microbiome reconfigures
+and starts fermenting more,
+and changing community members.
+So you should take that
+ramp at your own pace.
+If something seems to be going wrong,
+just kind of level off, stay there.
+We did this in a very delicate way
+to get people up to the high dose.
+The brine, just a tangent
+here for a second,
+that was actually one of the products
+that we had people use in
+the fermented food phase.
+There's actually a
+product called Gut Shots,
+which is just bring that they've marketed.
+We actually are now
+studying it in the lab.
+I just actually, before
+this came from a lab meeting
+where a GI fellow in my lab
+is actually putting Gut Shots,
+sterilized gut microbe, or the
+fermentation microbes removed
+or present into mice
+and looking at changes
+in their mucosal immune system.
+So we're studying this in detail now,
+because it's a rich source of lactate
+and a bunch of other
+interesting metabolites.
+- I love that my weird behavior
+is inadvertently being
+studied at Stanford Medicine.
+I want to just mention
+something about the Gut Shots.
+Those are sold as a drink.
+Those also, just for certain
+listeners in different budgets,
+they can be very expensive
+if you really think about...
+Some of them are exceedingly expensive.
+But what I described before
+with making your own kombuchas,
+it's not quite brining, but
+the homemade sour sauerkraut,
+that protocol is out there, as I mentioned
+in Tim's book, "The 4-Hour Chef."
+And you get a lot of
+the brining from that,
+an almost endless amount.
+A cautionary note, I once
+went into the refrigerator
+and saw something similar to
+Gut Shot, it wasn't Gut Shot.
+And I drank the whole 12 ounce bottle,
+and realized that it was 24 servings.
+And that's where I got
+my initial experience
+with what it is to not do a ramp up phase.
+- Yeah.
+I do not recommend
+doing that.
+Some of these, it's very potent, it seems,
+and you can consume even a
+half an ounce or an ounce.
+- Yeah, I mean, very
+potent from the standpoint
+of fermentation, but also very salty.
+So there's a lot of effects that can....
+Yeah.
+- Yeah, don't do what I do,
+- Yeah.
+- At least not at the outset.
+So that is an experienced warning.
+So they did this, as I recall,
+there was a swap condition or
+there was a halt condition.
+So you did controls, right?
+It wasn't just comparing groups.
+You had individuals in who
+were initially in one group
+or the other moved to a
+different group, correct?
+Or to stop and then return.
+- Yeah, we actually just did a stop
+and followed them during a washout phase.
+And the ideal situation for
+dietary interventions like this
+are to do crossover studies,
+as you're suggesting.
+We've recently completed a ketogenic
+versus Mediterranean diet intervention-
+- Are those data published yet?
+- Not yet, but Christopher's been Tweeting
+a lot of these data and
+there's a paper in revision right now.
+So if you go to Christopher
+Gardner's Twitter feed,
+you'll be able to find him reporting
+some of the early results of this study.
+- Can you give us a snippet
+of, was there a superior...
+Just give us a, you don't
+have to tell us which one,
+but was there a superior condition
+of either Mediterranean versus ketogenic?
+- So the metabolic effects of
+these, it's a beautiful study.
+I should let his group comment on that.
+The microbiota data we actually
+are just generating now.
+So the study that his group
+has put together from this
+is largely independent
+of the microbiota data.
+- Right.
+- And now we're doing
+a more in depth analysis,
+and I'll have more to say
+about that the future.
+- We'll return to that, yeah.
+- But it's a super exciting study,
+because it is one of these
+where people eat a certain way.
+And what's really beautiful about this
+is we even got food delivered
+for part of the intervention.
+So we had complete control
+over what they at least
+had available to eat.
+And then the second phase,
+they make the food on their own.
+And then we cross over
+and do the same thing.
+And so that's really like,
+if you have a good enough budget,
+the right way to do a study like this.
+For this, we didn't have the time or money
+to do a crossover, but
+we did do a washout phase
+where people, we didn't make
+them stop eating, whatever,
+if they were enjoying
+it, but we monitored.
+And there was some recidivism
+where there was a decrease
+in fiber fermented food.
+And we could see, for instance,
+diversity start to plateau and reverse
+in many of these people.
+So there does appear to
+be a need for maintenance
+of the intervention to maintain
+the perceived health benefits
+that we were measuring.
+- Great.
+We will provide a link to
+the study in the caption,
+and thank you for that very
+clear and thorough description,
+from one of the investigators
+involved in the study.
+It's great to go direct to the source.
+Anecdotally, were there movements in mood,
+in resistance to colds and infection
+during the course of the study?
+And this is kind of a prelude
+to where I'm headed next,
+which is there is a
+tremendous amount of interest
+in the so-called gut-brain axis.
+But also I want to make
+sure that we talk about
+how these microbes and the
+conditions they're establishing
+in the gut are creating positive
+or negative health effects.
+I mean, basically how
+signals get out of the gut.
+- Totally. Yeah.
+- So I certainly notice
+that when I'm eating
+more fermented foods,
+or there's probiotics
+in drinks I consume and so forth,
+that I feel quote, unquote, air quotes,
+completely subjective, I feel better.
+- Yeah.
+- I wish there was an objective
+measure of feeling better.
+But I seem to think more
+clearly, sleep better,
+mood, et cetera, and I
+know I'm not alone in that.
+And any time I've taken harsh
+antibiotics, I feel worse,
+but then again, I'm usually taking them
+because I'm feeling bad
+about something else, right?
+I don't take them just because.
+So did people say they were
+feeling better in any way?
+And if so, what did you have observe?
+And again, we're highlighting
+these as anecdata.
+- Yeah, totally.
+We, as part of this effort to look at
+how dietary interventions
+affect our health and wellbeing,
+and so forth, and
+microbiome immune system,
+we interact with a lot of
+people who have read our book,
+or kind of have become
+microbiome enthusiasts.
+And have implemented
+a lot of these changes
+in their personal life.
+And I hear the same thing
+that you're saying, Andrew,
+that tons of people say
+they have more energy.
+They think more clearly,
+they sleep better,
+their family is nicer to each other,
+like the number of crazy things.
+And it's really hard to uncouple, like,
+is this because these
+people have taken charge now
+of what they're eating and
+just feel better in general
+for being in control
+of what they're doing,
+or is there this cascading set of effects
+that are actually impacting our...
+Kind of emanating from the gut-brain axis.
+And so we actually implemented
+a bunch of questionnaires
+and even a cognitive test to
+try to get at some of this.
+And I should say, the list
+of this goes on and on.
+There are people who claim
+that their complexion improves,
+and that their allergies...
+And there's probably all
+sorts of ripple effects.
+If you can affect your inflammation,
+we know that you can
+affect your cognition,
+we know that you can affect your skin
+and inflammation that's
+occurring on your skin.
+So I really think that there is a basis
+for a lot of those anecdotes.
+It may just be hard to
+see in a short study
+and in a small cohort of people
+over a short period of time,
+but we didn't really
+see significant things
+associated with cognition and
+moods and all of the things
+that we were testing for which, yeah,
+there could be a variety
+of explanations for that.
+We also have a standardized
+stool measure that people use,
+and there was less constipation,
+better bowel movements over the course
+of both of these interventions.
+So it did seem like bowel habits improved,
+which a lot of times can
+lead to better moods,
+but that we weren't able to measure.
+- That the classic psychoanalyst
+would have a few field day with that.
+What sorts of interesting
+things did you observe
+in the fiber group?
+Because it's clear that that group yielded
+some unexpected findings
+in both directions.
+Things you expected to see, you didn't see
+to the same amplitude as you did
+in the fermented food group,
+but I'm guessing you also saw
+some very interesting things
+in the fiber group.
+- Totally, yeah.
+So we started looking at
+the data in more detail
+when we didn't see the
+cohort-wide response.
+And one of the things we
+observed is that in measuring
+all these immune parameters,
+there appeared to be
+three different groups
+of immune responses that we were seeing.
+One group that got
+overall less inflammatory,
+and then two other groups that
+kind of had a mixed result,
+partly more inflammatory,
+partly less inflammatory
+in all these markers
+that we were looking at.
+And when we started digging
+into like, what aspect
+of the biology of those people
+dictated or predicted
+which group they fell into,
+the really interesting part is the people
+with highest diversity gut
+microbiomes to start the study
+were the ones that were
+most likely to have
+the decreases in inflammation.
+And so data seemed to be
+telling us that if you start off
+with a diverse microbiota,
+maybe one that's better equipped
+to degrade a wide
+variety of dietary fiber,
+you're more likely to
+respond positively to it.
+If you have a very
+depleted gut microbiome,
+you're not as likely to
+be able to respond to it.
+And thinking back to that
+experiment that we talked about
+before with the multi-generational loss
+of fiber-fermenting microbes in mice
+that were fed a Western diet,
+it may be that many of us
+in the industrialized world
+have a microbiome that's so depleted now,
+that even if we consume a high fiber diet,
+at least for a short period of time,
+we don't have the right
+microbes in our gut
+to degrade that fiber.
+And this has actually been
+observed by other groups,
+beautiful study out of
+University of Minnesota,
+looking at immigrants,
+coming to the United States.
+And within nine months,
+but certainly over the course of years,
+immigrants that come here lose
+a lot of the diversity
+in their gut microbiome,
+but a lot of the fiber-degrading capacity
+in their gut microbiome too.
+So it could be that over time,
+this becomes a one way street,
+and it's hard for us to recover microbes
+that actually can degrade the fiber.
+And I think that this probably intersects
+with sanitation in our environment,
+and the fact that we don't have access
+to new microbes that might
+help us degrade the fiber.
+That we actually have lost these microbes,
+and they're in some ways irrecoverable
+without deliberate reintroduction
+of fiber-degrading microbes.
+- I can recall from childhood,
+there were kids that would eat dirt.
+- Yeah.
+- And snails and stuff.
+That just sounds totally disgusting,
+bu kids covered with mud
+maybe not so much anymore.
+And certainly during the pandemic,
+there's been and a lot more
+use of these hand sanitizers,
+that prior to that, people
+seemed pretty spooked about,
+but then obviously they prioritized them.
+Well, you have children.
+Do you encourage them to...
+When they were young, did you
+encourage them to interact
+with pets and dirt and-
+- Absolutely, yeah.
+- Stuff in the environment,
+provided that stuff
+wasn't immediately toxic?
+- Exactly. So this is really...
+It's a continual cost-benefit
+analysis, I think.
+I will say that with the pandemic now,
+and certainly just with
+infectious diseases in general,
+it's really important to
+be aware of the possibility
+for compromising your health
+through the spread of germs.
+And so that is just, hand
+washing is important,
+and we have to be careful
+with the spread of germs.
+But I do think that the
+sanitization of our environment
+has gone overboard with various things
+being impregnated with antibiotics,
+shopping carts and things
+like that, and toothbrushes.
+It's like antibiotics
+and things for killing
+microbes are everywhere.
+And when we were raising...
+When our daughters were young
+and we were making these decisions,
+the calculations that we
+would make were really one,
+how likely are they to encounter
+a disease-causing microbe?
+If we've been out on a
+hike or in our garden,
+just kind of working in
+the dirt or whatever,
+maybe it's not as important
+to wash your hands
+before you have lunch,
+even if there's a little
+bit of dirt on them.
+If they've been in a public playground
+where maybe other kids with germs,
+or maybe even chemicals like pesticides
+and herbicides that are being used,
+maybe it's more important
+than to wash your hands.
+Certainly if you've been
+in the grocery store
+or on the subway, probably a
+good idea to wash your hands.
+So I think you really need to think
+about kind of the context of it.
+Exposure to microbes from the environment
+is likely an important part of
+educating our immune system,
+and keeping the proper balance
+in our immune system.
+And it's just a matter of figuring out
+the right way to do that safely.
+And it may be the fermented
+food result that we saw
+is a way of tapping into
+those same pathways,
+kind of an environmental
+exposure to microbes that's safe.
+- Interesting.
+I'd like to touch on how signals get
+from the gut to the rest of the body.
+And we probably don't have time to go
+into all the systems that benefit
+from having a diverse microbiome
+or healthy microbiome.
+But we talked about the immune system.
+There's active signaling
+and transport from the gut,
+all along its length, as far as I know,
+into the bloodstream, into
+other organs and tissues.
+So for the immune system,
+it seems straightforward.
+It could reduce the amount or number
+of inflammatory cytokines,
+like IL-6 and so forth,
+maybe increase the
+anti-inflammatory cytokines,
+like IL-10 and others.
+But we know there's a
+gut-brain access of neurons
+that literally talk in both directions
+between brain and gut.
+But let's say I'm eating
+my fermented foods,
+I'm doing all the right things,
+and my gut is diverse and
+I have all the goodies
+at all the right places.
+How is it that fact that
+those microbiota are thriving
+is conveyed to the rest of the body?
+Because they're in
+there doing their thing,
+and I don't know that they have a mind,
+but they're probably not thinking
+of taking care of me, Andrew.
+But I feel better, or I
+might get sick less often,
+or combat any illness more quickly.
+How is that actually happening?
+Is it that the microbiomes
+stay restricted to the gut,
+but the signaling molecules
+are all downstream,
+in a downstream way, are making
+good or bad things happen?
+Or is there some sort
+of direct recognition
+at the body level, or are
+there cells in the body
+that are responding to, ah,
+the gut microbiome is healthy,
+and therefore I can make
+more of the good stuff,
+and less of the bad stuff, so to speak.
+- Yeah, great.
+You're right, it's super complex.
+There's a huge array of ways
+that our body perceives both
+the microbes and the molecules
+that they produce in our gut,
+and the molecules they
+produce are, of course,
+a product of what microbes are there,
+and then what they receive
+as kind of metabolic inputs,
+what we're eating and what other microbes
+are present in the environment,
+providing molecules to them.
+So, it's this complex matrix, but we...
+Probably the simplest place to start
+is just the immune system.
+We have an immune system that,
+the vast majority of
+immune cells in our body
+are located in our gut,
+just because there's
+such a dense population
+of microbes there that have...
+We consider them beneficial microbes,
+but they're only beneficial if they're
+in the right spot in the gut.
+As soon as they mislocalize,
+we know that they can become
+opportunistic pathogens.
+And so the immune system really
+playing an important role
+to keep with them in place
+is essential for this system
+not moving into a disease space.
+The immune system has a variety of ways
+of monitoring what microbes are there.
+They're actually specialized
+to structures in the gut
+known as peyer's patches that
+actually take up microbes.
+They actually allow microbes to transit
+into this population of immune cells
+in a very controlled way,
+so that that set of immune
+cells becomes educated
+as to what microbes are just
+on the other side of the barrier.
+- Wow, kind of like a border patrol.
+- Exactly, yeah.
+So they bring them in,
+they fingerprint them,
+and then have kind of
+this set of responses
+ready to go if needed.
+- [Andrew Huberman] Amazing.
+- There are other cells
+known as dendritic cells,
+special type types that
+actually send long arms,
+these processes out into
+the lumen of the gut,
+and do the same thing, take up microbes,
+bring them back in and sample them.
+In addition to these
+direct sampling mechanisms,
+the cells that line the gut
+have a huge array of receptors,
+specialized proteins,
+that perceive patterns,
+molecular patterns that the microbes make.
+So things like endotoxin
+lipopolysaccharide,
+just the cell wall of the bacteria.
+We have specialized receptors
+that recognize those.
+If those signals become too profound,
+or if they're perceived
+in the wrong place,
+that can stimulate an
+inflammatory response.
+So there's all these ways of
+monitoring the membership,
+and where it is and how close it is.
+But then there's this
+whole other set of ways
+of perceiving metabolic activity,
+and what's happening in the gut.
+And you mentioned before,
+these cell types, that express
+taste receptors in the gut
+and have ways of sampling
+dietary components.
+They're the same types of,
+or analogous cells in our gut
+that are perceiving metabolites
+produced by the microbiota
+so that our bodies can perceive
+what sort of metabolic
+activity is going on.
+And then in addition to that,
+there's this tremendously
+important nervous system
+that's sending signals back to the brain,
+dictating things like motility.
+Do I get rid of what's in here?
+Do I move it along quickly?
+What actually is happening?
+Do I need to interact with immune cells?
+So there's this really complex array
+of interactions between
+the different cell types.
+And then a lot of the
+cells that are in the gut,
+perceiving all of these signals,
+a lot of the immune cells can
+actually get up and leave.
+They can get into the
+blood, cycle through,
+and then home to other regions
+of the mucosal surfaces,
+so that mucosal surfaces
+are educated broadly
+against what's passing through our gut.
+So there's a variety of
+ways of cells communicating,
+and then a lot of the molecules
+that the microbiota makes
+can actually make their way
+into the bloodstream directly.
+And so the array of molecules
+is still being defined,
+we're trying to figure out
+what all these chemicals are.
+We've mentioned the
+short-chain fatty acids,
+but those are just the tip of the iceberg.
+They are really interesting compounds
+like indole derivatives and phenols,
+derived from amino acids,
+metabolized by gut microbes,
+taken up into the bloodstream.
+And then we further metabolize these,
+they become kind of
+co-microbe host metabolites,
+and then they can go on and bind
+to different receptors
+throughout our body,
+anywhere our bloodstream has access to,
+and start to trigger signaling cascades.
+- Is it known whether or
+not any of those molecules
+are small enough to cross
+the blood-brain barrier?
+Because the hypothesis it
+and the current thinking
+is that neurotransmitters
+manufactured in the gut,
+and signaling along the gut-brain axis,
+literally neurons talking
+back and forth electrically
+from brain to gut and gut to brain
+is what regulates things like mood,
+or at least in animal models.
+And there are some emerging human studies,
+improvement of symptoms in
+autism spectrum disorders,
+maybe even in ADHD.
+What I'm basically saying here
+is there is some evidence emerging
+that improving the gut microbiome
+can improve outcomes in psychiatric
+and developmental disorders.
+But what you're telling me is
+that the microbiota themselves
+are manufacturing chemicals
+that can make into the bloodstream.
+And therefore I'm asking
+if those chemicals
+can move from the bloodstream
+into the brain directly.
+It may not be a gut-brain
+axis via neurons.
+It actually could just be seepage
+of serotonin into the brain,
+or acetylcholine into the
+brain for that matter.
+- Totally, yeah.
+The biology of most of these molecules
+is not well understood,
+but certainly in like
+cerebral spinal fluid
+that's been analyzed,
+you can perceive these
+microbial metabolites,
+so they are there.
+- That's the answer, yeah.
+Some of them are getting
+across the barrier.
+- But so a really interesting thing is,
+I think a lot of these molecules are,
+if they're experienced
+at high enough doses,
+are toxic or have toxic properties.
+We know that a lot of these metabolites,
+when they make their way
+into the bloodstream,
+eventually are excreted
+through the kidneys in urine.
+So actually we can monitor the metabolism
+that's going on in your
+gut by actually looking
+at the metabolites that
+are present in your urine,
+because many of those
+originated in your gut,
+from your gut microbes.
+But people with kidney disease,
+whose kidneys' filtering processes
+is not functioning properly,
+actually build up high levels
+of many of these metabolites
+into the bloodstream,
+and that can lead to
+more of these molecules
+making it across the blood-brain barrier.
+And in fact, some of the
+transporters in the kidney
+that are responsible for
+shuttling these molecules
+out into urine, are also
+founded the blood-brain barrier
+for shuttling the molecules
+back into the bloodstream
+if they do get across.
+- Incredible.
+- And we know that mental
+fog one of the big symptoms
+of kidney disease, potentially
+because a lot of these
+metabolites accumulate in blood,
+and then make their way
+across the blood-brain barrier
+into, yeah, the central nervous system.
+- Amazing. I'm glad you
+mentioned mental fog.
+A few years back, there were some reports,
+some scientific reports and
+as a consequence in the media,
+that excessive intake
+of pill-form probiotics
+could create mental fog.
+I don't know if that ever took hold.
+And it raises a general question
+about pill form probiotics.
+I took them for a few years,
+just thinking that would be
+good for my gut microbiome,
+and then I switched to
+the fermented food thing,
+largely there's a consequence of the work
+that you and Chris published.
+But what what's the
+thought about probiotics
+for the typical person
+that's not recovering
+from a round of antibiotics
+or that has been prescribed them?
+I've heard that the species of microbiota
+that they proliferate
+might not be the species
+that we want to proliferate,
+but I've also heard that
+maybe that doesn't matter.
+So what's your general stance?
+They can be quite expensive.
+- Yeah.
+- Also,
+I know I've been talking
+about expense a lot today,
+but I always want to take into account
+that people are showing up to the table
+with a variety of budgets,
+and probiotics are one
+of the more expensive
+supplements out there.
+You can quickly get into the
+several hundreds of dollars
+per month if you're
+getting the quote, unquote,
+best quality ones.
+- Right.
+- And if they're actually
+causing brain fog,
+then I'm not sure I'd want to use them.
+- No, completely.
+And there's a ton of snake oil out there.
+People know that they...
+I think many of these companies are aware
+that they can prey off of people's fears
+and get a lot of money from
+them with absolutely no data
+to back up that their
+probiotic is doing anything.
+So I think the first thing
+to say is buyer beware,
+because it's a supplement
+market, it's largely unregulated.
+And that means that there
+are a lot of bad products out
+there, and a lot of products
+that even though they're
+not intended to be bad,
+just don't have great quality control.
+There have been several
+studies that have taken
+off the over the counter,
+just kind of off the shelf probiotics,
+surveyed what's in there
+based on sequencing
+and shown what is in there
+does not match what's on the label.
+- And that's true of many supplements,
+and unfortunately supplement companies.
+This is something we get
+into on the podcast a lot.
+There are reputable brands and
+they go through a lot of work
+to get things right, and there are many
+that just for whatever reason,
+it just doesn't match what's listed.
+- Exactly, and so there are
+places that probiotic companies
+can send their product to have
+it independently validated.
+So you want to look for that sort
+of validation on a product.
+There also are names that
+are just very well-known,
+and their reputations are on the line,
+so they probably invest a little
+bit more in quality control
+than maybe some of the
+other, lesser-known names.
+But there's a huge range
+of data on probiotics.
+And I think, the thing that
+we kind of recommend is,
+try to find good products and
+then experiment for yourself
+and see if you can find
+something that works for you.
+I know people who have experienced
+constipation and don't
+want to change their diet,
+and have found a probiotic
+that helps them with that.
+If you can find that right mix, great.
+That's wonderful.
+I would say that the data right now
+is not overwhelmingly positive
+for what probiotics do
+to the gut microbiota.
+So there have been some
+nice studies looking
+at the impact of probiotics on recovery
+after antibiotic treatment.
+And it appears to slow down the recovery
+of the mucosal microbiota.
+And some other studies that
+have where the big signal
+isn't seen, as you might hope,
+with a probiotic that's supposed
+to treat a different disease.
+There have been
+metaanalysis that do suggest
+in certain instances, recovery
+from antibiotics that there,
+even though it may cause your microbiome
+to recover more slowly,
+that it may actually
+prevent diarrheal disease,
+recovery from viral diarrheas,
+probiotics may help.
+But because there's such
+a huge range of products,
+and because each person
+is their own little caper
+when it comes to the microbiome,
+it's really hard to know
+whether there are great products
+for a given indication.
+The really good advice that
+I've heard is try to find
+a study that supports in...
+A really well designed
+study, and this is very hard
+for people who aren't
+scientists to evaluate.
+But so if you're experiencing
+a medical problem,
+or want to consult a doctor,
+that that might be helpful.
+But finding a study where
+a specific probiotic
+has successfully done whatever
+it is you're looking for,
+and then sticking with that probiotic
+is really the best recipe
+as a place to start
+in this space, I think.
+- And what about prebiotics?
+Is there are a number of
+reasons why, I can imagine,
+that prebiotics would be beneficial?
+Which essentially it's, you're
+pushing the fiber system,
+which we've talked a lot about today.
+- Yeah, yeah, absolutely.
+The studies that have
+been done on prebiotics,
+it's really kind of a
+mixed bag of results.
+There have been studies
+done with purified fibers
+where you actually see
+micro biodiversity plummet
+over the course of the study,
+because you get a very specific bloom
+in a small number of
+bacteria that are good
+at using that one type of fiber.
+And that's at the expense
+of all the other microbes
+that are in the gut.
+And so it's really hard to
+replicate with purified fiber
+what you'd get, for
+instance, at a salad bar,
+in terms of the array
+of complex carbohydrates
+that you would be exposing
+your microbiota to.
+And I think the kind of
+broad view of this in the field
+is that consuming a
+broad variety of plants,
+and all the diverse fiber
+that comes with that
+is probably better in fostering diversity
+in your microbiota than purified fibers.
+Now, there are, again,
+a lot of people who benefit
+from purified fibers,
+either for GI motility or for
+other aspects of GI health,
+problems that they've been experiencing.
+Again, I think it's the type of thing
+where you have to try to find the thing
+that's right for you.
+But there also are studies that suggest
+that if you layer rapidly
+fermentable fibers
+on top of a Western diet,
+you actually can result
+in weird metabolism
+happening in your liver,
+because you have this incredibly
+rapid fermentation of fiber
+along with a lot of fat
+coming into the system.
+At least that's the theory.
+And in a mouse study that was
+published a few years ago,
+they actually see that
+a subset of the mice
+develop hepatocellular
+carcinoma when they're fed
+a high dose prebiotic-
+- Liver cancer.
+- Liver cancer, a on
+top of a Western diet.
+So whether that's
+representative of human biology,
+we don't know,
+but purified fibers are
+definitely very different,
+both in terms of the
+diversity of structures,
+but also in terms of how rapidly
+they're fermented in the gut.
+Because if you are eating plants,
+the complex structures there
+really slow the microbes down
+in terms of fermentation, and
+you end up with a slow rate
+of fermentation over the
+length of your colon,
+as opposed to this big burst
+of fermentation that can happen
+if you eat something
+that is highly soluble
+and easily accessed by the microbes.
+- Interesting, so I guess,
+is it fair to come back to this idea?
+Try and avoid processed foods,
+the highly palatable foods,
+they're all sometimes super
+highly palatable foods.
+They're now called,
+that are packed with
+hidden sugars, emulsifiers.
+So it sounds like some fiber is good,
+and despite the outcome of the study,
+you identified that if you have
+the appropriate microbiota background,
+then one will even better to the fiber,
+maybe a longer ramp up
+phase for those folks,
+and then the fermented foods.
+'Cause there's no reason
+why you can't do both.
+And as we've talked about before,
+a lot of fermented foods have fiber.
+So you can kill two birds with one stone.
+- Totally.
+And it could be that the
+diversity increase that we saw
+in the high fermented food
+group could be something
+that would aid the high fiber group.
+And so now we're planning
+another study coming up
+where we're doing high
+fiber, high fermented food,
+and then fiber plus fermented food,
+just to see if there's a
+synergistic effect there.
+- Great, I want to enroll, seriously.
+Although I guess I'm biased,
+'cause I was sort of know
+where you're trying to..
+Well, is it blood draws that you use
+to measure the inflammatome?
+- Exactly, so we do blood draws-
+- [Andrew Huberman] Blood draws don't lie,
+so that's good.
+- Yep, yep, right.
+- So you've covered a tremendous
+amount of information,
+and I'm incredibly grateful.
+This was a area of biology,
+that despite having learned
+a lot about through papers
+and going to talks and
+reading articles in the media
+has remained somewhat
+mysterious to me until today.
+You've given us a very vivid picture
+of how this system works.
+Where can people find out more
+about the work that you're doing?
+We can certainly provide links,
+and your wife who co-run your lab,
+you have a book on this topic.
+So could you tell us about the book,
+where we can learn more
+about Sonnennburg Lab
+and the work that you're doing?
+Maybe people will even try and enroll
+in some of these studies.
+- Yeah, fantastic, yeah.
+It'd be great if we could
+get people to enroll.
+We're always looking for
+willing participants.
+Yeah, so Erica, my wife and I wrote a book
+called "The Good Gut," and
+that really was a response
+to how we were changing our lives
+in response to being in the field,
+being very familiar with the research.
+Seeing that a lot of our friends
+that weren't studying that got microbiome,
+but were very well informed,
+many of them scientists,
+were not doing the same
+things we were doing.
+And it was very clear that it was just
+the lack of information funneling out
+of the field to other people.
+And so we were wanted to make
+that accessible to people
+who are not microbiome scientists.
+There's also a really interesting story.
+We were at a conference site that just has
+scientific conferences all summer long,
+week after week, after
+week, different fields.
+And so it's people that work there
+that are just dealing
+with these new groups
+coming in week after week and the week,
+we were there for a microbiome conference,
+people that work in the dining comments
+came up to us and they said,
+"What group is this? This is weird."
+And we're like, "What's weird?"
+And they said, "We can't
+keep the salad bar stocked."
+And it was very clear
+that nobody was doing
+what we were doing until we'd
+go to a microbiome conference
+and then everybody was
+doing the same stuff
+that we were doing.
+And so anyway, we wrote this book to talk
+about our personal journey
+and the science in the field,
+and yeah, just to lay
+a foundation for people
+if they want to start
+thinking about these changes.
+And then in terms of
+connecting with our research,
+certainly there's the Center
+for Human Microbiome Studies
+at Stanford, which is
+kind of our home base
+for doing a lot of these
+dietary and interventions.
+We list the studies there,
+give more information on what we're doing.
+And then we have a lab website too
+that people can go to and
+read more about our research.
+Yeah, and we're always looking
+for participants for our studies.
+- Great, well, we will provide links
+to all of those sources.
+And I just want to say, thank
+you so much for sharing with us
+your knowledge for the incredible
+work that you and Erica,
+your wife and Chris do,
+and are continuing to do.
+I think this is an area that,
+when I started my training,
+I heard a little bit about microbiota,
+and I always just thought that are people
+that work on infectious
+disease and all the bad stuff.
+So it's interesting and,
+and really important
+that people realize that we're
+carrying all this vital cargo
+and we need to take care of the cargo
+so it can take care of us.
+So thank you so much for your time
+and for the work you do, and
+I hope we can do it again.
+- Thanks Andrew. This
+was a great conversation.
+- Terrific.
+Thank you for joining me
+today for my discussion
+with Dr. Justin Sonnenburg,
+all about the gut microbiome
+and how to optimize your
+gut microbiome for health.
+Please check out the
+Sonnenburg Lab webpage,
+that's Sonnenburg, spelled
+S-O-N-N-E-N-B-U-R-G-L-A-B
+.stanford.edu.
+That's sonnenburglab.stanford.edu.
+They often recruit for studies
+exploring how different
+aspects of nutrition
+impact the got microbiome,
+much as we discussed
+during today's episode.
+Please also check out the
+book that he and his wife,
+Dr. Erica Sonnenburg wrote,
+called "The Good Gut."
+It's readily available
+on all the usual sites,
+such as Amazon and so forth.
+If you're learning from and
+are enjoying this podcast,
+please subscribe to our YouTube channel.
+That's a terrific zero-cost
+way to support us.
+In addition, please
+subscribe to the podcast
+on Apple and Spotify.
+And on Apple, you have the
+opportunity to leave us
+up to a five star review.
+You can also leave a comment
+on Apple, if you like.
+The best place to leave us
+comments and feedback, however,
+is on our YouTube channel
+in the comment section.
+There you can suggest
+topics that you'd like us
+to cover in future episodes,
+guests that you'd like us to interview,
+and give us feedback
+about any of the material
+that you've heard or
+watched on this podcast.
+Please also check out the sponsors
+mentioned at the beginning
+of today's episode,
+that's the best way to
+support this podcast.
+We also have a Patreon, it's
+patreon.com/andrewhuberman,
+and there you can support the podcast
+at any level that you like.
+On many episodes of the
+Huberman Lab Podcast,
+including today, we discuss supplements.
+While supplements are certainly
+not necessary for everybody,
+many people derive
+tremendous benefit from them
+for things like sleep and focus,
+and indeed gut microbiome support.
+The one issue with supplements, however,
+is that many of the
+supplement companies out there
+do not independently
+test their supplements.
+So there isn't tremendous
+confidence in all supplements
+that they contain the
+amounts of the ingredients
+that are listed on the bottle,
+and that the quality of the ingredients
+is where it should be.
+For that reason we've
+partnered with Thorne,
+that's Thorne, T-H-O-R-N-E,
+because Thorne supplements
+are known to have the very
+highest levels of stringency
+with respect to the
+quality of the supplements
+and the amounts of the supplements
+listed on their bottles
+list what's actually in the
+containers, which is essential.
+If you'd like to see the
+Thorne supplements that I take,
+you can go to Thorne, T-H-O-R-N-E,
+.com/u/huberman, and you can get 20% off
+any of the Thorne supplements
+that are listed there.
+Also, if you navigate
+deeper into the Thorne site
+through that portal,
+thorne.com/u/huberman,
+you can also get 20% off
+any of the other supplements
+that Thorne makes.
+If you're not already
+following Huberman Lab
+on Instagram and Twitter, please do so.
+There I cover topics about
+science and science-based tools,
+some of which overlap with
+the content of this podcast,
+much of which is separate and unique
+from the content of this podcast.
+We also have a newsletter,
+it is called The Neural
+Network Newsletter.
+Once a month, we put out short summaries
+of podcast episodes and key takeaways,
+actionable takeaways in particular.
+You can sign up for that by
+going to hubermanlab.com.
+You can look in the menu,
+look for Neural Network Newsletter.
+You can download previous
+newsletters to take a look
+at what those are like and
+about even before signing up.
+If you subscribe,
+we don't share your
+information with anybody.
+The privacy policy is made
+very clear at hubermanlab.com.
+So thank you once again for joining me
+for today's discussion
+about the gut microbiome,
+and last, but certainly not least,
+thank you for your interest in science.
+[upbeat music]
